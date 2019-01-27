@@ -21,6 +21,10 @@
     letter-spacing: .5px;
   }
 
+  p {
+    font-family: $sans-serif;
+  }
+
   &-title {
     color: $default-shade;
     display: block;
