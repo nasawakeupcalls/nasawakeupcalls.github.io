@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "About"
 author: "NASA: Music to wake up by"
 permalink: /about/
