@@ -1,5 +1,5 @@
 # Site settings
-title:          NASA Wakeup Calls
+title:          ✧ Music To Wake Up By
 description:    "NASA's music to wakeup by turned into data"
 url:            "https://nasawakeupcalls.github.io"
 
@@ -9,8 +9,8 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Ross Spencer
-  url:          http://exponentialdecay.co.uk
-  email:        all.along.the.watchtower2001+nasa@gmail.com
+  url:          "http://exponentialdecay.co.uk"
+  email:        "all.along.the.watchtower2001+nasa@gmail.com"
 
 # Build settings
 markdown:       kramdown
@@ -27,7 +27,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jemoji
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
