@@ -5,47 +5,61 @@ author: NASA: Music to wake up by
 permalink: /about/
 ---
 
-I don't remember how I discovered the original [NASA Wake Up calls](https://web.archive.org/web/20170724074739/https://history.nasa.gov/wakeup%20calls.pdf)
+I don't remember how I discovered the original
+[NASA Wake Up calls](https://web.archive.org/web/20170724074739/https://history.nasa.gov/wakeup%20calls.pdf)
 history compiled by Colin Fries in the NASA history division. But! I did know
-they were a 'thing'. A memory of a movie set in space maybe? Someone famous
-singing to a crew bound to go down in history... a Bruce Willis type? Sandra
-Bullock? Tom Hanks? The singer/songwriter on the ground someone equally famous,
-a Beatle? A Rolling Stone? A Beyonce? It may have just been something I read in
-the [Right Stuff](https://en.wikipedia.org/wiki/The_Right_Stuff_(book) once.
+the wake-uo call was a 'thing'.
 
-The surprise really was in finding it! A history so comprehensive, incomplete,
-but more complete than anything that could possibly be imagined.
+A memory of a movie set in space maybe? Someone famous singing to a crew bound
+to go into history... a Bruce Willis type? Sandra Bullock? Tom Hanks?
+The singer/songwriter on the ground someone equally famous: a Beatle? A Rolling
+Stone? A Beyonce? It may just have been something I read in the
+[Right Stuff](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)) once.
 
-A history so lovingly put together across as many missions and programs as
-information could be discovered for. Describing the first ever song that could
-be traced, to Paul McCartney playing 14 minutes for the crew of
-[STS-121](https://en.wikipedia.org/wiki/STS-121).
+The surprise to me was finding this record. A history, incomplete, yet so
+comprehensive, more so than anything out there that we could possibly imagine.
+
+The history, to my eyes, is lovingly put together. It covers as many missions
+and programs as information could be gleamed for. Those who want to play along
+at home can find NASA's links to mission pages, or video of that
+[streamed](https://www.youtube.com/watch?v=zfGLEjsWZd0) at the time. The
+chronology discusses the first ever song that could be found
+[Hello Dolly](https://www.youtube.com/watch?v=l7N2wssse14). And goes right up
+to Paul McCartney playing live for 14 minutes for the crew of
+[STS-1](https://en.wikipedia.org/wiki/STS-121); and beyond into the cold
+Martian mornings where the tradition continued for the Spirit and Opportunity
+Rovers.
 
 The only thing is, all of this rich history, and its beautiful narrative was
-locked up. Locked up in a PDF file. Okay, so I know there's a version out there
-on the NASA servers written in Word 2013 (I work in digital forensics after
-all!) but it's not 'data'. Data which is easy to update (+1 for the NASA
-history division), data which is easy to remix (+1 for all of y'all out there
-looking at this site and its links.)
+locked up. Locked up in a PDF file. I know there's a version out there on the
+NASA servers written in Word 2013 but it's not 'data'. Data that is easy to
+update might be a **+1** for the NASA history division). Data that is easy to
+remix is a **+1** for all of y'all out there looking at this site and its
+links and imagining the possibilities of doing cool things  with it.
 
-And as a fan of music, a digital preservation expert, an MA in digital
-humanities nd a fan of Space, and NASA, I fell in love with this small (6000+)
-line document the moment I saw it.
+As a fan of music, a digital preservation expert, an MA in digital humanities
+and a fan of Space, and NASA, I fell in love with this small 89-page document
+the moment I saw it.
 
 I have turned it into data in the hope that y'all can turn it into something
 more, or even, just to unlock more gems of information from it than maybe
-currently possible.
+currently possible. I have found so many lovely gems of information while
+producing this 'data-edit'.
 
-How many times was Bruce Springsteen or Paul Simon played out there in outer-
-space? What was the last piece of music played on the last Apollo mission?
+How many times was Bruce Springsteen or Talking Heads played out there in
+outer-space? What was the last piece of music played on the last Apollo
+mission? Was the [Reveille](https://www.youtube.com/watch?v=_peXjzFQ2_c) bugle
+call the most played song in the last 54 years?
 
-What do all of these songs sound like played back-to-back?
+Most importantly! (to me!) What do all of these songs sound like played
+back-to-back? (I am working on that!)
 
-I also turned it into data so that maybe even NASA can pick this back up and
-make it even more complete one day with more missions.
+I also turned it into data so that maybe even [NASA](https://github.com/nasa)
+can pick this up and make it even more complete one-day, with even more
+missions.
 
-Thank you NASA. Thank you Colin Fries. Please enjoy the output of a few good
-weekends hacking away to remix this into something new.
+Thank you *NASA*. Thank you so much **Colin Fries**. Please enjoy the output of
+a this remix.
 
 # Introduction, by Colin Fries
 
@@ -105,7 +119,7 @@ nor allowed outside interests to influence the process.
 From a letter from **Lynn W. Heninger**, Acting Assistant Administrator for
 Congressional Relations to Congressman Robert H. Michel - *January 9, 1990*
 
-# CAPCOM vs. Manilow...
+### CAPCOM vs. Manilow...
 
 Aboard the space shuttle Discovery, astronaut Steve Robinson once used a
 50-foot Japanese robotic arm to snare a four-ton satellite. But Robinson's
