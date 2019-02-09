@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-author: "NASA: Music to wake up by"
+author: "NASA: Music to Wake Up By"
 permalink: /about/
 ---
 
@@ -26,16 +26,16 @@ at home can find NASA's links to mission pages, or video of that
 chronology discusses the first ever song that could be found
 [Hello Dolly](https://www.youtube.com/watch?v=l7N2wssse14). And goes right up
 to Paul McCartney playing live for 14 minutes for the crew of
-[STS-1](https://en.wikipedia.org/wiki/STS-121); and beyond into the cold
+[STS-121](https://en.wikipedia.org/wiki/STS-121); and beyond into the cold
 Martian mornings where the tradition continued for the Spirit and Opportunity
 Rovers.
 
 The only thing is, all of this rich history, and its beautiful narrative was
 locked up. Locked up in a PDF file. I know there's a version out there on the
 NASA servers written in Word 2013 but it's not 'data'. Data that is easy to
-update might be a **+1** for the NASA history division). Data that is easy to
-remix is a **+1** for all of y'all out there looking at this site and its
-links and imagining the possibilities of doing cool things  with it.
+update might be a **+1** for the NASA history division. Data that is easy to
+remix is a **+1** for everyone out there looking at this site and its
+links and imagining the possibilities of doing neat things with it.
 
 As a fan of [music](https://open.spotify.com/user/goatslayer), a digital
 preservation flâneur, an MA in digital humanities and a fan of Space, and NASA,
@@ -43,7 +43,7 @@ I fell in love with this small 89-page document the moment I saw it.
 
 I have turned it into data in the hope that y'all can turn it into something
 more, or even, just to unlock more gems of information from it than maybe
-currently possible. I have found so many lovely gems of information while
+was possible before. I have found so many lovely bits of information while
 producing this 'data-edit'.
 
 How many times was Bruce Springsteen or Talking Heads played out there in
