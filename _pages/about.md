@@ -31,7 +31,7 @@ Martian mornings where the tradition continued for the Spirit and Opportunity
 Rovers.
 
 The only thing is, all of this rich history, and its beautiful narrative was
-locked up. Locked up in a PDF file. I know there's a version out there on the
+locked up in a PDF file. I know there's a version out there on the
 NASA servers written in Word 2013 but it's not 'data'. Data that is easy to
 update might be a **+1** for the NASA history division. Data that is easy to
 remix is a **+1** for everyone out there looking at this site and its
