@@ -4,9 +4,7 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS OPPORTUNITY
 ----
-<br/>
 ### DATE: February 28, 2004
 ----
 I Feel The Earth Move by Carole King.

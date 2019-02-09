@@ -4,9 +4,7 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS SPIRIT
 ----
-<br/>
 ### DATE: February 06, 2004
 ----
 Back In the Saddle Again, by Gene Autry,

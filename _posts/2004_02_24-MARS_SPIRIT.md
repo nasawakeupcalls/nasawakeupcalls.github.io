@@ -4,9 +4,7 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS SPIRIT
 ----
-<br/>
 ### DATE: February 24, 2004
 ----
 Samba De Marte, by Beth Carvalho.

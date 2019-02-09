@@ -4,9 +4,7 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS OPPORTUNITY
 ----
-<br/>
 ### DATE: January 10, 2004
 ----
 Lookin' Out My Back Door, by Creedence Clearwater

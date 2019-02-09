@@ -4,9 +4,7 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS SPIRIT
 ----
-<br/>
 ### DATE: January 15, 2004
 ----
 I Get Around, by the Beach Boys

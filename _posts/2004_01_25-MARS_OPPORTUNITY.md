@@ -4,9 +4,7 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS OPPORTUNITY
 ----
-<br/>
 ### DATE: January 25, 2004
 ----
 Send Me On My Way, by Rusted Root

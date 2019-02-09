@@ -4,9 +4,7 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS SPIRIT
 ----
-<br/>
 ### DATE: February 23, 2004
 ----
 Coisinha Do Pai, by Beth Carvalho.

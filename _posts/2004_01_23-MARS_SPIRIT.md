@@ -4,9 +4,7 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS SPIRIT
 ----
-<br/>
 ### DATE: January 23, 2004
 ----
 S.O.S., by Abba.

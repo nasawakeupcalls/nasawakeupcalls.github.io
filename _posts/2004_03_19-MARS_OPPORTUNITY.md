@@ -4,9 +4,7 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS OPPORTUNITY
 ----
-<br/>
 ### DATE: March 19, 2004
 ----
 Let the Good Times Roll by B.B. King

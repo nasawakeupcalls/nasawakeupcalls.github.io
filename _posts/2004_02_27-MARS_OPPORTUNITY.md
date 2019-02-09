@@ -4,9 +4,7 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS OPPORTUNITY
 ----
-<br/>
 ### DATE: February 27, 2004
 ----
 Ice Cream Man by John Brim

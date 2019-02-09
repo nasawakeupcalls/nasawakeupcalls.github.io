@@ -4,9 +4,7 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS PATHFINDER
 ----
-<br/>
 ### DATE: July 08, 1997
 ----
 The Final Frontier (Theme from Mad About You) by Paul Reiser, Don Was

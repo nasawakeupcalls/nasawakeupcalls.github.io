@@ -4,9 +4,7 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 ---
 
-# MARS OPPORTUNITY
 ----
-<br/>
 ### DATE: March 05, 2004
 ----
 The Circle of Life by Elton John in honor of the Lion King panorama.
