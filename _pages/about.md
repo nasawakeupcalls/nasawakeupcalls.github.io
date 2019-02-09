@@ -63,7 +63,7 @@ a this remix.
 
 # Introduction, by Colin Fries
 
-*(From the original 89 page history [CHRONOLOGY OF WAKEUP CALLS (2015)](https://web.archive.org/web/20170724074739/https://history.nasa.gov)*
+*(From the original 89 page history [CHRONOLOGY OF WAKEUP CALLS (2015)](https://web.archive.org/web/20170717230205/https://history.nasa.gov/wakeup%20calls.pdf)*
 
 The idea for the Wakeup Call chronology arose as a result of my dual interests
 in the history of music and the space program.
