@@ -4,7 +4,7 @@ description:    "NASA's music to wakeup by turned into data"
 url:            "https://nasawakeupcalls.github.io"
 
 # Google Analytics.
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-134142010-1
 
 # Author
 author:
@@ -30,7 +30,7 @@ plugins:
 
 # Permalinks.
 permalink:      /:year-:month-:day/:title
-paginate:       10
+paginate:       5
 
 # Excludes.
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
