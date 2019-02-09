@@ -1,5 +1,16 @@
 <footer>
   <span>
-    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> <a href="https://github.com/ross-spencer" alt="Ross Spencer's Github">{{ site.author.name }}</a>. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+  <br/>
+{% if site.twitter_username %}
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i>
+    </a>
+{% endif %}
+{% if site.github_link %}
+    <a href="https://github.com/{{ site.github_link }}">
+      <i class="fa fa-github"></i>
+    </a>
+{% endif %}
   </span>
 </footer>

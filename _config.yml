@@ -1,9 +1,9 @@
-# Site settings
+# Site settings.
 title:          ✧ Music To Wake Up By
 description:    "NASA's music to wakeup by turned into data"
 url:            "https://nasawakeupcalls.github.io"
 
-# Google Analytics
+# Google Analytics.
 google_analytics: UA—XXXXXXXX-X
 
 # Author
@@ -12,25 +12,29 @@ author:
   url:          "http://exponentialdecay.co.uk"
   email:        "all.along.the.watchtower2001+nasa@gmail.com"
 
-# Build settings
+# Build settings.
 markdown:       kramdown
 include:
   - _pages
 
-# Assets
+# Assets.
 sass:
   sass_dir:     _sass
   style:        compressed
 
-# Gems
+# Gems.
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
 
-# Permalinks
+# Permalinks.
 permalink:      /:year-:month-:day/:title
 paginate:       10
 
-# Excludes
+# Excludes.
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Social media.
+github_link: nasawakeupcalls/nasawakeupcalls.github.io
+twitter_username: beet_keeper
