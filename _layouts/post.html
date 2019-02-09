@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#10510;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#10511;</a>
+  {% endif %}
+</div>
+
 <div class="post">
   <div class="post-info">
     <span>Written by</span>
@@ -25,12 +34,5 @@ layout: default
 </div>
 
 <div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
-
   <a href="#" class="top">Top</a>
 </div>

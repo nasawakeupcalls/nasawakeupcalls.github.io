@@ -26,6 +26,22 @@
     @include transition(all .3s ease-out);
     color: $default-color;
     position: absolute;
+    font-size: 5rem;
+    font-weight: bolder;
+
+    &:hover,
+    &:focus {
+      opacity: .6;
+      text-decoration: none;
+    }
+  }
+
+  .home {
+    @include transition(all .3s ease-out);
+    color: $default-color;
+    position: absolute;
+    font-size: 2rem;
+    font-weight: bolder;
 
     &:hover,
     &:focus {
