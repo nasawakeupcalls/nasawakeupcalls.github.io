@@ -38,3 +38,4 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 # Social media.
 github_link: nasawakeupcalls
 twitter_username: beet_keeper
+wordpress_link: http://exponentialdecay.co.uk/blog
