@@ -37,9 +37,9 @@ update might be a **+1** for the NASA history division). Data that is easy to
 remix is a **+1** for all of y'all out there looking at this site and its
 links and imagining the possibilities of doing cool things  with it.
 
-As a fan of music, a digital preservation expert, an MA in digital humanities
-and a fan of Space, and NASA, I fell in love with this small 89-page document
-the moment I saw it.
+As a fan of [music](https://open.spotify.com/user/goatslayer), a digital
+preservation flâneur, an MA in digital humanities and a fan of Space, and NASA,
+I fell in love with this small 89-page document the moment I saw it.
 
 I have turned it into data in the hope that y'all can turn it into something
 more, or even, just to unlock more gems of information from it than maybe
