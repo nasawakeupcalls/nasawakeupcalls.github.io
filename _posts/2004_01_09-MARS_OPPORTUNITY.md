@@ -7,7 +7,8 @@ author: "NASA: Music to Wake Up By"
 ----
 ### DATE: January 09, 2004
 ----
-Stand, by REM; I'm Still Standing, by Elton John
+Stand by REM
+I'm Still Standing by Elton John
 
 ##### Comment:
-* Standup.
+* No mission comment

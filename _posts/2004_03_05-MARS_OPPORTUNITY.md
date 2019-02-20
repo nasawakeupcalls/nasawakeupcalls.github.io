@@ -7,7 +7,7 @@ author: "NASA: Music to Wake Up By"
 ----
 ### DATE: March 05, 2004
 ----
-The Circle of Life by Elton John in honor of the Lion King panorama.
+The Circle of Life by Elton John
 
 ##### Comment:
-* No mission comment
+*  in honor of the Lion King panorama
