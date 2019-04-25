@@ -7,8 +7,7 @@ author: "NASA: Music to Wake Up By"
 ----
 ### DATE: February 18, 2004
 ----
-Try (Just a Little Bit Harder) by Janis Joplin
-X-ray Eyes by Kiss
+Try (Just a Little Bit Harder) by Janis Joplin<br />X-ray Eyes by Kiss
 
 ##### Comment:
 * for the rock abrasion tool's second attempt at Mojo 2,

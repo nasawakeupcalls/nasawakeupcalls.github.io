@@ -7,9 +7,7 @@ author: "NASA: Music to Wake Up By"
 ----
 ### DATE: April 16, 2004
 ----
-Morning has Broken by Cat Stevens
-Hallelujah Chorus from George Frederic Handel's Messiah by Handel
-Dazed and Confused by Led Zeppelin.
+Morning has Broken by Cat Stevens<br />Hallelujah Chorus from George Frederic Handel's Messiah by Handel<br />Dazed and Confused by Led Zeppelin.
 
 ##### Comment:
 * No mission comment
