@@ -7,7 +7,7 @@ author: "NASA: Music to Wake Up By"
 ----
 ### DATE: February 01, 2004
 ----
-I am a Rock, by Simon and Garfunkel
+I am a Rock, by Simon & Garfunkel
 
 ##### Comment:
 * El Capitan target assessment.

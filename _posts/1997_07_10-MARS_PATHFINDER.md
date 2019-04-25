@@ -10,4 +10,4 @@ author: "NASA: Music to Wake Up By"
 In the Mood by Glenn Miller
 
 ##### Comment:
-* (with live accompaniment by Chief Engineer Rob Manning)
+* With live accompaniment by Chief Engineer Rob ManningW
