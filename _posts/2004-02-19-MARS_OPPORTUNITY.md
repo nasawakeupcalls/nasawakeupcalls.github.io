@@ -7,7 +7,7 @@ author: "NASA: Music to Wake Up By"
 ----
 ### DATE: February 19, 2004
 ----
-Eclipse by Pink Floyd<br />Meet Me Halfway by Kenny Loggins
+✫ Eclipse by Pink Floyd  &nbsp;<br />✷ Meet Me Halfway by Kenny Loggins
 
 ##### Comment:
 * in recognition of the transit of the martian moon, Phobos.
