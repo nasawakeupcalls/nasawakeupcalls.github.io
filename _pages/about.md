@@ -6,9 +6,8 @@ permalink: /about/
 ---
 
 I don't remember how I discovered the original
-[NASA Wake Up calls](https://web.archive.org/web/20170724074739/https://history.nasa.gov/wakeup%20calls.pdf)
-history compiled by Colin Fries in the NASA history division. But! I did know
-the wake-up call was a 'thing'.
+[NASA Wake Up calls][about-1] history compiled by Colin Fries in the NASA
+history division. But! I did know the wake-up call was a 'thing'.
 
 A memory of a movie set in space maybe? Someone famous singing to a crew bound
 to go into history... a Bruce Willis type? Sandra Bullock? Tom Hanks?
@@ -63,7 +62,8 @@ a this remix.
 
 # Introduction, by Colin Fries
 
-*(From the original 89 page history [CHRONOLOGY OF WAKEUP CALLS (2015)](https://web.archive.org/web/20170717230205/https://history.nasa.gov/wakeup%20calls.pdf)*
+*(From the original 89 page history
+[CHRONOLOGY OF WAKEUP CALLS (2015)][about-2]*
 
 The idea for the Wakeup Call chronology arose as a result of my dual interests
 in the history of music and the space program.
@@ -207,3 +207,6 @@ Manilow couldn't possibly sound any better.
 
 **What do astronauts listen to in outer space? Details tracks the sounds of the
 final frontier Details**, *January 2000* By Steve Knopper
+
+[about-1]: https://web.archive.org/web/20170724074739/https://history.nasa.gov/wakeup%20calls.pdf
+[about-2]: https://web.archive.org/web/20170717230205/https://history.nasa.gov/wakeup%20calls.pdf
