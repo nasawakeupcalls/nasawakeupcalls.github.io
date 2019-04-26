@@ -69,3 +69,44 @@ td {
 ul {
   font-family: $sans-serif;
 }
+
+
+/*
+    Search Box: Style provided by w3schools.
+    Link: https://www.w3schools.com/howto/howto_css_search_button.asp
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+form.search input[type=text] {
+  font-family: $sans-serif;
+  padding: 10px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #fff;
+}
+
+form.search button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #1d1d21;
+  color: white;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.search button:hover {
+  color: yellow;
+}
+
+
+form.search::after {
+  content: "";
+  clear: both;
+  display: table;
+}

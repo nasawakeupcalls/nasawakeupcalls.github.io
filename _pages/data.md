@@ -1,21 +1,26 @@
 ---
-layout: page
+layout: general
 title: "Data"
 author: "NASA: Music to wake up by"
 permalink: /data/
 ---
 
-The data for this project is available at [nasawakeupcalls.data](https://github.com/nasawakeupcalls/nasawakeupcalls.data).
+The data for this project is available at [nasawakeupcalls.data][data-1].
 
-### Search
+[data-1]: https://github.com/nasawakeupcalls/nasawakeupcalls.data
 
-A great way to search this dataset is to use the [CSV](https://github.com/nasawakeupcalls/nasawakeupcalls.data/blob/master/nasawakeupcalls.csv)
-search mechanism built-into Github.
+### CSV
+
+One way to explore this dataset is to use the [CSV][data-2] search mechanism
+built-into Github.
+
+[data-2]: https://github.com/nasawakeupcalls/nasawakeupcalls.data/blob/master/nasawakeupcalls.csv
 
 ### JSON
 
-The [JSON](https://github.com/nasawakeupcalls/nasawakeupcalls.data/blob/master/nasawakeupcalls.json)
-output is used to build the site as well as output the CSV.
+The [JSON][data-3] output is used to build the site as well as output the CSV.
+
+[data-3]: https://github.com/nasawakeupcalls/nasawakeupcalls.data/blob/master/nasawakeupcalls.json
 
 ### Contibuting
 
@@ -29,7 +34,9 @@ It would be great to:
 referenced in text, provide a complete song-name and context.
 * Develop some archiving practices around the NASA websites that still exist,
 for example there is a lot of mutimedia out there from the missions themselves,
-e.g. [STS-108](https://spaceflight.nasa.gov/gallery/audio/shuttle/sts-108/html/ndxpage1.html)
+e.g. [STS-108][data-4]
+
+[data-4]: https://spaceflight.nasa.gov/gallery/audio/shuttle/sts-108/html/ndxpage1.html
 
 ### Creating
 
