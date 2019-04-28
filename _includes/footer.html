@@ -1,6 +1,15 @@
 <footer>
   <span>
-    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> <a href="https://github.com/ross-spencer" alt="Ross Spencer's Github">{{ site.author.name }}</a>. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time>
+    <a href="{{ site.author.url }}" alt="{{ site.author.alt }}">
+    {{ site.author.name }}
+  </a> &nbsp; ✫ &nbsp;
+    Original Chronology by
+    <a href="{{ site.credits.url}}" alt="{{ site.credits.alt }}">
+    {{site.credits.name}}
+    </a>.
+  <br />
+    Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
   <br/>
 {% if site.twitter_username %}
     <a href="https://twitter.com/{{ site.twitter_username }}">

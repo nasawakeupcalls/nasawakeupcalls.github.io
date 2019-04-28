@@ -2,6 +2,7 @@
 layout: page
 title: "About"
 author: "NASA: Music to Wake Up By"
+type: AboutPage
 permalink: /about/
 ---
 
@@ -210,3 +211,14 @@ final frontier Details**, *January 2000* By Steve Knopper
 
 [about-1]: https://web.archive.org/web/20170724074739/https://history.nasa.gov/wakeup%20calls.pdf
 [about-2]: https://web.archive.org/web/20170717230205/https://history.nasa.gov/wakeup%20calls.pdf
+
+--
+
+The [NASA History Division][about-3] list the following details for more
+information about the original chronology:
+
+* Website: [https://history.nasa.gov/wakeup.htm][about-4]
+* Email: [hq-histinfo@nasa.gov](mailto:hq-histinfo@nasa.gov)
+
+[about-3]: https://history.nasa.gov/
+[about-4]: https://history.nasa.gov/wakeup.htm

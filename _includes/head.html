@@ -2,6 +2,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <meta content="text/html; charset=UTF-8" name="Content-Type" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@beet_keeper" />
+  <meta name="twitter:creator" content="@beet_keeper" />
+  <meta property="og:url" content="{%if site.url %}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
+  <meta property="og:title" content="{%if site.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:image" content="https://avatars1.githubusercontent.com/u/33854832?s=200&v=4" />
+  <meta property="twitter:image" content="https://avatars1.githubusercontent.com/u/33854832?s=200&v=4" />
+
   {% seo %}
 
   <!-- CSS -->

@@ -2,6 +2,7 @@
 layout: general
 title: "Data"
 author: "NASA: Music to wake up by"
+type: Dataset
 permalink: /data/
 ---
 

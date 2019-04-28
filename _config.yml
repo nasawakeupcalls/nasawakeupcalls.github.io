@@ -1,7 +1,8 @@
 # Site settings.
 title:          ✧ Music To Wake Up By
-description:    "NASA's music to wakeup by turned into data"
+description:    "NASA Wakeup Calls: Music to Wakeup By, turned into data"
 url:            "https://nasawakeupcalls.github.io"
+type:           "Dataset"
 
 # Google Analytics.
 google_analytics: UA-134142010-1
@@ -9,8 +10,15 @@ google_analytics: UA-134142010-1
 # Author
 author:
   name:         Ross Spencer
-  url:          "http://exponentialdecay.co.uk"
+  url:          "https://github.com/ross-spencer"
+  alt:          "Ross Spencer's GitHub"
   email:        "all.along.the.watchtower2001+nasa@gmail.com"
+
+credits:
+  name:         Colin Fries, NASA History Division
+  url:          "/about"
+  alt:          "About this site and its history"
+  email:
 
 # Build settings.
 markdown:       kramdown
