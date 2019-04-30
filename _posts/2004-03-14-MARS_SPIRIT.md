@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 69
 ----
 ### DATE: March 14, 2004
 ----
-✧ Watching the Wheels by John Lennon.
+✦ Watching the Wheels by John Lennon.
 
-##### Comment:
+#### Comment:
 * No mission comment

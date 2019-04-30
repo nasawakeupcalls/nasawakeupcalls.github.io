@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 54
 ----
 ### DATE: February 28, 2004
 ----
-✦ I Feel The Earth Move by Carole King
+✧ I Feel The Earth Move by Carole King
 
-##### Comment:
+#### Comment:
 * No mission comment

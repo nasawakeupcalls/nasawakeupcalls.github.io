@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 9
 ----
 ### DATE: January 13, 2004
 ----
-✦ I Can See Clearly Now by Jimmy Cliff
+✺ I Can See Clearly Now by Jimmy Cliff
 
-##### Comment:
+#### Comment:
 * Picture taking sol.

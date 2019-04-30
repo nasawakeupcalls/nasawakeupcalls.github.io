@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 17
 ----
 ### DATE: January 21, 2004
 ----
-✫ Wake Me Up, by Wham
+✷ Wake Me Up, by Wham
 
-##### Comment:
+#### Comment:
 * Touch and go.

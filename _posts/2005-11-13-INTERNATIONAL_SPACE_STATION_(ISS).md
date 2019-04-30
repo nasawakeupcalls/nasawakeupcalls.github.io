@@ -9,7 +9,7 @@ date_modified: 2005-11-13
 ----
 ### DATE: November 13, 2005
 ----
-✺ Good Day Sunshine by Paul McCartney  &nbsp;<br />✵ English Tea by Paul McCartney
+⊹ Good Day Sunshine by Paul McCartney  &nbsp;<br />✵ English Tea by Paul McCartney
 
-##### Comment:
+#### Comment:
 * No mission comment

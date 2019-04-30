@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 41
 ----
 ### DATE: February 15, 2004
 ----
-✫ On the Road Again by Willie Nelson
+✷ On the Road Again by Willie Nelson
 
-##### Comment:
+#### Comment:
 * No mission comment

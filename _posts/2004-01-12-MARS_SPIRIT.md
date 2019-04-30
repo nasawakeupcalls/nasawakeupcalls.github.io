@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 8
 ----
 ### DATE: January 12, 2004
 ----
-✷ Soak Up the Sun by Cheryl Crow
+✦ Soak Up the Sun by Cheryl Crow
 
-##### Comment:
+#### Comment:
 * Laid-back sol.

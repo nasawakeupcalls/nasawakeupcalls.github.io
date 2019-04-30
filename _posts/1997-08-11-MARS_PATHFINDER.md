@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 37
 ----
 ### DATE: August 11, 1997
 ----
-✷ Where the Streets Have No Name by U2
+✧ Where the Streets Have No Name by U2
 
-##### Comment:
+#### Comment:
 * No mission comment

@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 17
 ----
 ### DATE: January 21, 2004
 ----
-✫ We Will Rock You by Queen
+✷ We Will Rock You by Queen
 
-##### Comment:
+#### Comment:
 * First arm activities and observations on a rock.

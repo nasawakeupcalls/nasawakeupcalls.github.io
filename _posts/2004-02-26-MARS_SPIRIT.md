@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 52
 ----
 ### DATE: February 26, 2004
 ----
-✵ Cold as Ice by Foreigner
+✫ Cold as Ice by Foreigner
 
-##### Comment:
+#### Comment:
 * No mission comment

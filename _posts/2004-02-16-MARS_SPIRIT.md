@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 42
 ----
 ### DATE: February 16, 2004
 ----
-⊹ Lift Up Every Stone by John Hiatt
+✦ Lift Up Every Stone by John Hiatt
 
-##### Comment:
+#### Comment:
 * Observations of the rock Mimi.

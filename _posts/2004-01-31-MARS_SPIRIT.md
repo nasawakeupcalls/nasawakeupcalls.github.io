@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 27
 ----
 ### DATE: January 31, 2004
 ----
-✦ Anticipation by Carly Simon
+✵ Anticipation by Carly Simon
 
-##### Comment:
+#### Comment:
 * Seeing if the file deletes will do the trick or not. They did.

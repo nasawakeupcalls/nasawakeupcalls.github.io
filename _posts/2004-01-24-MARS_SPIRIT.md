@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 20
 ----
 ### DATE: January 24, 2004
 ----
-✧ Baby, Talk to Me, from the musical Bye Bye Birdie by UNKNOWN
+✦ Baby, Talk to Me, from the musical Bye Bye Birdie by UNKNOWN
 
-##### Comment:
+#### Comment:
 * (Objective was to get Spirit to send data. She did.

@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 28
 ----
 ### DATE: August 01, 1997
 ----
-⊹ Long Distance by The Kinks
+✦ Long Distance by The Kinks
 
-##### Comment:
+#### Comment:
 * No mission comment

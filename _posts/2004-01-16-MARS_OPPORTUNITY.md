@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 12
 ----
 ### DATE: January 16, 2004
 ----
-✫ I'm Leaving Here, by Motorhead
+✵ I'm Leaving Here, by Motorhead
 
-##### Comment:
+#### Comment:
 * First drive since egress.

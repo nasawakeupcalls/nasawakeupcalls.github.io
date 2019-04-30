@@ -11,5 +11,5 @@ date_modified: 2004-01-04:Sol 6
 ----
 ✺ Get Up, Stand Up by Bob Marley
 
-##### Comment:
+#### Comment:
 * Lift mechanism actuated.

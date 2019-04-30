@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 62
 ----
 ### DATE: March 07, 2004
 ----
-✷ My First Trip to Mars, by Atticus Fault
+✫ My First Trip to Mars, by Atticus Fault
 
-##### Comment:
+#### Comment:
 * No mission comment

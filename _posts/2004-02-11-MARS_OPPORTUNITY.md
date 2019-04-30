@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 37
 ----
 ### DATE: February 11, 2004
 ----
-⊹ Let's Go by The Cars
+✫ Let's Go by The Cars
 
-##### Comment:
+#### Comment:
 * No mission comment

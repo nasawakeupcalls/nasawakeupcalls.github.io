@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 14
 ----
 ### DATE: January 18, 2004
 ----
-✧ You've Got The Magic Touch by The Platters
+✫ You've Got The Magic Touch by The Platters
 
-##### Comment:
+#### Comment:
 * Touching robotic arm down on Mars.

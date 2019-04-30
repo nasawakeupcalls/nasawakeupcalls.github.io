@@ -9,7 +9,7 @@ date_modified: 1975-07-16
 ----
 ### DATE: July 16, 1975
 ----
-✧ Good Morning Sunshine by Chicago
+⊹ Good Morning Sunshine by Chicago
 
-##### Comment:
+#### Comment:
 * No mission comment

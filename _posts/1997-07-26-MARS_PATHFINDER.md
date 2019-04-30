@@ -11,5 +11,5 @@ date_modified: 1997-07-04:Sol 22
 ----
 ✺ Wild, Wild Life by Talking Heads
 
-##### Comment:
+#### Comment:
 * No mission comment

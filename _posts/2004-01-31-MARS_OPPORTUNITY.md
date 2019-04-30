@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 27
 ----
 ### DATE: January 31, 2004
 ----
-✫ Touch and Go, by Emerson, Lake and Powell
+✷ Touch and Go, by Emerson, Lake and Powell
 
-##### Comment:
+#### Comment:
 * Touch and go.

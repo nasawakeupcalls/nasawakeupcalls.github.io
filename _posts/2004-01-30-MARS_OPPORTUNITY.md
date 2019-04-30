@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 26
 ----
 ### DATE: January 30, 2004
 ----
-✧ Body Movin', by Beastie Boys
+✫ Body Movin', by Beastie Boys
 
-##### Comment:
+#### Comment:
 * Every rover part exercised.

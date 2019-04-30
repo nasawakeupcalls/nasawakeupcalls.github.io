@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 24
 ----
 ### DATE: July 28, 1997
 ----
-✧ Radar Love by Golden Earring
+✺ Radar Love by Golden Earring
 
-##### Comment:
+#### Comment:
 * No mission comment

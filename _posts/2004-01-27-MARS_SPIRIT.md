@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 23
 ----
 ### DATE: January 27, 2004
 ----
-✷ Start Me Up by The Rolling Stones
+✺ Start Me Up by The Rolling Stones
 
-##### Comment:
+#### Comment:
 * Booting in crippled mode.

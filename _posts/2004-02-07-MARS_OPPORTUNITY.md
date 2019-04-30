@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 34
 ----
 ### DATE: February 07, 2004
 ----
-✫ Dig In by Lenny Kravitz
+✺ Dig In by Lenny Kravitz
 
-##### Comment:
+#### Comment:
 * No mission comment

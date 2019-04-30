@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 6
 ----
 ### DATE: July 10, 1997
 ----
-✫ In the Mood by Glenn Miller
+✺ In the Mood by Glenn Miller
 
-##### Comment:
+#### Comment:
 * With live accompaniment by Chief Engineer Rob ManningW

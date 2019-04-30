@@ -9,7 +9,7 @@ date_modified: 1975-07-18
 ----
 ### DATE: July 18, 1975
 ----
-✧ Midnight in Moscow by UNKNOWN
+✵ Midnight in Moscow by UNKNOWN
 
-##### Comment:
+#### Comment:
 * No mission comment

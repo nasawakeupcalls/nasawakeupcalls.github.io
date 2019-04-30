@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 57
 ----
 ### DATE: March 02, 2004
 ----
-✷ If You Don't Get it the First Time, Back Up and Try it Again by Fred Wesley & The JB's
+✦ If You Don't Get it the First Time, Back Up and Try it Again by Fred Wesley & The JB's
 
-##### Comment:
+#### Comment:
 * No mission comment

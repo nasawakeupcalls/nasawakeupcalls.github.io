@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 17
 ----
 ### DATE: July 21, 1997
 ----
-✦ Roll to Me by Del Amitri
+✫ Roll to Me by Del Amitri
 
-##### Comment:
+#### Comment:
 * No mission comment

@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 21
 ----
 ### DATE: July 25, 1997
 ----
-✷ Ride of the Valkyries by Richard Wagner
+✺ Ride of the Valkyries by Richard Wagner
 
-##### Comment:
+#### Comment:
 * No mission comment

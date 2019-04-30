@@ -9,7 +9,7 @@ date_modified: 1975-07-20
 ----
 ### DATE: July 20, 1975
 ----
-✺ Tenderness by Maya Kristalinskaya
+✧ Tenderness by Maya Kristalinskaya
 
-##### Comment:
+#### Comment:
 * This time the crew heard it

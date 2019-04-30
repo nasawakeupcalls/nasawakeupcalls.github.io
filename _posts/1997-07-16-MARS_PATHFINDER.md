@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 12
 ----
 ### DATE: July 16, 1997
 ----
-✵ You've Got a Friend by Randy Newman
+✫ You've Got a Friend by Randy Newman
 
-##### Comment:
+#### Comment:
 * No mission comment

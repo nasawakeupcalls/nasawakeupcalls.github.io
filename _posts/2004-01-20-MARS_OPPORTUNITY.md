@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 16
 ----
 ### DATE: January 20, 2004
 ----
-✫ Slip Slidin' Away, by Paul Simon
+✷ Slip Slidin' Away, by Paul Simon
 
-##### Comment:
+#### Comment:
 * Large slips along drive up to the outcrop.

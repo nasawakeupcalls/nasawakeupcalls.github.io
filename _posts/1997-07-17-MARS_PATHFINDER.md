@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 13
 ----
 ### DATE: July 17, 1997
 ----
-⊹ Follow You, Follow Me by Genesis
+✺ Follow You, Follow Me by Genesis
 
-##### Comment:
+#### Comment:
 * No mission comment

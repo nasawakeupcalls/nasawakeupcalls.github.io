@@ -11,5 +11,5 @@ date_modified: 2004-01-04:Sol 67
 ----
 ✷ Changes by David Bowie
 
-##### Comment:
+#### Comment:
 * No mission comment

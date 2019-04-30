@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 9
 ----
 ### DATE: January 13, 2004
 ----
-✫ I'm Coiming Out, by Diana Ross
+✵ I'm Coiming Out, by Diana Ross
 
-##### Comment:
+#### Comment:
 * IDD release.

@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 47
 ----
 ### DATE: February 21, 2004
 ----
-✧ Dig Down Deep by Hot Soup
+✵ Dig Down Deep by Hot Soup
 
-##### Comment:
+#### Comment:
 * Trenching sol.

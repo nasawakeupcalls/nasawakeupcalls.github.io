@@ -11,5 +11,5 @@ date_modified: 1997-07-04:Sol 29
 ----
 ✫ Learning to Fly by Pink Floyd
 
-##### Comment:
+#### Comment:
 * No mission comment

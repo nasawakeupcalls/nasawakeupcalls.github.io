@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 72
 ----
 ### DATE: March 17, 2004
 ----
-✫ The Wanderer by Dion and the Belmonts
+✷ The Wanderer by Dion and the Belmonts
 
-##### Comment:
+#### Comment:
 * No mission comment

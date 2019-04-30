@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 46
 ----
 ### DATE: February 20, 2004
 ----
-✧ Wake Up Little Susie by The Everly Brothers
+✷ Wake Up Little Susie by The Everly Brothers
 
-##### Comment:
+#### Comment:
 * Generic wakeup song.

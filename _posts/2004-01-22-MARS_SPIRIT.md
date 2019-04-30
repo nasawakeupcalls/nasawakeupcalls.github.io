@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 18
 ----
 ### DATE: January 22, 2004
 ----
-✫ Sledgehammer by Peter Gabriel
+✦ Sledgehammer by Peter Gabriel
 
-##### Comment:
+#### Comment:
 * Intended first [Rock Abrasion Tool] RAT sol, though ran into problems later, to put it mildly.

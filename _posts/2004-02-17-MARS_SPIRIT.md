@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 43
 ----
 ### DATE: February 17, 2004
 ----
-✧ Livin' On a Prayer by Bon Jovi
+⊹ Livin' On a Prayer by Bon Jovi
 
-##### Comment:
+#### Comment:
 * Many sols tend to start with our fingers crossed.

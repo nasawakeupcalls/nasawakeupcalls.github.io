@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 56
 ----
 ### DATE: March 01, 2004
 ----
-✧ Walking On Sunshine by Jump 5
+✵ Walking On Sunshine by Jump 5
 
-##### Comment:
+#### Comment:
 * No mission comment

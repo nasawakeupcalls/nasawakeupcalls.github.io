@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 30
 ----
 ### DATE: February 03, 2004
 ----
-✵ Rock 'n Me, by Steve Miller Band
+✺ Rock 'n Me, by Steve Miller Band
 
-##### Comment:
+#### Comment:
 * 1st RAT on opportunity.

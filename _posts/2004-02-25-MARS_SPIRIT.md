@@ -11,5 +11,5 @@ date_modified: 2004-01-04:Sol 51
 ----
 ✷ Theme from 'Chariots of Fire' by Vangelis
 
-##### Comment:
+#### Comment:
 * Appropriate for slow-motion races.

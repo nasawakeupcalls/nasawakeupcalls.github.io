@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 70
 ----
 ### DATE: March 15, 2004
 ----
-⊹ Truckin' by The Grateful Dead
+✷ Truckin' by The Grateful Dead
 
-##### Comment:
+#### Comment:
 * No mission comment

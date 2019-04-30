@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 79
 ----
 ### DATE: March 25, 2004
 ----
-⊹ Teenage Lobotomy by Ramones
+✦ Teenage Lobotomy by Ramones
 
-##### Comment:
+#### Comment:
 * Opportunity began operating with new flight software.

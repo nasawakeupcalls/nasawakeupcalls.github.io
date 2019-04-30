@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 61
 ----
 ### DATE: March 06, 2004
 ----
-⊹ Motor Away by Guided by Voices
+✧ Motor Away by Guided by Voices
 
-##### Comment:
+#### Comment:
 * No mission comment

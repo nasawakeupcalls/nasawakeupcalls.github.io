@@ -11,5 +11,5 @@ date_modified: 2004-01-04:Sol 53
 ----
 ✫ Dust in the Wind by Kansas
 
-##### Comment:
+#### Comment:
 * with the anticipation of possibly capturing dust devils spinning across the Martian surface.

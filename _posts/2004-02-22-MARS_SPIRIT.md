@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 48
 ----
 ### DATE: February 22, 2004
 ----
-✦ Working in the Coal Mine by Devo
+✺ Working in the Coal Mine by Devo
 
-##### Comment:
+#### Comment:
 * Working in the trench.

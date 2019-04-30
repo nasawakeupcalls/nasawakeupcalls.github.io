@@ -11,5 +11,5 @@ date_modified: 1997-07-04:Sol 20
 ----
 ✧ Life in the Fast Lane by The Eagles
 
-##### Comment:
+#### Comment:
 * No mission comment

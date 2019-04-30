@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 8
 ----
 ### DATE: July 12, 1997
 ----
-✫ Coisinha Do Pai by Brazilian Samba
+⊹ Coisinha Do Pai by Brazilian Samba
 
-##### Comment:
+#### Comment:
 * No mission comment

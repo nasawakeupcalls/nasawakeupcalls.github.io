@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 32
 ----
 ### DATE: February 05, 2004
 ----
-✫ Let It Be by The Beatles
+✺ Let It Be by The Beatles
 
-##### Comment:
+#### Comment:
 * Long MB integration -- no IDD or mobility.

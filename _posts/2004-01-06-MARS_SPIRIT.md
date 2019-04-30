@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 2
 ----
 ### DATE: January 06, 2004
 ----
-✦ Good Morning, Good Morning by The Beatles
+✵ Good Morning, Good Morning by The Beatles
 
-##### Comment:
+#### Comment:
 * No mission comment

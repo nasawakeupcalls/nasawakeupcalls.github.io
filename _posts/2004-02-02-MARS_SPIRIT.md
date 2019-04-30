@@ -11,5 +11,5 @@ date_modified: 2004-01-04:Sol 29
 ----
 ✦ Here Comes the Sun by The Beatles
 
-##### Comment:
+#### Comment:
 * More normal operations, Mars Express coordinated overflight.

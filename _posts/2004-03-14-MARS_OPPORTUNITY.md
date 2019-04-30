@@ -9,7 +9,7 @@ date_modified: 2004-01-04:Sol 69
 ----
 ### DATE: March 14, 2004
 ----
-✺ Little Maggie by Tom Adams
+⊹ Little Maggie by Tom Adams
 
-##### Comment:
+#### Comment:
 * chosen for the soil target named Maggie.

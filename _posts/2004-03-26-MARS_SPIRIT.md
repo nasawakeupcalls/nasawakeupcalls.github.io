@@ -11,5 +11,5 @@ date_modified: 2004-01-04:Sol 80
 ----
 ⊹ Open the Door by Otis Redding.
 
-##### Comment:
+#### Comment:
 * No mission comment

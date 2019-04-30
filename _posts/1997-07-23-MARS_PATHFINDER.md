@@ -9,7 +9,7 @@ date_modified: 1997-07-04:Sol 19
 ----
 ### DATE: July 23, 1997
 ----
-✷ So Far Away by Dire Straits
+✵ So Far Away by Dire Straits
 
-##### Comment:
+#### Comment:
 * No mission comment
