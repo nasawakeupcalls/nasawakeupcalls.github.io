@@ -4,6 +4,7 @@
 
   <meta content="text/html; charset=UTF-8" name="Content-Type" />
 
+  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@beet_keeper" />
   <meta name="twitter:creator" content="@beet_keeper" />
@@ -24,8 +25,11 @@
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
 
-  <!-- Fontawesome to have links to Github and Twitter -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <!-- Font-awesome for nice styles -->
+  <link rel="stylesheet"
+        href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+        crossorigin="anonymous">
 
   <!-- RSS -->
   {% feed_meta %}
@@ -34,4 +38,15 @@
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
+
+  <!-- Amazon Associates -->
+  <SCRIPT charset="utf-8"
+          type="text/javascript"
+          src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=GB&ID=V20070822%2FGB%2Fnasawakeupcal-21%2F8005%2F3c4428a3-e643-4f6f-bde1-96c2f2b4eb66">
+  </SCRIPT>
+  <NOSCRIPT>
+          <A rel="nofollow" HREF="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=GB&ID=V20070822%2FGB%2Fnasawakeupcal-21%2F8005%2F3c4428a3-e643-4f6f-bde1-96c2f2b4eb66&Operation=NoScript">
+            Amazon.co.uk Widgets
+          </A>
+  </NOSCRIPT>
 </head>

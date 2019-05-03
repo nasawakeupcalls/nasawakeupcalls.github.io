@@ -81,12 +81,11 @@ footer,
 }
 
 footer {
-  font-family: $serif-secondary;
+  font-family: $sans-serif;
   padding: 2rem 0;
   text-align: center;
-
   span {
     color: $default-color;
-    font-size: .8rem;
+    font-size: .7rem;
   }
 }
