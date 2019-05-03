@@ -4,12 +4,27 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2019-02-12
+songs: ["I'll Be Seeing You by Billie Holiday"]
 ---
 
 ----
 ### DATE: February 12, 2019
 ----
-✦ I'll Be Seeing You by Billie Holiday
+⊹ I'll Be Seeing You by Billie Holiday
 
 #### Comment:
 * Doomed by a dust storm eight-months prior to this transmission, attempts were made to awaken Opportunity with a series of recovery commands and one final wake-up call.
+
+
+
+<br/>
+<center>
+	<a target="_blank"
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }} @nasawakeupcalls">
+	   <i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i>
+	</a>
+	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
+    <a type="amzn" search="'I'll Be Seeing You by Billie Holiday'" category="popular music">
+        <i class="fab fa-amazon" style="font-size: 1.3em;"></i>
+    </a>
+</center>
