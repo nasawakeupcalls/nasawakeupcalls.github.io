@@ -10,7 +10,7 @@ songs: ["We Can Work it Out by The Beatles"]
 ----
 ### DATE: January 26, 2004
 ----
-✦ We Can Work it Out by The Beatles
+⊹ We Can Work it Out by The Beatles
 
 #### Comment:
 * Beginning debugging activities to get Spirit back to normal.
@@ -20,11 +20,8 @@ songs: ["We Can Work it Out by The Beatles"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }} @nasawakeupcalls">
-	   <i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i>
-	</a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a type="amzn" search="'We Can Work it Out by The Beatles'" category="popular music">
-        <i class="fab fa-amazon" style="font-size: 1.3em;"></i>
-    </a>
+    <i class="fab fa-amazon" style="font-size: 1.3em;"></i></a>
 </center>

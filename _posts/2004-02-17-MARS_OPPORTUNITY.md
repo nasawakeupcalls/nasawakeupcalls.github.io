@@ -10,7 +10,7 @@ songs: ["You Can Look (But You Better Not Touch) by Bruce Springsteen"]
 ----
 ### DATE: February 17, 2004
 ----
-✵ You Can Look (But You Better Not Touch) by Bruce Springsteen
+✫ You Can Look (But You Better Not Touch) by Bruce Springsteen
 
 #### Comment:
 * In recognition of the fact that the rock abrasion tool grind did not touch the surface of its rock target on sol 42.
@@ -20,11 +20,8 @@ songs: ["You Can Look (But You Better Not Touch) by Bruce Springsteen"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }} @nasawakeupcalls">
-	   <i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i>
-	</a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a type="amzn" search="'You Can Look (But You Better Not Touch) by Bruce Springsteen'" category="popular music">
-        <i class="fab fa-amazon" style="font-size: 1.3em;"></i>
-    </a>
+    <i class="fab fa-amazon" style="font-size: 1.3em;"></i></a>
 </center>

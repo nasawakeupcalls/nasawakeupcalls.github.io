@@ -10,7 +10,7 @@ songs: ["Pictures to Prove It by The Mighty Mighty Bosstones"]
 ----
 ### DATE: March 05, 2004
 ----
-⊹ Pictures to Prove It by The Mighty Mighty Bosstones
+✺ Pictures to Prove It by The Mighty Mighty Bosstones
 
 #### Comment:
 * No mission comment
@@ -20,11 +20,8 @@ songs: ["Pictures to Prove It by The Mighty Mighty Bosstones"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }} @nasawakeupcalls">
-	   <i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i>
-	</a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a type="amzn" search="'Pictures to Prove It by The Mighty Mighty Bosstones'" category="popular music">
-        <i class="fab fa-amazon" style="font-size: 1.3em;"></i>
-    </a>
+    <i class="fab fa-amazon" style="font-size: 1.3em;"></i></a>
 </center>
