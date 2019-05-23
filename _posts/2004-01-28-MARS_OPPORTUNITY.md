@@ -10,7 +10,7 @@ songs: ["Trench Town Rock, by Bob Marley"]
 ----
 ### DATE: January 28, 2004
 ----
-✫ Trench Town Rock, by Bob Marley
+✺ Trench Town Rock, by Bob Marley
 
 #### Comment:
 * Make use of the trench.

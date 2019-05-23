@@ -11,7 +11,7 @@ songs: ["I'm Free, by The Who", "Going Mobile, by The Who"]
 ### DATE: January 11, 2004
 ----
 ✵ I'm Free, by The Who  &nbsp;<br />
-✦ Going Mobile, by The Who
+✫ Going Mobile, by The Who
 
 #### Comment:
 * Cable Cut '#3'

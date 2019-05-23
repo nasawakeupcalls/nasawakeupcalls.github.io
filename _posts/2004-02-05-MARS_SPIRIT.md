@@ -10,8 +10,8 @@ songs: ["Wipe Out by The Surfaris", "We're Not Gonna Take It by Twisted Sister"]
 ----
 ### DATE: February 05, 2004
 ----
-✺ Wipe Out by The Surfaris  &nbsp;<br />
-⊹ We're Not Gonna Take It by Twisted Sister
+⊹ Wipe Out by The Surfaris  &nbsp;<br />
+✦ We're Not Gonna Take It by Twisted Sister
 
 #### Comment:
 * File system reformat.

@@ -10,7 +10,7 @@ songs: ["Soak Up the Sun by Cheryl Crow"]
 ----
 ### DATE: January 12, 2004
 ----
-✺ Soak Up the Sun by Cheryl Crow
+✫ Soak Up the Sun by Cheryl Crow
 
 #### Comment:
 * Laid-back sol.

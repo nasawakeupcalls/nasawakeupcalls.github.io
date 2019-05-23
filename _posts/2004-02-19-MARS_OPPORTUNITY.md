@@ -10,7 +10,7 @@ songs: ["Eclipse by Pink Floyd", "Meet Me Halfway by Kenny Loggins"]
 ----
 ### DATE: February 19, 2004
 ----
-⊹ Eclipse by Pink Floyd  &nbsp;<br />
+✫ Eclipse by Pink Floyd  &nbsp;<br />
 ⊹ Meet Me Halfway by Kenny Loggins
 
 #### Comment:

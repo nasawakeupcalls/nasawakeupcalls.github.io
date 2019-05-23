@@ -10,7 +10,7 @@ songs: ["Obscured By Clouds by Pink Floyd"]
 ----
 ### DATE: August 09, 1997
 ----
-✵ Obscured By Clouds by Pink Floyd
+✷ Obscured By Clouds by Pink Floyd
 
 #### Comment:
 * No mission comment

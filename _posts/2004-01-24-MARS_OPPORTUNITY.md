@@ -10,8 +10,8 @@ songs: ["I Like Dirt, by Red Hot Chili Peppers", "The Pioneers of Mars, by Landa
 ----
 ### DATE: January 24, 2004
 ----
-⊹ I Like Dirt, by Red Hot Chili Peppers  &nbsp;<br />
-✵ The Pioneers of Mars, by Landa/Linsley
+✺ I Like Dirt, by Red Hot Chili Peppers  &nbsp;<br />
+✦ The Pioneers of Mars, by Landa/Linsley
 
 #### Comment:
 * MI/MB and drive.

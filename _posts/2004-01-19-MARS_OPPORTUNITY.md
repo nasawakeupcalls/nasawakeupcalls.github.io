@@ -10,7 +10,7 @@ songs: ["The Flintstones Theme Song, end credits, Version 2 from 1962 by UNKNOWN
 ----
 ### DATE: January 19, 2004
 ----
-✧ The Flintstones Theme Song, end credits, Version 2 from 1962 by UNKNOWN
+✵ The Flintstones Theme Song, end credits, Version 2 from 1962 by UNKNOWN
 
 #### Comment:
 * (For the arrival at the bedrock.)

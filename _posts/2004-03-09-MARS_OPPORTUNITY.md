@@ -10,7 +10,7 @@ songs: ["Stand by R.E.M."]
 ----
 ### DATE: March 09, 2004
 ----
-✫ Stand by R.E.M.
+✧ Stand by R.E.M.
 
 #### Comment:
 * No mission comment

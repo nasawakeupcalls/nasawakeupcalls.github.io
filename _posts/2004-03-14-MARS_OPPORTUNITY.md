@@ -10,7 +10,7 @@ songs: ["Little Maggie by Tom Adams"]
 ----
 ### DATE: March 14, 2004
 ----
-✺ Little Maggie by Tom Adams
+✷ Little Maggie by Tom Adams
 
 #### Comment:
 * chosen for the soil target named Maggie.

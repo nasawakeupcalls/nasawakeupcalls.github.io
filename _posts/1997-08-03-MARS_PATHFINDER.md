@@ -10,7 +10,7 @@ songs: ["The Way You Look Tonight by Frank Sinatra", "Fantastic, That's You by L
 ----
 ### DATE: August 03, 1997
 ----
-✧ The Way You Look Tonight by Frank Sinatra  &nbsp;<br />
+⊹ The Way You Look Tonight by Frank Sinatra  &nbsp;<br />
 ✺ Fantastic, That's You by Louis Armstrong
 
 #### Comment:

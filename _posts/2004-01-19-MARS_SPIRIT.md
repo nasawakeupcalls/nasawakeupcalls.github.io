@@ -10,9 +10,9 @@ songs: ["If You Love Somebody Set Them Free by Sting", "Roam by The B-52's", "Go
 ----
 ### DATE: January 19, 2004
 ----
-✷ If You Love Somebody Set Them Free by Sting  &nbsp;<br />
-✧ Roam by The B-52's  &nbsp;<br />
-✧ Good Times Roll by The Cars
+✧ If You Love Somebody Set Them Free by Sting  &nbsp;<br />
+✷ Roam by The B-52's  &nbsp;<br />
+⊹ Good Times Roll by The Cars
 
 #### Comment:
 * Last engineering activities, first drive on the surface.

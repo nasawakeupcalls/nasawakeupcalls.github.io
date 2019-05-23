@@ -10,7 +10,7 @@ songs: ["Dig In by Lenny Kravitz"]
 ----
 ### DATE: February 07, 2004
 ----
-✧ Dig In by Lenny Kravitz
+✫ Dig In by Lenny Kravitz
 
 #### Comment:
 * No mission comment

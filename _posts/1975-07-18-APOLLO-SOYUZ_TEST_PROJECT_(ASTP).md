@@ -10,7 +10,7 @@ songs: ["Midnight in Moscow by UNKNOWN"]
 ----
 ### DATE: July 18, 1975
 ----
-✧ Midnight in Moscow by UNKNOWN
+✷ Midnight in Moscow by UNKNOWN
 
 #### Comment:
 * No mission comment

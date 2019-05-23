@@ -10,7 +10,7 @@ songs: ["(You're The) Devil In Disguise by Elvis Presley", "With a Little Help F
 ----
 ### DATE: January 29, 2004
 ----
-✧ (You're The) Devil In Disguise by Elvis Presley  &nbsp;<br />
+✦ (You're The) Devil In Disguise by Elvis Presley  &nbsp;<br />
 ⊹ With a Little Help From My Friends by The Beatles
 
 #### Comment:

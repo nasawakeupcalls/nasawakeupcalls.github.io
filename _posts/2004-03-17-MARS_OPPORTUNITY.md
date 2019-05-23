@@ -10,7 +10,7 @@ songs: ["The Wanderer by Dion and the Belmonts"]
 ----
 ### DATE: March 17, 2004
 ----
-✫ The Wanderer by Dion and the Belmonts
+✷ The Wanderer by Dion and the Belmonts
 
 #### Comment:
 * No mission comment

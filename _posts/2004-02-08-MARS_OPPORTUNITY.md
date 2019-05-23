@@ -10,7 +10,7 @@ songs: ["I Can See Clearly Now by Jimmy Cliff"]
 ----
 ### DATE: February 08, 2004
 ----
-✵ I Can See Clearly Now by Jimmy Cliff
+✺ I Can See Clearly Now by Jimmy Cliff
 
 #### Comment:
 * No mission comment

@@ -10,7 +10,7 @@ songs: ["Walking On Sunshine by Jump 5"]
 ----
 ### DATE: March 01, 2004
 ----
-✦ Walking On Sunshine by Jump 5
+✺ Walking On Sunshine by Jump 5
 
 #### Comment:
 * No mission comment

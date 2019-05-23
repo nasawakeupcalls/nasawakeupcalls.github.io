@@ -10,8 +10,8 @@ songs: ["Try (Just a Little Bit Harder) by Janis Joplin", "X-ray Eyes by Kiss"]
 ----
 ### DATE: February 18, 2004
 ----
-✫ Try (Just a Little Bit Harder) by Janis Joplin  &nbsp;<br />
-✷ X-ray Eyes by Kiss
+✷ Try (Just a Little Bit Harder) by Janis Joplin  &nbsp;<br />
+✦ X-ray Eyes by Kiss
 
 #### Comment:
 * for the rock abrasion tool's second attempt at Mojo 2,

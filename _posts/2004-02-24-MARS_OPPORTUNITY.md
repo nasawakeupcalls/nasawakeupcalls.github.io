@@ -10,7 +10,7 @@ songs: ["The Dentist by Bill Cosby"]
 ----
 ### DATE: February 24, 2004
 ----
-✧ The Dentist by Bill Cosby
+⊹ The Dentist by Bill Cosby
 
 #### Comment:
 * in honor of the toothy targets in Shark's Cage.

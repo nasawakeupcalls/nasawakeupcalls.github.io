@@ -11,7 +11,7 @@ songs: ["Good Day Sunshine by Paul McCartney", "English Tea by Paul McCartney"]
 ### DATE: November 13, 2005
 ----
 ✧ Good Day Sunshine by Paul McCartney  &nbsp;<br />
-✺ English Tea by Paul McCartney
+⊹ English Tea by Paul McCartney
 
 #### Comment:
 * No mission comment

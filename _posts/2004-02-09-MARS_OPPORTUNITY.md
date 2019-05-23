@@ -10,7 +10,7 @@ songs: ["Rock Steady by Sting"]
 ----
 ### DATE: February 09, 2004
 ----
-✫ Rock Steady by Sting
+✧ Rock Steady by Sting
 
 #### Comment:
 * No mission comment

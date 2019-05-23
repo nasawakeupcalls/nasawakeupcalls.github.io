@@ -10,7 +10,7 @@ songs: ["Body Movin', by Beastie Boys"]
 ----
 ### DATE: January 30, 2004
 ----
-✷ Body Movin', by Beastie Boys
+✺ Body Movin', by Beastie Boys
 
 #### Comment:
 * Every rover part exercised.

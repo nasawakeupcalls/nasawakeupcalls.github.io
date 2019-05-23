@@ -10,7 +10,7 @@ songs: ["I'll Be There For You (Theme from Friends) by The Rembrandts"]
 ----
 ### DATE: July 31, 1997
 ----
-✧ I'll Be There For You (Theme from Friends) by The Rembrandts
+✷ I'll Be There For You (Theme from Friends) by The Rembrandts
 
 #### Comment:
 * No mission comment

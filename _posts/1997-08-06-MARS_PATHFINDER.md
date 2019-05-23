@@ -10,7 +10,7 @@ songs: ["You've Made Me So Very Happy by Blood, Sweat & Tears"]
 ----
 ### DATE: August 06, 1997
 ----
-✧ You've Made Me So Very Happy by Blood, Sweat & Tears
+✫ You've Made Me So Very Happy by Blood, Sweat & Tears
 
 #### Comment:
 * No mission comment

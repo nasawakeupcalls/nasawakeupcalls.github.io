@@ -10,7 +10,7 @@ songs: ["I am a Rock, by Simon & Garfunkel"]
 ----
 ### DATE: February 01, 2004
 ----
-✧ I am a Rock, by Simon & Garfunkel
+✺ I am a Rock, by Simon & Garfunkel
 
 #### Comment:
 * El Capitan target assessment.

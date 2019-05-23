@@ -10,7 +10,7 @@ songs: ["Coisinha Do Pai by Brazilian Samba"]
 ----
 ### DATE: July 12, 1997
 ----
-✧ Coisinha Do Pai by Brazilian Samba
+✷ Coisinha Do Pai by Brazilian Samba
 
 #### Comment:
 * No mission comment

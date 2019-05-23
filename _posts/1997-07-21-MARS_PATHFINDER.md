@@ -10,7 +10,7 @@ songs: ["Roll to Me by Del Amitri"]
 ----
 ### DATE: July 21, 1997
 ----
-✧ Roll to Me by Del Amitri
+✵ Roll to Me by Del Amitri
 
 #### Comment:
 * No mission comment

@@ -10,7 +10,7 @@ songs: ["Song of the South by Alabama"]
 ----
 ### DATE: February 25, 2004
 ----
-⊹ Song of the South by Alabama
+✧ Song of the South by Alabama
 
 #### Comment:
 * No mission comment

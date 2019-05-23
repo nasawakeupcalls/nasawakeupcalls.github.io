@@ -10,7 +10,7 @@ songs: ["Cold as Ice by Foreigner"]
 ----
 ### DATE: February 26, 2004
 ----
-✫ Cold as Ice by Foreigner
+✧ Cold as Ice by Foreigner
 
 #### Comment:
 * No mission comment

@@ -10,7 +10,7 @@ songs: ["Fly Like an Eagle by Steve Miller Band"]
 ----
 ### DATE: March 01, 2004
 ----
-✧ Fly Like an Eagle by Steve Miller Band
+⊹ Fly Like an Eagle by Steve Miller Band
 
 #### Comment:
 * No mission comment

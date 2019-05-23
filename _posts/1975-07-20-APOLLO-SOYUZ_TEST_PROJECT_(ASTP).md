@@ -10,7 +10,7 @@ songs: ["Tenderness by Maya Kristalinskaya"]
 ----
 ### DATE: July 20, 1975
 ----
-✫ Tenderness by Maya Kristalinskaya
+✺ Tenderness by Maya Kristalinskaya
 
 #### Comment:
 * This time the crew heard it

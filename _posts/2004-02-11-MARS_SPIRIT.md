@@ -10,7 +10,7 @@ songs: ["Proud Mary by Tina Turner"]
 ----
 ### DATE: February 11, 2004
 ----
-✵ Proud Mary by Tina Turner
+✦ Proud Mary by Tina Turner
 
 #### Comment:
 * And we're rolling, rolling, rolling on the river..., first long drive, ended up being more than 20 meters.

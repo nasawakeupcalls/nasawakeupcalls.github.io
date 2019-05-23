@@ -10,7 +10,7 @@ songs: ["Coisinha Do Pai by Beth Carvalho"]
 ----
 ### DATE: February 23, 2004
 ----
-⊹ Coisinha Do Pai by Beth Carvalho
+✵ Coisinha Do Pai by Beth Carvalho
 
 #### Comment:
 * Brazilian song played on Mars Pathfinder, played again for Carnival weekend.

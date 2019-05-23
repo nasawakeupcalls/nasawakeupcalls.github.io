@@ -10,7 +10,7 @@ songs: ["UNKNOWN by UNKNOWN"]
 ----
 ### DATE: January 08, 2004
 ----
-✺ UNKNOWN by UNKNOWN
+✧ UNKNOWN by UNKNOWN
 
 #### Comment:
 * original manuscript listed n/a so perhaps no song was played, RS

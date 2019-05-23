@@ -10,7 +10,7 @@ songs: ["I Would Walk 500 Miles, by Less Than Jake"]
 ----
 ### DATE: March 28, 2004
 ----
-✧ I Would Walk 500 Miles, by Less Than Jake
+✷ I Would Walk 500 Miles, by Less Than Jake
 
 #### Comment:
 * originally by the Proclaimers

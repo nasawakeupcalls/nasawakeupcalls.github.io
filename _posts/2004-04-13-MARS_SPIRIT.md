@@ -10,7 +10,7 @@ songs: ["Where Is My Mind? by The Pixies"]
 ----
 ### DATE: April 13, 2004
 ----
-✵ Where Is My Mind? by The Pixies
+✦ Where Is My Mind? by The Pixies
 
 #### Comment:
 * in honor of its software transplant.

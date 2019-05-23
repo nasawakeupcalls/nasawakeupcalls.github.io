@@ -10,7 +10,7 @@ songs: ["Wise Up by Bim Skala Bim"]
 ----
 ### DATE: July 29, 1997
 ----
-✺ Wise Up by Bim Skala Bim
+✦ Wise Up by Bim Skala Bim
 
 #### Comment:
 * No mission comment
