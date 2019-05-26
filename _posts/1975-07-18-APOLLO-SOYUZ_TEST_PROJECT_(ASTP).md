@@ -4,13 +4,13 @@ title:  APOLLO-SOYUZ TEST PROJECT (ASTP)
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1975-07-18
-songs: ["Midnight in Moscow by UNKNOWN"]
+songs: ["Midnight in Moscow by Unidentified"]
 ---
 
 ----
 ### DATE: July 18, 1975
 ----
-✷ Midnight in Moscow by UNKNOWN
+✷ Midnight in Moscow by Unidentified
 
 #### Comment:
 * No mission comment
@@ -31,7 +31,7 @@ songs: ["Midnight in Moscow by UNKNOWN"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Midnight in Moscow by UNKNOWN"];
+  var wake_me_up = ["Midnight in Moscow by Unidentified"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

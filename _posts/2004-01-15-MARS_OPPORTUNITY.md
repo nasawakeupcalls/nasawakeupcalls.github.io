@@ -10,7 +10,7 @@ songs: ["Please Please Tell Me Know, by Depeche Mode"]
 ----
 ### DATE: January 15, 2004
 ----
-✦ Please Please Tell Me Know, by Depeche Mode
+✫ Please Please Tell Me Know, by Depeche Mode
 
 #### Comment:
 * First MB data readout of soil.

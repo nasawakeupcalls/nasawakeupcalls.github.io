@@ -10,7 +10,7 @@ songs: ["Da Da Da by Casaca"]
 ----
 ### DATE: January 11, 2004
 ----
-✵ Da Da Da by Casaca
+✧ Da Da Da by Casaca
 
 #### Comment:
 * Brazilian song suggested by investigator from Brazil, RRGTM student that week from Brazil.

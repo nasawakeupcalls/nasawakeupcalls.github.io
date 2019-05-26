@@ -10,7 +10,7 @@ songs: ["Up Around the Bend by Creedence Clearwater Revival"]
 ----
 ### DATE: February 08, 2004
 ----
-✵ Up Around the Bend by Creedence Clearwater Revival
+✫ Up Around the Bend by Creedence Clearwater Revival
 
 #### Comment:
 * Intended drive around lander to begin drive to crater. Didn't get anywhere though.

@@ -10,7 +10,7 @@ songs: ["Let's Go by The Cars"]
 ----
 ### DATE: February 11, 2004
 ----
-✫ Let's Go by The Cars
+✦ Let's Go by The Cars
 
 #### Comment:
 * No mission comment

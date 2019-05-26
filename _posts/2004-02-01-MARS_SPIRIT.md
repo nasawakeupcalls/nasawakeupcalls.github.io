@@ -10,7 +10,7 @@ songs: ["On the Road Again by Willie Nelson"]
 ----
 ### DATE: February 01, 2004
 ----
-✧ On the Road Again by Willie Nelson
+✷ On the Road Again by Willie Nelson
 
 #### Comment:
 * Can't wait to get back on ..., back to normal use of the flash file system, itching to get going.

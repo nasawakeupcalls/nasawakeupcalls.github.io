@@ -10,7 +10,7 @@ songs: ["The Circle of Life by Elton John"]
 ----
 ### DATE: March 05, 2004
 ----
-✫ The Circle of Life by Elton John
+✺ The Circle of Life by Elton John
 
 #### Comment:
 *  in honor of the Lion King panorama

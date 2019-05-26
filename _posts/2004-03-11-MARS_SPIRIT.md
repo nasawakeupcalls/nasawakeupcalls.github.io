@@ -10,7 +10,7 @@ songs: ["Livin' on the Edge by Aerosmith"]
 ----
 ### DATE: March 11, 2004
 ----
-✺ Livin' on the Edge by Aerosmith
+✷ Livin' on the Edge by Aerosmith
 
 #### Comment:
 * since Spirit is at the edge of Bonneville crater.

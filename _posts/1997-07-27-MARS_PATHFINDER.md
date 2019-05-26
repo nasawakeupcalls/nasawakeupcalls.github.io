@@ -10,7 +10,7 @@ songs: ["Theme from Rawhide by Blues Brothers"]
 ----
 ### DATE: July 27, 1997
 ----
-✫ Theme from Rawhide by Blues Brothers
+✺ Theme from Rawhide by Blues Brothers
 
 #### Comment:
 * No mission comment

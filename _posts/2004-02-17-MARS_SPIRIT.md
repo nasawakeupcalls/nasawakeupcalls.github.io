@@ -10,7 +10,7 @@ songs: ["Livin' On a Prayer by Bon Jovi"]
 ----
 ### DATE: February 17, 2004
 ----
-✦ Livin' On a Prayer by Bon Jovi
+✷ Livin' On a Prayer by Bon Jovi
 
 #### Comment:
 * Many sols tend to start with our fingers crossed.

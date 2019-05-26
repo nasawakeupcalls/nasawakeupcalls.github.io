@@ -10,7 +10,7 @@ songs: ["So Happy Together, by The Turtles"]
 ----
 ### DATE: January 06, 2004
 ----
-✵ So Happy Together, by The Turtles
+✫ So Happy Together, by The Turtles
 
 #### Comment:
 * First full sol with both rovers on Mars.

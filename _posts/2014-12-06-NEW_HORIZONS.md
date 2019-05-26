@@ -10,7 +10,7 @@ songs: ["Where My Heart Will Take Me by Russell Watson"]
 ----
 ### DATE: December 06, 2014
 ----
-✫ Where My Heart Will Take Me by Russell Watson
+✦ Where My Heart Will Take Me by Russell Watson
 
 #### Comment:
 * No mission comment

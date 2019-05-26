@@ -10,7 +10,7 @@ songs: ["Working in the Coal Mine by Devo"]
 ----
 ### DATE: February 22, 2004
 ----
-✧ Working in the Coal Mine by Devo
+✺ Working in the Coal Mine by Devo
 
 #### Comment:
 * Working in the trench.

@@ -10,8 +10,8 @@ songs: ["After Midnight by Eric Clapton", "Trash Day by Weird Al Yankovic"]
 ----
 ### DATE: January 20, 2004
 ----
-✺ After Midnight by Eric Clapton  &nbsp;<br />
-✷ Trash Day by Weird Al Yankovic
+✫ After Midnight by Eric Clapton  &nbsp;<br />
+✦ Trash Day by Weird Al Yankovic
 
 #### Comment:
 * Crew starts Mars day after California midnight, part of the sol dedicated to deleting contents of flash.

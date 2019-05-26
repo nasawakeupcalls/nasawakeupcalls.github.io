@@ -10,7 +10,7 @@ songs: ["Hail to the Chief by Mormon Tabernacle Choir"]
 ----
 ### DATE: January 08, 2004
 ----
-✺ Hail to the Chief by Mormon Tabernacle Choir
+✦ Hail to the Chief by Mormon Tabernacle Choir
 
 #### Comment:
 * Presidential phone call.

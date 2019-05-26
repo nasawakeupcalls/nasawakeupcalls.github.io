@@ -10,7 +10,7 @@ songs: ["Invisible Touch, by Genesis"]
 ----
 ### DATE: January 26, 2004
 ----
-⊹ Invisible Touch, by Genesis
+✫ Invisible Touch, by Genesis
 
 #### Comment:
 * MI-MB placement.

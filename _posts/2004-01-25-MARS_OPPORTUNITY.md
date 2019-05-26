@@ -10,8 +10,8 @@ songs: ["Send Me On My Way, by Rusted Root", "Desert Drive, by Tangerine Dream"]
 ----
 ### DATE: January 25, 2004
 ----
-✫ Send Me On My Way, by Rusted Root  &nbsp;<br />
-✵ Desert Drive, by Tangerine Dream
+⊹ Send Me On My Way, by Rusted Root  &nbsp;<br />
+✫ Desert Drive, by Tangerine Dream
 
 #### Comment:
 * Drive back to El Capitan.

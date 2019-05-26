@@ -10,7 +10,7 @@ songs: ["Dreams by Van Halen"]
 ----
 ### DATE: July 30, 1997
 ----
-✵ Dreams by Van Halen
+✺ Dreams by Van Halen
 
 #### Comment:
 * No mission comment

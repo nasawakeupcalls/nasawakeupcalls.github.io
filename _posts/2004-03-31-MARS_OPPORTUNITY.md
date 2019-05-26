@@ -10,7 +10,7 @@ songs: ["Take Me Out to the Ball Game! by Jack Norworth"]
 ----
 ### DATE: March 31, 2004
 ----
-✫ Take Me Out to the Ball Game! by Jack Norworth
+✷ Take Me Out to the Ball Game! by Jack Norworth
 
 #### Comment:
 * in honor of all the baseball-related target names chosen this sol.

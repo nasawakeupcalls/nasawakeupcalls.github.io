@@ -10,8 +10,8 @@ songs: ["Stand by R.E.M.", "I'm Still Standing by Elton John"]
 ----
 ### DATE: January 09, 2004
 ----
-✦ Stand by R.E.M.  &nbsp;<br />
-✫ I'm Still Standing by Elton John
+✫ Stand by R.E.M.  &nbsp;<br />
+✦ I'm Still Standing by Elton John
 
 #### Comment:
 * No mission comment

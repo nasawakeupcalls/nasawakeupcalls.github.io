@@ -10,7 +10,7 @@ songs: ["Get Up, Stand Up by Bob Marley"]
 ----
 ### DATE: January 10, 2004
 ----
-✦ Get Up, Stand Up by Bob Marley
+✺ Get Up, Stand Up by Bob Marley
 
 #### Comment:
 * Lift mechanism actuated.

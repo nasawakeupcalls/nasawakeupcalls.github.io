@@ -10,7 +10,7 @@ songs: ["I Wanna Be Sedated by Ramones"]
 ----
 ### DATE: February 04, 2004
 ----
-✵ I Wanna Be Sedated by Ramones
+⊹ I Wanna Be Sedated by Ramones
 
 #### Comment:
 * Very low activity sol to get the rover rested and ready for surgery on the following sol.

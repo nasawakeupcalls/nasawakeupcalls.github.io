@@ -10,7 +10,7 @@ songs: ["Wake Me Up, by Wham"]
 ----
 ### DATE: January 21, 2004
 ----
-✺ Wake Me Up, by Wham
+✧ Wake Me Up, by Wham
 
 #### Comment:
 * Touch and go.

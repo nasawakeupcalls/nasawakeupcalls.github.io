@@ -10,7 +10,7 @@ songs: ["I Feel The Earth Move by Carole King"]
 ----
 ### DATE: February 28, 2004
 ----
-✫ I Feel The Earth Move by Carole King
+✧ I Feel The Earth Move by Carole King
 
 #### Comment:
 * No mission comment

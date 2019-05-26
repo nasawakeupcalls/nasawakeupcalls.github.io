@@ -10,7 +10,7 @@ songs: ["Pictures of You, by The Cure"]
 ----
 ### DATE: January 14, 2004
 ----
-✵ Pictures of You, by The Cure
+✺ Pictures of You, by The Cure
 
 #### Comment:
 * First MI image.

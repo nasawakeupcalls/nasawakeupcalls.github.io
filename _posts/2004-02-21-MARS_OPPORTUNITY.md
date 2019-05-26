@@ -10,7 +10,7 @@ songs: ["No Particular Place to Go by Chuck Berry"]
 ----
 ### DATE: February 21, 2004
 ----
-✦ No Particular Place to Go by Chuck Berry
+⊹ No Particular Place to Go by Chuck Berry
 
 #### Comment:
 * in recognition of the stay at Berry Bowl.

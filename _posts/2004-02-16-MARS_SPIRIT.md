@@ -10,7 +10,7 @@ songs: ["Lift Up Every Stone by John Hiatt"]
 ----
 ### DATE: February 16, 2004
 ----
-✫ Lift Up Every Stone by John Hiatt
+✵ Lift Up Every Stone by John Hiatt
 
 #### Comment:
 * Observations of the rock Mimi.

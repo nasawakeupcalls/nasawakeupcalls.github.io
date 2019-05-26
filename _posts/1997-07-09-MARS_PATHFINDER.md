@@ -10,7 +10,7 @@ songs: ["Three Little Birds by Bob Marley"]
 ----
 ### DATE: July 09, 1997
 ----
-✵ Three Little Birds by Bob Marley
+✧ Three Little Birds by Bob Marley
 
 #### Comment:
 * No mission comment

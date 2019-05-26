@@ -10,7 +10,7 @@ songs: ["I'm Coiming Out, by Diana Ross"]
 ----
 ### DATE: January 13, 2004
 ----
-✧ I'm Coiming Out, by Diana Ross
+✦ I'm Coiming Out, by Diana Ross
 
 #### Comment:
 * IDD release.

@@ -10,7 +10,7 @@ songs: ["(Take me) Riding in my Car by Woody Guthrie."]
 ----
 ### DATE: April 24, 2004
 ----
-✷ (Take me) Riding in my Car by Woody Guthrie.
+✵ (Take me) Riding in my Car by Woody Guthrie.
 
 #### Comment:
 * No mission comment

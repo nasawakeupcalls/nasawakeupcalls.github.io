@@ -10,9 +10,9 @@ songs: ["Born to be Wild by Steppenwolf", "Rawhide by Riders in the Sky", "Who L
 ----
 ### DATE: January 16, 2004
 ----
-✷ Born to be Wild by Steppenwolf  &nbsp;<br />
-⊹ Rawhide by Riders in the Sky  &nbsp;<br />
-✫ Who Let The Dogs Out? by The Baha Men
+✧ Born to be Wild by Steppenwolf  &nbsp;<br />
+✦ Rawhide by Riders in the Sky  &nbsp;<br />
+✧ Who Let The Dogs Out? by The Baha Men
 
 #### Comment:
 * Egress.

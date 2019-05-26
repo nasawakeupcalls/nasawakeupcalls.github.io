@@ -10,7 +10,7 @@ songs: ["Reach Out by Four Tops"]
 ----
 ### DATE: January 17, 2004
 ----
-✦ Reach Out by Four Tops
+✫ Reach Out by Four Tops
 
 #### Comment:
 * First robotic arm activity.

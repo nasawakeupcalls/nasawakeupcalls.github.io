@@ -10,7 +10,7 @@ songs: ["Let the Good Times Roll by Ray Charles"]
 ----
 ### DATE: July 22, 1997
 ----
-✺ Let the Good Times Roll by Ray Charles
+✷ Let the Good Times Roll by Ray Charles
 
 #### Comment:
 * No mission comment

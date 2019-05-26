@@ -10,7 +10,7 @@ songs: ["I'm Leaving Here, by Motorhead"]
 ----
 ### DATE: January 16, 2004
 ----
-⊹ I'm Leaving Here, by Motorhead
+✷ I'm Leaving Here, by Motorhead
 
 #### Comment:
 * First drive since egress.

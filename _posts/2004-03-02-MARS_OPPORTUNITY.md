@@ -10,7 +10,7 @@ songs: ["If You Don't Get it the First Time, Back Up and Try it Again by Fred We
 ----
 ### DATE: March 02, 2004
 ----
-⊹ If You Don't Get it the First Time, Back Up and Try it Again by Fred Wesley & The JB's
+✧ If You Don't Get it the First Time, Back Up and Try it Again by Fred Wesley & The JB's
 
 #### Comment:
 * No mission comment

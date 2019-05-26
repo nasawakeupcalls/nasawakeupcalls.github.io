@@ -10,7 +10,7 @@ songs: ["Jaws: Main Title / Fist Victim by John Williams"]
 ----
 ### DATE: February 22, 2004
 ----
-✧ Jaws: Main Title / Fist Victim by John Williams
+✫ Jaws: Main Title / Fist Victim by John Williams
 
 #### Comment:
 * No mission comment

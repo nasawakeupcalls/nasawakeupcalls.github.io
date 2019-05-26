@@ -10,7 +10,7 @@ songs: ["Open the Door by Otis Redding."]
 ----
 ### DATE: March 26, 2004
 ----
-✦ Open the Door by Otis Redding.
+✺ Open the Door by Otis Redding.
 
 #### Comment:
 * No mission comment

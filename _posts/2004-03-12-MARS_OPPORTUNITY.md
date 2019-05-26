@@ -10,7 +10,7 @@ songs: ["Changes by David Bowie"]
 ----
 ### DATE: March 12, 2004
 ----
-⊹ Changes by David Bowie
+✦ Changes by David Bowie
 
 #### Comment:
 * No mission comment

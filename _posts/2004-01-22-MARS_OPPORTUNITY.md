@@ -10,7 +10,7 @@ songs: ["Running Down a Dream by Tom Petty"]
 ----
 ### DATE: January 22, 2004
 ----
-✷ Running Down a Dream by Tom Petty
+✫ Running Down a Dream by Tom Petty
 
 #### Comment:
 * Drive along the outcrop.

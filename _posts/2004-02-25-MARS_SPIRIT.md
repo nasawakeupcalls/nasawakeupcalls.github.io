@@ -10,7 +10,7 @@ songs: ["Theme from 'Chariots of Fire' by Vangelis"]
 ----
 ### DATE: February 25, 2004
 ----
-⊹ Theme from 'Chariots of Fire' by Vangelis
+✺ Theme from 'Chariots of Fire' by Vangelis
 
 #### Comment:
 * Appropriate for slow-motion races.

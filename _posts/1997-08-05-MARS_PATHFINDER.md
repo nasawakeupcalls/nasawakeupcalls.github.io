@@ -10,7 +10,7 @@ songs: ["Love Me Like a Rock by Paul Simon"]
 ----
 ### DATE: August 05, 1997
 ----
-✧ Love Me Like a Rock by Paul Simon
+✫ Love Me Like a Rock by Paul Simon
 
 #### Comment:
 * No mission comment

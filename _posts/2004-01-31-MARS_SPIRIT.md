@@ -10,7 +10,7 @@ songs: ["Anticipation by Carly Simon"]
 ----
 ### DATE: January 31, 2004
 ----
-✧ Anticipation by Carly Simon
+✦ Anticipation by Carly Simon
 
 #### Comment:
 * Seeing if the file deletes will do the trick or not. They did.

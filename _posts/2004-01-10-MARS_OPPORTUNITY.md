@@ -10,9 +10,9 @@ songs: ["Lookin' Out My Back Door, by Creedence Clearwater Revival", "Release Me
 ----
 ### DATE: January 10, 2004
 ----
-⊹ Lookin' Out My Back Door, by Creedence Clearwater Revival  &nbsp;<br />
-⊹ Release Me, by Elvis Presley  &nbsp;<br />
-✧ Born to Run by Bruce Springsteen
+✺ Lookin' Out My Back Door, by Creedence Clearwater Revival  &nbsp;<br />
+✵ Release Me, by Elvis Presley  &nbsp;<br />
+⊹ Born to Run by Bruce Springsteen
 
 #### Comment:
 * Revival.

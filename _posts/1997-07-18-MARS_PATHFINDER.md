@@ -10,7 +10,7 @@ songs: ["Also sprach Zarathustra by Richard Strauss"]
 ----
 ### DATE: July 18, 1997
 ----
-⊹ Also sprach Zarathustra by Richard Strauss
+✵ Also sprach Zarathustra by Richard Strauss
 
 #### Comment:
 * Theme from 2001: A Space Odyssey

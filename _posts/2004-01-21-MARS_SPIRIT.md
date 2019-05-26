@@ -10,7 +10,7 @@ songs: ["We Will Rock You by Queen"]
 ----
 ### DATE: January 21, 2004
 ----
-✦ We Will Rock You by Queen
+✧ We Will Rock You by Queen
 
 #### Comment:
 * First arm activities and observations on a rock.

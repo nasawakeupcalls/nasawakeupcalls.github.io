@@ -10,7 +10,7 @@ songs: ["Let Your Fingers Do the Walking by Sort Sol"]
 ----
 ### DATE: August 07, 1997
 ----
-✫ Let Your Fingers Do the Walking by Sort Sol
+✦ Let Your Fingers Do the Walking by Sort Sol
 
 #### Comment:
 * No mission comment

@@ -10,7 +10,7 @@ songs: ["Boy from New York City by The Manhattan Transfer"]
 ----
 ### DATE: March 27, 2004
 ----
-✷ Boy from New York City by The Manhattan Transfer
+✫ Boy from New York City by The Manhattan Transfer
 
 #### Comment:
 * in honor of the grind on the New York target.

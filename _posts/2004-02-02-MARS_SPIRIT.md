@@ -10,7 +10,7 @@ songs: ["Here Comes the Sun by The Beatles"]
 ----
 ### DATE: February 02, 2004
 ----
-✦ Here Comes the Sun by The Beatles
+✵ Here Comes the Sun by The Beatles
 
 #### Comment:
 * More normal operations, Mars Express coordinated overflight.
