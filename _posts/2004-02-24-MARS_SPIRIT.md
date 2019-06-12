@@ -10,7 +10,7 @@ songs: ["Samba De Marte by Beth Carvalho"]
 ----
 ### DATE: February 24, 2004
 ----
-✷ Samba De Marte by Beth Carvalho
+✦ Samba De Marte by Beth Carvalho
 
 #### Comment:
 * Brazilian song written by same artist inspired by use of previous song on MPF, this one is a Mars Samba, also for Carnival weekend. Starts off Hello NASA!.
@@ -20,7 +20,7 @@ songs: ["Samba De Marte by Beth Carvalho"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"
