@@ -10,9 +10,9 @@ songs: ["Morning has Broken by Cat Stevens", "Hallelujah Chorus from George Fred
 ----
 ### DATE: April 16, 2004
 ----
-✺ Morning has Broken by Cat Stevens  &nbsp;<br />
-✧ Hallelujah Chorus from George Frederic Handel's Messiah by Handel  &nbsp;<br />
-✺ Dazed and Confused by Led Zeppelin.
+✵ Morning has Broken by Cat Stevens  &nbsp;<br />
+✷ Hallelujah Chorus from George Frederic Handel's Messiah by Handel  &nbsp;<br />
+✵ Dazed and Confused by Led Zeppelin.
 
 #### Comment:
 * No mission comment
@@ -22,7 +22,7 @@ songs: ["Morning has Broken by Cat Stevens", "Hallelujah Chorus from George Fred
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"

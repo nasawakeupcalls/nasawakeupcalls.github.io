@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Permalinks.
 permalink:      /:year-:month-:day/:title

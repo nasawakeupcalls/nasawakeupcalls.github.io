@@ -10,9 +10,9 @@ songs: ["If You Love Somebody Set Them Free by Sting", "Roam by The B-52's", "Go
 ----
 ### DATE: January 19, 2004
 ----
-⊹ If You Love Somebody Set Them Free by Sting  &nbsp;<br />
-✷ Roam by The B-52's  &nbsp;<br />
-✷ Good Times Roll by The Cars
+✺ If You Love Somebody Set Them Free by Sting  &nbsp;<br />
+✦ Roam by The B-52's  &nbsp;<br />
+✧ Good Times Roll by The Cars
 
 #### Comment:
 * Last engineering activities, first drive on the surface.
@@ -23,7 +23,7 @@ songs: ["If You Love Somebody Set Them Free by Sting", "Roam by The B-52's", "Go
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"

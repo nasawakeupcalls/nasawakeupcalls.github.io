@@ -10,8 +10,8 @@ songs: ["Stand by R.E.M.", "I'm Still Standing by Elton John"]
 ----
 ### DATE: January 09, 2004
 ----
-✫ Stand by R.E.M.  &nbsp;<br />
-✺ I'm Still Standing by Elton John
+✧ Stand by R.E.M.  &nbsp;<br />
+✧ I'm Still Standing by Elton John
 
 #### Comment:
 * No mission comment
@@ -21,7 +21,7 @@ songs: ["Stand by R.E.M.", "I'm Still Standing by Elton John"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"
