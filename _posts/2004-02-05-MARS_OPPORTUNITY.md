@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 32
 songs: ["Let It Be by The Beatles"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 05, 2004
 ----
-✵ Let It Be by The Beatles
+⊹ Let It Be *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-Let-It-Be/master/54533">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Long MB integration -- no IDD or mobility.

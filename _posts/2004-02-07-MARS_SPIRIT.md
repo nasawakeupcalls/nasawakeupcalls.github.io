@@ -4,14 +4,20 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 34
-songs: ["The Laundry Cycle: Pounded on a Rock by The Bobs", "Bump N' Grind by R. Kelly"]
+songs: ["The Laundry Cycle: Pounded On A Rock by The Bobs", "Bump N' Grind by R. Kelly"]
+genres: ["Hip Hop"]
 ---
 
 ----
 ### DATE: February 07, 2004
 ----
-✵ The Laundry Cycle: Pounded on a Rock by The Bobs  &nbsp;<br />
-✺ Bump N' Grind by R. Kelly
+✺ The Laundry Cycle: Pounded On A Rock *by* The Bobs    &nbsp;<br />
+✷ Bump N' Grind *by* R. Kelly ([Hip Hop](https://www.discogs.com/genre/Hip%20Hop): [RnB/Swing](https://www.discogs.com/style/RnB/Swing)) <a target="blank_" href="https://www.discogs.com/R-Kelly-Bump-N-Grind/master/121448">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * First RAT grinding.
@@ -33,7 +39,7 @@ songs: ["The Laundry Cycle: Pounded on a Rock by The Bobs", "Bump N' Grind by R.
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["The Laundry Cycle: Pounded on a Rock by The Bobs", "Bump N' Grind by R. Kelly"];
+  var wake_me_up = ["The Laundry Cycle: Pounded On A Rock by The Bobs", "Bump N' Grind by R. Kelly"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

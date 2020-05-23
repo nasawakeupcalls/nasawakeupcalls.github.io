@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 12
-songs: ["I'm Leaving Here, by Motorhead"]
+songs: ["I'M Leaving Here by Motorhead"]
+genres: []
 ---
 
 ----
 ### DATE: January 16, 2004
 ----
-✧ I'm Leaving Here, by Motorhead
+✧ I'M Leaving Here *by* Motorhead  
 
 #### Comment:
 * First drive since egress.
@@ -31,7 +32,7 @@ songs: ["I'm Leaving Here, by Motorhead"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["I'm Leaving Here, by Motorhead"];
+  var wake_me_up = ["I'M Leaving Here by Motorhead"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

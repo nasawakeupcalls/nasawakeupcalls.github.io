@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 8
-songs: ["You Ain't Seen Nothing Yet, by Bachman-Turner Overdrive"]
+songs: ["You Ain't Seen Nothing Yet by Bachman-Turner Overdrive"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 12, 2004
 ----
-⊹ You Ain't Seen Nothing Yet, by Bachman-Turner Overdrive
+✧ You Ain't Seen Nothing Yet *by* Bachman-Turner Overdrive ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Bachman-Turner-Overdrive-You-Aint-Seen-Nothing-Yet/master/331243">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * First dual surface nominal rover operation.
@@ -31,7 +37,7 @@ songs: ["You Ain't Seen Nothing Yet, by Bachman-Turner Overdrive"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["You Ain't Seen Nothing Yet, by Bachman-Turner Overdrive"];
+  var wake_me_up = ["You Ain't Seen Nothing Yet by Bachman-Turner Overdrive"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

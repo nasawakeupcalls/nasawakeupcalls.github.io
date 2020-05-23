@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 17
-songs: ["Wake Me Up, by Wham"]
+songs: ["Wake Me Up by Wham"]
+genres: []
 ---
 
 ----
 ### DATE: January 21, 2004
 ----
-✧ Wake Me Up, by Wham
+✵ Wake Me Up *by* Wham  
 
 #### Comment:
 * Touch and go.
@@ -31,7 +32,7 @@ songs: ["Wake Me Up, by Wham"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Wake Me Up, by Wham"];
+  var wake_me_up = ["Wake Me Up by Wham"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

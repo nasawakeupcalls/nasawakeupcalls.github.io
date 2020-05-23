@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 80
-songs: ["Open the Door by Otis Redding."]
+songs: ["Open The Door by Otis Redding"]
+genres: ["Funk / Soul"]
 ---
 
 ----
 ### DATE: March 26, 2004
 ----
-✦ Open the Door by Otis Redding.
+✺ Open The Door *by* Otis Redding ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/Otis-Redding-Open-The-Door-The-Happy-Song-/release/5950969">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Open the Door by Otis Redding."]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Open the Door by Otis Redding."];
+  var wake_me_up = ["Open The Door by Otis Redding"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

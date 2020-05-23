@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 27
-songs: ["Touch and Go, by Emerson, Lake and Powell"]
+songs: ["Touch And Go by Emerson, Lake and Powell"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 31, 2004
 ----
-✵ Touch and Go, by Emerson, Lake and Powell
+⊹ Touch And Go *by* Emerson, Lake and Powell ([Rock](https://www.discogs.com/genre/Rock): [Prog Rock](https://www.discogs.com/style/Prog%20Rock)) <a target="blank_" href="https://www.discogs.com/Emerson-Lake-Powell-Touch-And-Go/release/2485018">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Touch and go.
@@ -31,7 +37,7 @@ songs: ["Touch and Go, by Emerson, Lake and Powell"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Touch and Go, by Emerson, Lake and Powell"];
+  var wake_me_up = ["Touch And Go by Emerson, Lake and Powell"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

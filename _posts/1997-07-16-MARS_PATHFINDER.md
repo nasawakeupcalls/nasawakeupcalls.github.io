@@ -4,13 +4,19 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 12
-songs: ["You've Got a Friend by Randy Newman"]
+songs: ["You'Ve Got A Friend by Randy Newman"]
+genres: ["Pop"]
 ---
 
 ----
 ### DATE: July 16, 1997
 ----
-✧ You've Got a Friend by Randy Newman
+✫ You'Ve Got A Friend *by* Randy Newman ([Pop](https://www.discogs.com/genre/Pop): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Randy-Newman-Youve-Got-A-Friend-In-Me-/release/8106301">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["You've Got a Friend by Randy Newman"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["You've Got a Friend by Randy Newman"];
+  var wake_me_up = ["You'Ve Got A Friend by Randy Newman"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

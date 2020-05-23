@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 53
 songs: ["Ice Cream Man by John Brim"]
+genres: ["Blues"]
 ---
 
 ----
 ### DATE: February 27, 2004
 ----
-✷ Ice Cream Man by John Brim
+✵ Ice Cream Man *by* John Brim ([Blues](https://www.discogs.com/genre/Blues): [Chicago Blues](https://www.discogs.com/style/Chicago%20Blues)) <a target="blank_" href="https://www.discogs.com/John-Brim-Ice-Cream-Man/release/5555837">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * woke Opportunity this sol to remind it of the possible sweet treats that await at targets referred to as Chocolate Chip and Coconut in the neighborhood dubbed Mudpie.

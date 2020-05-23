@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 51
-songs: ["Song of the South by Alabama"]
+songs: ["Song Of The South by Alabama"]
+genres: ["Folk, World, & Country"]
 ---
 
 ----
 ### DATE: February 25, 2004
 ----
-✦ Song of the South by Alabama
+✧ Song Of The South *by* Alabama ([Folk, World, & Country](https://www.discogs.com/genre/Folk%2C%20World%2C%20%26%20Country): [Country](https://www.discogs.com/style/Country)) <a target="blank_" href="https://www.discogs.com/Alabama-Song-Of-The-South/release/9060688">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Song of the South by Alabama"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Song of the South by Alabama"];
+  var wake_me_up = ["Song Of The South by Alabama"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

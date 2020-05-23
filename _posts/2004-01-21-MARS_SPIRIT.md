@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 17
 songs: ["We Will Rock You by Queen"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 21, 2004
 ----
-✷ We Will Rock You by Queen
+✺ We Will Rock You *by* Queen ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Queen-We-Will-We-Will-Rock-You/release/10834336">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * First arm activities and observations on a rock.

@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 54
-songs: ["Big Rock in the Road by Pete Wernick"]
+songs: ["Big Rock In The Road by Pete Wernick"]
+genres: []
 ---
 
 ----
 ### DATE: February 28, 2004
 ----
-✵ Big Rock in the Road by Pete Wernick
+✵ Big Rock In The Road *by* Pete Wernick  
 
 #### Comment:
 * as it made its final approach to the imposing rock called Humphrey.
@@ -31,7 +32,7 @@ songs: ["Big Rock in the Road by Pete Wernick"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Big Rock in the Road by Pete Wernick"];
+  var wake_me_up = ["Big Rock In The Road by Pete Wernick"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -4,15 +4,21 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 12
-songs: ["Born to be Wild by Steppenwolf", "Rawhide by Riders in the Sky", "Who Let The Dogs Out? by The Baha Men"]
+songs: ["Born To Be Wild by Steppenwolf", "Rawhide by Riders in the Sky", "Who Let The Dogs Out? by The Baha Men"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 16, 2004
 ----
-✧ Born to be Wild by Steppenwolf  &nbsp;<br />
-✵ Rawhide by Riders in the Sky  &nbsp;<br />
-✦ Who Let The Dogs Out? by The Baha Men
+✧ Born To Be Wild *by* Steppenwolf ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Steppenwolf-Born-To-Be-Wild/master/644596">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✷ Rawhide *by* Riders in the Sky    &nbsp;<br />
+✧ Who Let The Dogs Out? *by* The Baha Men  
 
 #### Comment:
 * Egress.
@@ -34,7 +40,7 @@ songs: ["Born to be Wild by Steppenwolf", "Rawhide by Riders in the Sky", "Who L
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Born to be Wild by Steppenwolf", "Rawhide by Riders in the Sky", "Who Let The Dogs Out? by The Baha Men"];
+  var wake_me_up = ["Born To Be Wild by Steppenwolf", "Rawhide by Riders in the Sky", "Who Let The Dogs Out? by The Baha Men"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

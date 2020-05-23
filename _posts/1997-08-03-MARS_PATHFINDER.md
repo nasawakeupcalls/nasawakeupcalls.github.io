@@ -5,13 +5,14 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 30
 songs: ["The Way You Look Tonight by Frank Sinatra", "Fantastic, That's You by Louis Armstrong"]
+genres: []
 ---
 
 ----
 ### DATE: August 03, 1997
 ----
-✫ The Way You Look Tonight by Frank Sinatra  &nbsp;<br />
-⊹ Fantastic, That's You by Louis Armstrong
+✺ The Way You Look Tonight *by* Frank Sinatra    &nbsp;<br />
+✷ Fantastic, That's You *by* Louis Armstrong  
 
 #### Comment:
 * No mission comment

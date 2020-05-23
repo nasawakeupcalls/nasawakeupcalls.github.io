@@ -4,15 +4,31 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 11
-songs: ["I Get Around by The Beach Boys", "Round and Round by Ratt", "You Spin Me Round by Thalía"]
+songs: ["I Get Around by The Beach Boys", "Round And Round by Ratt", "You Spin Me Round by Dead or Alive"]
+genres: ["Rock","Rock","Electronic"]
 ---
 
 ----
 ### DATE: January 15, 2004
 ----
-✵ I Get Around by The Beach Boys  &nbsp;<br />
-✺ Round and Round by Ratt  &nbsp;<br />
-⊹ You Spin Me Round by Thalía
+✵ I Get Around *by* The Beach Boys ([Rock](https://www.discogs.com/genre/Rock): [Surf](https://www.discogs.com/style/Surf)) <a target="blank_" href="https://www.discogs.com/The-Beach-Boys-I-Get-Around/master/1649737">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+⊹ Round And Round *by* Ratt ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Ratt-Round-And-Round/master/1415100">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✷ You Spin Me Round *by* Dead or Alive ([Electronic](https://www.discogs.com/genre/Electronic): [Hi NRG](https://www.discogs.com/style/Hi%20NRG)) <a target="blank_" href="https://www.discogs.com/Dead-Or-Alive-You-Spin-Me-Round/release/13146894">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Rest of turn on landing deck.
@@ -34,7 +50,7 @@ songs: ["I Get Around by The Beach Boys", "Round and Round by Ratt", "You Spin M
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["I Get Around by The Beach Boys", "Round and Round by Ratt", "You Spin Me Round by Thalía"];
+  var wake_me_up = ["I Get Around by The Beach Boys", "Round And Round by Ratt", "You Spin Me Round by Dead or Alive"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -5,12 +5,13 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1975-07-20
 songs: ["Tenderness by Maya Kristalinskaya"]
+genres: []
 ---
 
 ----
 ### DATE: July 20, 1975
 ----
-✦ Tenderness by Maya Kristalinskaya
+⊹ Tenderness *by* Maya Kristalinskaya  
 
 #### Comment:
 * This time the crew heard it

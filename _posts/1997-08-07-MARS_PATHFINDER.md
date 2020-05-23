@@ -4,13 +4,19 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 34
-songs: ["Let Your Fingers Do the Walking by Sort Sol"]
+songs: ["Let Your Fingers Do The Walking by Sort Sol"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: August 07, 1997
 ----
-✵ Let Your Fingers Do the Walking by Sort Sol
+✫ Let Your Fingers Do The Walking *by* Sort Sol ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/Sort-Sol-Let-Your-Fingers-Do-The-Walking/release/2107161">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Let Your Fingers Do the Walking by Sort Sol"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Let Your Fingers Do the Walking by Sort Sol"];
+  var wake_me_up = ["Let Your Fingers Do The Walking by Sort Sol"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

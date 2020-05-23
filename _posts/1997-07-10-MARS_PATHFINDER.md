@@ -4,13 +4,19 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 6
-songs: ["In the Mood by Glenn Miller"]
+songs: ["In The Mood by Glenn Miller"]
+genres: ["Jazz"]
 ---
 
 ----
 ### DATE: July 10, 1997
 ----
-✺ In the Mood by Glenn Miller
+✷ In The Mood *by* Glenn Miller ([Jazz](https://www.discogs.com/genre/Jazz): [Big Band](https://www.discogs.com/style/Big%20Band)) <a target="blank_" href="https://www.discogs.com/Glenn-Miller-In-The-Mood/release/12168291">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * With live accompaniment by Chief Engineer Rob ManningW
@@ -31,7 +37,7 @@ songs: ["In the Mood by Glenn Miller"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["In the Mood by Glenn Miller"];
+  var wake_me_up = ["In The Mood by Glenn Miller"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

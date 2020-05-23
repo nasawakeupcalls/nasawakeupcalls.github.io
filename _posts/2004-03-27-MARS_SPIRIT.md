@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 81
-songs: ["Boy from New York City by The Manhattan Transfer"]
+songs: ["Boy From New York City by The Manhattan Transfer"]
+genres: ["Jazz"]
 ---
 
 ----
 ### DATE: March 27, 2004
 ----
-✵ Boy from New York City by The Manhattan Transfer
+✷ Boy From New York City *by* The Manhattan Transfer ([Jazz](https://www.discogs.com/genre/Jazz): [Swing](https://www.discogs.com/style/Swing)) <a target="blank_" href="https://www.discogs.com/The-Manhattan-Transfer-Boy-From-New-York-City/master/203408">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * in honor of the grind on the New York target.
@@ -31,7 +37,7 @@ songs: ["Boy from New York City by The Manhattan Transfer"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Boy from New York City by The Manhattan Transfer"];
+  var wake_me_up = ["Boy From New York City by The Manhattan Transfer"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -4,13 +4,19 @@ title:  APOLLO-SOYUZ TEST PROJECT (ASTP)
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1975-07-18
-songs: ["Midnight in Moscow by Unidentified"]
+songs: ["Midnight In Moscow by Unidentified"]
+genres: ["Jazz"]
 ---
 
 ----
 ### DATE: July 18, 1975
 ----
-✫ Midnight in Moscow by Unidentified
+⊹ Midnight In Moscow *by* Unidentified ([Jazz](https://www.discogs.com/genre/Jazz)) <a target="blank_" href="https://www.discogs.com/Al-Caiola-And-His-Magnificent-Seven-Midnight-In-Moscow/release/12334074">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Midnight in Moscow by Unidentified"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Midnight in Moscow by Unidentified"];
+  var wake_me_up = ["Midnight In Moscow by Unidentified"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

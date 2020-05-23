@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 20
-songs: ["Baby, Talk to Me, from the musical Bye Bye Birdie by Unidentified"]
+songs: ["Baby, Talk To Me, From The Musical Bye Bye Birdie by Unidentified"]
+genres: []
 ---
 
 ----
 ### DATE: January 24, 2004
 ----
-✧ Baby, Talk to Me, from the musical Bye Bye Birdie by Unidentified
+✫ Baby, Talk To Me, From The Musical Bye Bye Birdie *by* Unidentified  
 
 #### Comment:
 * (Objective was to get Spirit to send data. She did.
@@ -31,7 +32,7 @@ songs: ["Baby, Talk to Me, from the musical Bye Bye Birdie by Unidentified"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Baby, Talk to Me, from the musical Bye Bye Birdie by Unidentified"];
+  var wake_me_up = ["Baby, Talk To Me, From The Musical Bye Bye Birdie by Unidentified"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

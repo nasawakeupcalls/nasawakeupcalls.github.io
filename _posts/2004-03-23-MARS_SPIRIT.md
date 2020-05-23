@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 77
 songs: ["One Step Closer by The Doobie Brothers"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 23, 2004
 ----
-✫ One Step Closer by The Doobie Brothers
+✦ One Step Closer *by* The Doobie Brothers ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Doobie-Brothers-One-Step-Closer/master/95294">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * since the rover was to make its final approach to the rock target named Mazatzal today.

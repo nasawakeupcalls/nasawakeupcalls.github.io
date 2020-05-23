@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 18
 songs: ["Sledgehammer by Peter Gabriel"]
+genres: ["Electronic"]
 ---
 
 ----
 ### DATE: January 22, 2004
 ----
-✷ Sledgehammer by Peter Gabriel
+✵ Sledgehammer *by* Peter Gabriel ([Electronic](https://www.discogs.com/genre/Electronic): [Synth-pop](https://www.discogs.com/style/Synth-pop)) <a target="blank_" href="https://www.discogs.com/Peter-Gabriel-Sledgehammer/master/483508">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Intended first [Rock Abrasion Tool] RAT sol, though ran into problems later, to put it mildly.

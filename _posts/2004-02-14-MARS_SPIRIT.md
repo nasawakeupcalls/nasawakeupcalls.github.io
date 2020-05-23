@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 40
-songs: ["What a Wonderful World by Louis Armstrong"]
+songs: ["What A Wonderful World by Louis Armstrong"]
+genres: ["Jazz"]
 ---
 
 ----
 ### DATE: February 14, 2004
 ----
-✺ What a Wonderful World by Louis Armstrong
+✷ What A Wonderful World *by* Louis Armstrong ([Jazz](https://www.discogs.com/genre/Jazz)) <a target="blank_" href="https://www.discogs.com/Louis-Armstrong-What-A-Wonderful-World/release/4576712">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Mars, that is.
@@ -31,7 +37,7 @@ songs: ["What a Wonderful World by Louis Armstrong"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["What a Wonderful World by Louis Armstrong"];
+  var wake_me_up = ["What A Wonderful World by Louis Armstrong"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

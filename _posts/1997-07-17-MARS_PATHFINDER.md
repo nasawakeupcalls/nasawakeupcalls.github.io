@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 13
 songs: ["Follow You, Follow Me by Genesis"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: July 17, 1997
 ----
-⊹ Follow You, Follow Me by Genesis
+⊹ Follow You, Follow Me *by* Genesis ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Genesis-Follow-You-Follow-Me/release/8565423">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

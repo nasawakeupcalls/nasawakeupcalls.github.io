@@ -4,13 +4,14 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 35
-songs: ["The World is Waiting for the Sunrise by Gene Lockhart (father of June Lockhart of Lost in Space)"]
+songs: ["The World Is Waiting For The Sunrise by Gene Lockhart (father of June Lockhart of Lost in Space)"]
+genres: []
 ---
 
 ----
 ### DATE: August 08, 1997
 ----
-✺ The World is Waiting for the Sunrise by Gene Lockhart (father of June Lockhart of Lost in Space)
+✺ The World Is Waiting For The Sunrise *by* Gene Lockhart (father of June Lockhart of Lost in Space)  
 
 #### Comment:
 * No mission comment
@@ -31,7 +32,7 @@ songs: ["The World is Waiting for the Sunrise by Gene Lockhart (father of June L
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["The World is Waiting for the Sunrise by Gene Lockhart (father of June Lockhart of Lost in Space)"];
+  var wake_me_up = ["The World Is Waiting For The Sunrise by Gene Lockhart (father of June Lockhart of Lost in Space)"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

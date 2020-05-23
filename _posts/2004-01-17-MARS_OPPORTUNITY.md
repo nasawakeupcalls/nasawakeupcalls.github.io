@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 13
-songs: ["Little Honda (aka First Gear), by The Beach Boys"]
+songs: ["Little Honda (Aka First Gear) by The Beach Boys"]
+genres: []
 ---
 
 ----
 ### DATE: January 17, 2004
 ----
-✦ Little Honda (aka First Gear), by The Beach Boys
+⊹ Little Honda (Aka First Gear) *by* The Beach Boys  
 
 #### Comment:
 * Jaunt away from lander.
@@ -31,7 +32,7 @@ songs: ["Little Honda (aka First Gear), by The Beach Boys"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Little Honda (aka First Gear), by The Beach Boys"];
+  var wake_me_up = ["Little Honda (Aka First Gear) by The Beach Boys"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

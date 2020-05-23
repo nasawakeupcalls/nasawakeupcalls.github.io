@@ -4,14 +4,15 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 20
-songs: ["I Like Dirt, by Red Hot Chili Peppers", "The Pioneers of Mars, by Landa/Linsley"]
+songs: ["I Like Dirt by Red Hot Chili Peppers", "The Pioneers Of Mars by Landa/Linsley"]
+genres: []
 ---
 
 ----
 ### DATE: January 24, 2004
 ----
-✫ I Like Dirt, by Red Hot Chili Peppers  &nbsp;<br />
-✺ The Pioneers of Mars, by Landa/Linsley
+✷ I Like Dirt *by* Red Hot Chili Peppers    &nbsp;<br />
+✦ The Pioneers Of Mars *by* Landa/Linsley  
 
 #### Comment:
 * MI/MB and drive.
@@ -33,7 +34,7 @@ songs: ["I Like Dirt, by Red Hot Chili Peppers", "The Pioneers of Mars, by Landa
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["I Like Dirt, by Red Hot Chili Peppers", "The Pioneers of Mars, by Landa/Linsley"];
+  var wake_me_up = ["I Like Dirt by Red Hot Chili Peppers", "The Pioneers Of Mars by Landa/Linsley"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

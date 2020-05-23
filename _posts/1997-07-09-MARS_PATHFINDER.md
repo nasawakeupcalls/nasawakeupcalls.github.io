@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 5
 songs: ["Three Little Birds by Bob Marley"]
+genres: ["Reggae"]
 ---
 
 ----
 ### DATE: July 09, 1997
 ----
-✷ Three Little Birds by Bob Marley
+⊹ Three Little Birds *by* Bob Marley ([Reggae](https://www.discogs.com/genre/Reggae): [Reggae](https://www.discogs.com/style/Reggae)) <a target="blank_" href="https://www.discogs.com/Bob-Marley-The-Wailers-Three-Little-Birds/master/168600">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

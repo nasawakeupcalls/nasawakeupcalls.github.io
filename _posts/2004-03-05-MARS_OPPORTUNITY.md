@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 60
-songs: ["The Circle of Life by Elton John"]
+songs: ["The Circle Of Life by Elton John"]
+genres: []
 ---
 
 ----
 ### DATE: March 05, 2004
 ----
-✦ The Circle of Life by Elton John
+✦ The Circle Of Life *by* Elton John  
 
 #### Comment:
 *  in honor of the Lion King panorama
@@ -31,7 +32,7 @@ songs: ["The Circle of Life by Elton John"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["The Circle of Life by Elton John"];
+  var wake_me_up = ["The Circle Of Life by Elton John"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

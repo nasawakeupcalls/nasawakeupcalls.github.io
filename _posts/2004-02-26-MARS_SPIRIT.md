@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 52
-songs: ["Cold as Ice by Foreigner"]
+songs: ["Cold As Ice by Foreigner"]
+genres: ["Electronic"]
 ---
 
 ----
 ### DATE: February 26, 2004
 ----
-✷ Cold as Ice by Foreigner
+✧ Cold As Ice *by* Foreigner ([Electronic](https://www.discogs.com/genre/Electronic): [Techno](https://www.discogs.com/style/Techno)) <a target="blank_" href="https://www.discogs.com/Foreigner-Cold-As-Ice/master/1131044">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Cold as Ice by Foreigner"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Cold as Ice by Foreigner"];
+  var wake_me_up = ["Cold As Ice by Foreigner"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

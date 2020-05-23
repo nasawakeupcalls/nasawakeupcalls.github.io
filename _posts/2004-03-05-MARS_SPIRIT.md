@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 60
-songs: ["Pictures to Prove It by The Mighty Mighty Bosstones"]
+songs: ["Pictures To Prove It by The Mighty Mighty Bosstones"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 05, 2004
 ----
-✦ Pictures to Prove It by The Mighty Mighty Bosstones
+✦ Pictures To Prove It *by* The Mighty Mighty Bosstones ([Rock](https://www.discogs.com/genre/Rock): [Ska](https://www.discogs.com/style/Ska)) <a target="blank_" href="https://www.discogs.com/The-Mighty-Mighty-Bosstones-Pictures-To-Prove-It/master/489001">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Pictures to Prove It by The Mighty Mighty Bosstones"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Pictures to Prove It by The Mighty Mighty Bosstones"];
+  var wake_me_up = ["Pictures To Prove It by The Mighty Mighty Bosstones"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

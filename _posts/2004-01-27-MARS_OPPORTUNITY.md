@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 23
-songs: ["Spinning Wheel, by Blood, Sweat, & Tears"]
+songs: ["Spinning Wheel by Blood, Sweat & Tears"]
+genres: ["Jazz"]
 ---
 
 ----
 ### DATE: January 27, 2004
 ----
-✧ Spinning Wheel, by Blood, Sweat, & Tears
+✫ Spinning Wheel *by* Blood, Sweat & Tears ([Jazz](https://www.discogs.com/genre/Jazz): [Jazz-Rock](https://www.discogs.com/style/Jazz-Rock)) <a target="blank_" href="https://www.discogs.com/Blood-Sweat-And-Tears-Spinning-Wheel/master/1366539">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Right front trenching wheel.
@@ -31,7 +37,7 @@ songs: ["Spinning Wheel, by Blood, Sweat, & Tears"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Spinning Wheel, by Blood, Sweat, & Tears"];
+  var wake_me_up = ["Spinning Wheel by Blood, Sweat & Tears"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

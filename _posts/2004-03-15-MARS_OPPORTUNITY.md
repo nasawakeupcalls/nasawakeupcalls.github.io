@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 70
 songs: ["Truckin' by The Grateful Dead"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 15, 2004
 ----
-✦ Truckin' by The Grateful Dead
+✺ Truckin' *by* The Grateful Dead ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Grateful-Dead-Truckin/release/10012121">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 22
-songs: ["Invisible Touch, by Genesis"]
+songs: ["Invisible Touch by Genesis"]
+genres: ["Electronic"]
 ---
 
 ----
 ### DATE: January 26, 2004
 ----
-✷ Invisible Touch, by Genesis
+✵ Invisible Touch *by* Genesis ([Electronic](https://www.discogs.com/genre/Electronic): [Soft Rock](https://www.discogs.com/style/Soft%20Rock)) <a target="blank_" href="https://www.discogs.com/Genesis-Invisible-Touch/master/29002">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * MI-MB placement.
@@ -31,7 +37,7 @@ songs: ["Invisible Touch, by Genesis"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Invisible Touch, by Genesis"];
+  var wake_me_up = ["Invisible Touch by Genesis"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

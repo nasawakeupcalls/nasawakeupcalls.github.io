@@ -4,14 +4,20 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 44
-songs: ["Try (Just a Little Bit Harder) by Janis Joplin", "X-ray Eyes by Kiss"]
+songs: ["Try (Just A Little Bit Harder) by Janis Joplin", "X-Ray Eyes by Kiss"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 18, 2004
 ----
-✺ Try (Just a Little Bit Harder) by Janis Joplin  &nbsp;<br />
-✺ X-ray Eyes by Kiss
+⊹ Try (Just A Little Bit Harder) *by* Janis Joplin ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Janis-Joplin-Try-Just-A-Little-Bit-Harder/release/10960205">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✷ X-Ray Eyes *by* Kiss  
 
 #### Comment:
 * for the rock abrasion tool's second attempt at Mojo 2,
@@ -33,7 +39,7 @@ for the alpha particle X-ray spectrometer.
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Try (Just a Little Bit Harder) by Janis Joplin", "X-ray Eyes by Kiss"];
+  var wake_me_up = ["Try (Just A Little Bit Harder) by Janis Joplin", "X-Ray Eyes by Kiss"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 26
-songs: ["Body Movin', by Beastie Boys"]
+songs: ["Body Movin' by Beastie Boys"]
+genres: ["Hip Hop"]
 ---
 
 ----
 ### DATE: January 30, 2004
 ----
-⊹ Body Movin', by Beastie Boys
+✵ Body Movin' *by* Beastie Boys ([Hip Hop](https://www.discogs.com/genre/Hip%20Hop)) <a target="blank_" href="https://www.discogs.com/Beastie-Boys-Body-Movin/release/5230142">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Every rover part exercised.
@@ -31,7 +37,7 @@ songs: ["Body Movin', by Beastie Boys"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Body Movin', by Beastie Boys"];
+  var wake_me_up = ["Body Movin' by Beastie Boys"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

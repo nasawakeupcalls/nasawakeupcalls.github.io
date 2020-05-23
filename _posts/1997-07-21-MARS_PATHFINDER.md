@@ -4,13 +4,19 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 17
-songs: ["Roll to Me by Del Amitri"]
+songs: ["Roll To Me by Del Amitri"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: July 21, 1997
 ----
-⊹ Roll to Me by Del Amitri
+✦ Roll To Me *by* Del Amitri ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Del-Amitri-Roll-To-Me/release/1972546">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Roll to Me by Del Amitri"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Roll to Me by Del Amitri"];
+  var wake_me_up = ["Roll To Me by Del Amitri"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

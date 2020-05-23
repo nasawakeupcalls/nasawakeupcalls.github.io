@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 8
-songs: ["Soak Up the Sun by Cheryl Crow"]
+songs: ["Soak Up The Sun by Cheryl Crow"]
+genres: []
 ---
 
 ----
 ### DATE: January 12, 2004
 ----
-✦ Soak Up the Sun by Cheryl Crow
+✧ Soak Up The Sun *by* Cheryl Crow  
 
 #### Comment:
 * Laid-back sol.
@@ -31,7 +32,7 @@ songs: ["Soak Up the Sun by Cheryl Crow"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Soak Up the Sun by Cheryl Crow"];
+  var wake_me_up = ["Soak Up The Sun by Cheryl Crow"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

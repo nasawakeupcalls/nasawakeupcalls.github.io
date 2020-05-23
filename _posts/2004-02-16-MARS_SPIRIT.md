@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 42
 songs: ["Lift Up Every Stone by John Hiatt"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 16, 2004
 ----
-⊹ Lift Up Every Stone by John Hiatt
+✵ Lift Up Every Stone *by* John Hiatt ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/John-Hiatt-Lift-Up-Every-Stone/release/12395502">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Observations of the rock Mimi.

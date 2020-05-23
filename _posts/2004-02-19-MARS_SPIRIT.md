@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 45
-songs: ["Touch Me in the Morning by Diana Ross"]
+songs: ["Touch Me In The Morning by Diana Ross"]
+genres: ["Funk / Soul"]
 ---
 
 ----
 ### DATE: February 19, 2004
 ----
-✦ Touch Me in the Morning by Diana Ross
+✺ Touch Me In The Morning *by* Diana Ross ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Soul](https://www.discogs.com/style/Soul)) <a target="blank_" href="https://www.discogs.com/Diana-Ross-Touch-Me-In-The-Morning/master/99320">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Touch and go sol.
@@ -31,7 +37,7 @@ songs: ["Touch Me in the Morning by Diana Ross"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Touch Me in the Morning by Diana Ross"];
+  var wake_me_up = ["Touch Me In The Morning by Diana Ross"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

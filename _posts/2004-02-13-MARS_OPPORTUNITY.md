@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 39
 songs: ["Bad Moon Rising by Creedence Clearwater Revival"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 13, 2004
 ----
-✦ Bad Moon Rising by Creedence Clearwater Revival
+✷ Bad Moon Rising *by* Creedence Clearwater Revival ([Rock](https://www.discogs.com/genre/Rock): [Country Rock](https://www.discogs.com/style/Country%20Rock)) <a target="blank_" href="https://www.discogs.com/Creedence-Clearwater-Revival-Bad-Moon-Rising/master/1248645">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * in honor of the eclipse caused by the Martian moon Deimos.

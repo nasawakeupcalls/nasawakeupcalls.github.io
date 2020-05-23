@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 73
-songs: ["Let the Good Times Roll by B.B. King"]
+songs: ["Let The Good Times Roll by B.B. King"]
+genres: ["Blues"]
 ---
 
 ----
 ### DATE: March 19, 2004
 ----
-✧ Let the Good Times Roll by B.B. King
+✵ Let The Good Times Roll *by* B.B. King ([Blues](https://www.discogs.com/genre/Blues)) <a target="blank_" href="https://www.discogs.com/BB-King-Let-The-Good-Times-Roll/release/6542896">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * a nod to Spirit's successful primary mission of 91 sols and a call for more good times during the coming sols.
@@ -31,7 +37,7 @@ songs: ["Let the Good Times Roll by B.B. King"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Let the Good Times Roll by B.B. King"];
+  var wake_me_up = ["Let The Good Times Roll by B.B. King"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

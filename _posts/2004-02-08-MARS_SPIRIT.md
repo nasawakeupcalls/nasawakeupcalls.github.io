@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 35
-songs: ["Up Around the Bend by Creedence Clearwater Revival"]
+songs: ["Up Around The Bend by Creedence Clearwater Revival"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 08, 2004
 ----
-✧ Up Around the Bend by Creedence Clearwater Revival
+✧ Up Around The Bend *by* Creedence Clearwater Revival ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Creedence-Clearwater-Revival-Up-Around-The-Bend/master/1431945">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Intended drive around lander to begin drive to crater. Didn't get anywhere though.
@@ -31,7 +37,7 @@ songs: ["Up Around the Bend by Creedence Clearwater Revival"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Up Around the Bend by Creedence Clearwater Revival"];
+  var wake_me_up = ["Up Around The Bend by Creedence Clearwater Revival"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

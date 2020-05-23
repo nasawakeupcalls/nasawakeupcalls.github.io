@@ -4,14 +4,25 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 5
-songs: ["Stand by R.E.M.", "I'm Still Standing by Elton John"]
+songs: ["Stand by R.E.M.", "I'M Still Standing by Elton John"]
+genres: ["Rock","Rock"]
 ---
 
 ----
 ### DATE: January 09, 2004
 ----
-✧ Stand by R.E.M.  &nbsp;<br />
-✧ I'm Still Standing by Elton John
+✫ Stand *by* R.E.M. ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/REM-Stand/master/57915">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✦ I'M Still Standing *by* Elton John ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Elton-John-Im-Still-Standing/master/444771">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -32,7 +43,7 @@ songs: ["Stand by R.E.M.", "I'm Still Standing by Elton John"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Stand by R.E.M.", "I'm Still Standing by Elton John"];
+  var wake_me_up = ["Stand by R.E.M.", "I'M Still Standing by Elton John"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

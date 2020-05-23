@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 11
-songs: ["Please Please Tell Me Know, by Depeche Mode"]
+songs: ["Please Please Tell Me Know by Depeche Mode"]
+genres: []
 ---
 
 ----
 ### DATE: January 15, 2004
 ----
-✷ Please Please Tell Me Know, by Depeche Mode
+✺ Please Please Tell Me Know *by* Depeche Mode  
 
 #### Comment:
 * First MB data readout of soil.
@@ -31,7 +32,7 @@ songs: ["Please Please Tell Me Know, by Depeche Mode"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Please Please Tell Me Know, by Depeche Mode"];
+  var wake_me_up = ["Please Please Tell Me Know by Depeche Mode"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

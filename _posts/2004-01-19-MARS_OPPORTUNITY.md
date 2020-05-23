@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 15
-songs: ["The Flintstones Theme Song, end credits, Version 2 from 1962 by Unidentified"]
+songs: ["The Flintstones Theme Song, End Credits, Version 2 From 1962 by Unidentified"]
+genres: []
 ---
 
 ----
 ### DATE: January 19, 2004
 ----
-✫ The Flintstones Theme Song, end credits, Version 2 from 1962 by Unidentified
+✫ The Flintstones Theme Song, End Credits, Version 2 From 1962 *by* Unidentified  
 
 #### Comment:
 * (For the arrival at the bedrock.)
@@ -31,7 +32,7 @@ songs: ["The Flintstones Theme Song, end credits, Version 2 from 1962 by Unident
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["The Flintstones Theme Song, end credits, Version 2 from 1962 by Unidentified"];
+  var wake_me_up = ["The Flintstones Theme Song, End Credits, Version 2 From 1962 by Unidentified"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

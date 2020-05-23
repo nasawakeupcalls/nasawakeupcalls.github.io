@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 21
 songs: ["Satellite by The Hooters"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 25, 2004
 ----
-✺ Satellite by The Hooters
+✦ Satellite *by* The Hooters ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Hooters-Satellite/release/6055143">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * A rousing lullaby for when we were trying, and succeeded, to get the rover to go to sleep.

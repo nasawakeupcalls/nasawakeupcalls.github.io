@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 24
 songs: ["Radar Love by Golden Earring"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: July 28, 1997
 ----
-✵ Radar Love by Golden Earring
+✺ Radar Love *by* Golden Earring ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Golden-Earring-Radar-Love/release/10817423">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

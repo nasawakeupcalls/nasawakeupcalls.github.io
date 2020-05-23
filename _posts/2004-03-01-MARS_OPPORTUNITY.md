@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 56
-songs: ["Fly Like an Eagle by Steve Miller Band"]
+songs: ["Fly Like An Eagle by Steve Miller Band"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 01, 2004
 ----
-✺ Fly Like an Eagle by Steve Miller Band
+✧ Fly Like An Eagle *by* Steve Miller Band ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Steve-Miller-Band-Fly-Like-An-Eagle/master/82406">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Fly Like an Eagle by Steve Miller Band"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Fly Like an Eagle by Steve Miller Band"];
+  var wake_me_up = ["Fly Like An Eagle by Steve Miller Band"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

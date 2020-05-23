@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 48
-songs: ["Working in the Coal Mine by Devo"]
+songs: ["Working In The Coal Mine by Devo"]
+genres: ["Electronic"]
 ---
 
 ----
 ### DATE: February 22, 2004
 ----
-✺ Working in the Coal Mine by Devo
+⊹ Working In The Coal Mine *by* Devo ([Electronic](https://www.discogs.com/genre/Electronic): [New Wave](https://www.discogs.com/style/New%20Wave)) <a target="blank_" href="https://www.discogs.com/Devo-Working-In-The-Coal-Mine/master/52758">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Working in the trench.
@@ -31,7 +37,7 @@ songs: ["Working in the Coal Mine by Devo"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Working in the Coal Mine by Devo"];
+  var wake_me_up = ["Working In The Coal Mine by Devo"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

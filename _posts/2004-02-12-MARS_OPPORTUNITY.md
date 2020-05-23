@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 38
-songs: ["Have You Ever Seen the Rain? by Creedence Clearwater Revival"]
+songs: ["Have You Ever Seen The Rain? by Creedence Clearwater Revival"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 12, 2004
 ----
-✧ Have You Ever Seen the Rain? by Creedence Clearwater Revival
+✷ Have You Ever Seen The Rain? *by* Creedence Clearwater Revival ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain/release/7192558">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * in honor of the confirmation that liquid water once flowed through the rocks at Meridiani Planum.
@@ -31,7 +37,7 @@ songs: ["Have You Ever Seen the Rain? by Creedence Clearwater Revival"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Have You Ever Seen the Rain? by Creedence Clearwater Revival"];
+  var wake_me_up = ["Have You Ever Seen The Rain? by Creedence Clearwater Revival"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

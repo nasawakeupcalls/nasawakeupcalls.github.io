@@ -5,12 +5,13 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 47
 songs: ["Dig Down Deep by Hot Soup"]
+genres: []
 ---
 
 ----
 ### DATE: February 21, 2004
 ----
-✧ Dig Down Deep by Hot Soup
+✫ Dig Down Deep *by* Hot Soup  
 
 #### Comment:
 * Trenching sol.

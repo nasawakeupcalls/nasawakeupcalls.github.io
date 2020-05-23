@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 3
-songs: ["The Spirit of Radio, by Rush"]
+songs: ["The Spirit Of Radio by Rush"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 07, 2004
 ----
-✺ The Spirit of Radio, by Rush
+⊹ The Spirit Of Radio *by* Rush ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Rush-The-Spirit-Of-Radio/master/41723">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * HGA release.
@@ -31,7 +37,7 @@ songs: ["The Spirit of Radio, by Rush"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["The Spirit of Radio, by Rush"];
+  var wake_me_up = ["The Spirit Of Radio by Rush"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 14
-songs: ["You've Got The Magic Touch by The Platters"]
+songs: ["You'Ve Got The Magic Touch by The Platters"]
+genres: ["Funk / Soul"]
 ---
 
 ----
 ### DATE: January 18, 2004
 ----
-✦ You've Got The Magic Touch by The Platters
+⊹ You'Ve Got The Magic Touch *by* The Platters ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/The-Platters-Youve-Got-The-Magic-Touch/release/10123840">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Touching robotic arm down on Mars.
@@ -31,7 +37,7 @@ songs: ["You've Got The Magic Touch by The Platters"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["You've Got The Magic Touch by The Platters"];
+  var wake_me_up = ["You'Ve Got The Magic Touch by The Platters"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 23
 songs: ["Start Me Up by The Rolling Stones"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 27, 2004
 ----
-✫ Start Me Up by The Rolling Stones
+✵ Start Me Up *by* The Rolling Stones ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/The-Rolling-Stones-Start-Me-Up/master/54224">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Booting in crippled mode.

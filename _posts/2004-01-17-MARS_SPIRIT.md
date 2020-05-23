@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 13
 songs: ["Reach Out by Four Tops"]
+genres: ["Funk / Soul"]
 ---
 
 ----
 ### DATE: January 17, 2004
 ----
-✷ Reach Out by Four Tops
+✫ Reach Out *by* Four Tops ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Soul](https://www.discogs.com/style/Soul)) <a target="blank_" href="https://www.discogs.com/Four-Tops-The-Reach-Out/master/1130405">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * First robotic arm activity.

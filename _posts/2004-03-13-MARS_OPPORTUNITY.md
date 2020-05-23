@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 68
-songs: ["Got to Go Back by Van Morrison"]
+songs: ["Got To Go Back by Van Morrison"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 13, 2004
 ----
-✦ Got to Go Back by Van Morrison
+✫ Got To Go Back *by* Van Morrison ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Van-Morrison-Got-To-Go-Back/release/6384657">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["Got to Go Back by Van Morrison"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Got to Go Back by Van Morrison"];
+  var wake_me_up = ["Got To Go Back by Van Morrison"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

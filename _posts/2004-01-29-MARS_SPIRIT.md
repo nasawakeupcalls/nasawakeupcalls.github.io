@@ -4,14 +4,25 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 25
-songs: ["(You're The) Devil In Disguise by Elvis Presley", "With a Little Help From My Friends by The Beatles"]
+songs: ["(You'Re The) Devil In Disguise by Elvis Presley", "With A Little Help From My Friends by The Beatles"]
+genres: ["Rock","Rock"]
 ---
 
 ----
 ### DATE: January 29, 2004
 ----
-✷ (You're The) Devil In Disguise by Elvis Presley  &nbsp;<br />
-✦ With a Little Help From My Friends by The Beatles
+✵ (You'Re The) Devil In Disguise *by* Elvis Presley ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/Elvis-Youre-The-Devil-In-Disguise/master/107476">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✺ With A Little Help From My Friends *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-With-A-Little-help-From-My-Friends/release/8255349">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Continuing debug, got picture!
@@ -33,7 +44,7 @@ songs: ["(You're The) Devil In Disguise by Elvis Presley", "With a Little Help F
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["(You're The) Devil In Disguise by Elvis Presley", "With a Little Help From My Friends by The Beatles"];
+  var wake_me_up = ["(You'Re The) Devil In Disguise by Elvis Presley", "With A Little Help From My Friends by The Beatles"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

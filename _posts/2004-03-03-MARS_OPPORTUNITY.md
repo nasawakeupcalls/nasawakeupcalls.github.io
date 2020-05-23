@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 58
-songs: ["Come on Home by Lambert, Hendricks and Ross"]
+songs: ["Come On Home by Lambert, Hendricks and Ross"]
+genres: []
 ---
 
 ----
 ### DATE: March 03, 2004
 ----
-✧ Come on Home by Lambert, Hendricks and Ross
+✦ Come On Home *by* Lambert, Hendricks and Ross  
 
 #### Comment:
 * beckoned Opportunity back toward its landing site crater to an area of bright material.
@@ -31,7 +32,7 @@ songs: ["Come on Home by Lambert, Hendricks and Ross"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Come on Home by Lambert, Hendricks and Ross"];
+  var wake_me_up = ["Come On Home by Lambert, Hendricks and Ross"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

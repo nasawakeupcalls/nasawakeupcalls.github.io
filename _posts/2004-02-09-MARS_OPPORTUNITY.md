@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 36
 songs: ["Rock Steady by Sting"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 09, 2004
 ----
-✫ Rock Steady by Sting
+✵ Rock Steady *by* Sting ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Sting-Rock-Steady/release/7827033">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

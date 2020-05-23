@@ -4,14 +4,25 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 7
-songs: ["I'm Free, by The Who", "Going Mobile, by The Who"]
+songs: ["I'M Free by The Who", "Going Mobile by The Who"]
+genres: ["Rock","Rock"]
 ---
 
 ----
 ### DATE: January 11, 2004
 ----
-✵ I'm Free, by The Who  &nbsp;<br />
-✧ Going Mobile, by The Who
+✺ I'M Free *by* The Who ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Who-Im-Free/master/326204">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✷ Going Mobile *by* The Who ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Who-Going-Mobile/release/3569449">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Cable Cut '#3'
@@ -33,7 +44,7 @@ Egress.
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["I'm Free, by The Who", "Going Mobile, by The Who"];
+  var wake_me_up = ["I'M Free by The Who", "Going Mobile by The Who"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

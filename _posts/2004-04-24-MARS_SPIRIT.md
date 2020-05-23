@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 109
-songs: ["(Take me) Riding in my Car by Woody Guthrie."]
+songs: ["(Take Me) Riding In My Car by Woody Guthrie."]
+genres: []
 ---
 
 ----
 ### DATE: April 24, 2004
 ----
-✷ (Take me) Riding in my Car by Woody Guthrie.
+✷ (Take Me) Riding In My Car *by* Woody Guthrie.  
 
 #### Comment:
 * No mission comment
@@ -31,7 +32,7 @@ songs: ["(Take me) Riding in my Car by Woody Guthrie."]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["(Take me) Riding in my Car by Woody Guthrie."];
+  var wake_me_up = ["(Take Me) Riding In My Car by Woody Guthrie."];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 19
-songs: ["Here I Go Again, by Whitesnake"]
+songs: ["Here I Go Again by Whitesnake"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 23, 2004
 ----
-✫ Here I Go Again, by Whitesnake
+✺ Here I Go Again *by* Whitesnake ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Whitesnake-Here-I-Go-Again/master/10969">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Repeat of sol 18 drive objective.
@@ -31,7 +37,7 @@ songs: ["Here I Go Again, by Whitesnake"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Here I Go Again, by Whitesnake"];
+  var wake_me_up = ["Here I Go Again by Whitesnake"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

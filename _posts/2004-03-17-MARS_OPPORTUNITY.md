@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 72
 songs: ["The Wanderer by Dion and the Belmonts"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 17, 2004
 ----
-✷ The Wanderer by Dion and the Belmonts
+✵ The Wanderer *by* Dion and the Belmonts ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/Dion-3-Dion-The-Belmonts-The-Wanderer/release/3024710">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

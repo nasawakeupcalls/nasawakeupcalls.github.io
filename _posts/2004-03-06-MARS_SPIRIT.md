@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 61
 songs: ["Motor Away by Guided by Voices"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 06, 2004
 ----
-✧ Motor Away by Guided by Voices
+✫ Motor Away *by* Guided by Voices ([Rock](https://www.discogs.com/genre/Rock): [Indie Rock](https://www.discogs.com/style/Indie%20Rock)) <a target="blank_" href="https://www.discogs.com/Guided-By-Voices-Motor-Away/release/10237688">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

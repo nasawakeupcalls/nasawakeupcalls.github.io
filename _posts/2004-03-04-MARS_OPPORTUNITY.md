@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 59
-songs: ["59th Street Bridge Song (Feeling Groovy) by Simon & Garfunkel"]
+songs: ["59Th Street Bridge Song (Feeling Groovy) by Simon & Garfunkel"]
+genres: []
 ---
 
 ----
 ### DATE: March 04, 2004
 ----
-✷ 59th Street Bridge Song (Feeling Groovy) by Simon & Garfunkel
+✦ 59Th Street Bridge Song (Feeling Groovy) *by* Simon & Garfunkel  
 
 #### Comment:
 * No mission comment
@@ -31,7 +32,7 @@ songs: ["59th Street Bridge Song (Feeling Groovy) by Simon & Garfunkel"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["59th Street Bridge Song (Feeling Groovy) by Simon & Garfunkel"];
+  var wake_me_up = ["59Th Street Bridge Song (Feeling Groovy) by Simon & Garfunkel"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

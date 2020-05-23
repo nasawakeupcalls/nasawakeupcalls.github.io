@@ -4,13 +4,14 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 20
-songs: ["Life in the Fast Lane by The Eagles"]
+songs: ["Life In The Fast Lane by The Eagles"]
+genres: []
 ---
 
 ----
 ### DATE: July 24, 1997
 ----
-✺ Life in the Fast Lane by The Eagles
+✷ Life In The Fast Lane *by* The Eagles  
 
 #### Comment:
 * No mission comment
@@ -31,7 +32,7 @@ songs: ["Life in the Fast Lane by The Eagles"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Life in the Fast Lane by The Eagles"];
+  var wake_me_up = ["Life In The Fast Lane by The Eagles"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 67
 songs: ["Changes by David Bowie"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 12, 2004
 ----
-✵ Changes by David Bowie
+✺ Changes *by* David Bowie ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/David-Bowie-Changes/master/97318">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

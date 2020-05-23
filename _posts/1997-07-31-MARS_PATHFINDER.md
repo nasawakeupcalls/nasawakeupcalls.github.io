@@ -4,13 +4,19 @@ title:  MARS PATHFINDER
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 27
-songs: ["I'll Be There For You (Theme from Friends) by The Rembrandts"]
+songs: ["I'Ll Be There For You (Theme From Friends) by The Rembrandts"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: July 31, 1997
 ----
-✫ I'll Be There For You (Theme from Friends) by The Rembrandts
+⊹ I'Ll Be There For You (Theme From Friends) *by* The Rembrandts ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Rembrandts-Ill-Be-There-For-You-Theme-From-Friends/release/3510502">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment
@@ -31,7 +37,7 @@ songs: ["I'll Be There For You (Theme from Friends) by The Rembrandts"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["I'll Be There For You (Theme from Friends) by The Rembrandts"];
+  var wake_me_up = ["I'Ll Be There For You (Theme From Friends) by The Rembrandts"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

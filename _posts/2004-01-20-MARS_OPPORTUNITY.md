@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 16
-songs: ["Slip Slidin' Away, by Paul Simon"]
+songs: ["Slip Slidin' Away by Paul Simon"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 20, 2004
 ----
-✺ Slip Slidin' Away, by Paul Simon
+✧ Slip Slidin' Away *by* Paul Simon ([Rock](https://www.discogs.com/genre/Rock): [Folk Rock](https://www.discogs.com/style/Folk%20Rock)) <a target="blank_" href="https://www.discogs.com/Paul-Simon-Slip-Slidin-Away/release/1560052">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Large slips along drive up to the outcrop.
@@ -31,7 +37,7 @@ songs: ["Slip Slidin' Away, by Paul Simon"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Slip Slidin' Away, by Paul Simon"];
+  var wake_me_up = ["Slip Slidin' Away by Paul Simon"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

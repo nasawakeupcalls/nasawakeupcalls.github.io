@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 82
-songs: ["I Would Walk 500 Miles, by Less Than Jake"]
+songs: ["I Would Walk 500 Miles by Less Than Jake"]
+genres: []
 ---
 
 ----
 ### DATE: March 28, 2004
 ----
-✷ I Would Walk 500 Miles, by Less Than Jake
+✧ I Would Walk 500 Miles *by* Less Than Jake  
 
 #### Comment:
 * originally by the Proclaimers
@@ -31,7 +32,7 @@ songs: ["I Would Walk 500 Miles, by Less Than Jake"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["I Would Walk 500 Miles, by Less Than Jake"];
+  var wake_me_up = ["I Would Walk 500 Miles by Less Than Jake"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 62
-songs: ["My First Trip to Mars, by Atticus Fault"]
+songs: ["My First Trip To Mars by Atticus Fault"]
+genres: []
 ---
 
 ----
 ### DATE: March 07, 2004
 ----
-✦ My First Trip to Mars, by Atticus Fault
+✷ My First Trip To Mars *by* Atticus Fault  
 
 #### Comment:
 * No mission comment
@@ -31,7 +32,7 @@ songs: ["My First Trip to Mars, by Atticus Fault"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["My First Trip to Mars, by Atticus Fault"];
+  var wake_me_up = ["My First Trip To Mars by Atticus Fault"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

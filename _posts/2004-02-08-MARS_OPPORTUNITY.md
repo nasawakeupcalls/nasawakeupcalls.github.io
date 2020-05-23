@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 35
 songs: ["I Can See Clearly Now by Jimmy Cliff"]
+genres: ["Reggae"]
 ---
 
 ----
 ### DATE: February 08, 2004
 ----
-✺ I Can See Clearly Now by Jimmy Cliff
+✺ I Can See Clearly Now *by* Jimmy Cliff ([Reggae](https://www.discogs.com/genre/Reggae)) <a target="blank_" href="https://www.discogs.com/Jimmy-Cliff-I-Can-See-Clearly-Now/release/2552722">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

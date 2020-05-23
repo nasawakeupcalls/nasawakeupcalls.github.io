@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 36
 songs: ["Stuck On You by Elvis Presley"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 09, 2004
 ----
-✵ Stuck On You by Elvis Presley
+✧ Stuck On You *by* Elvis Presley ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Elvis-Presley-Stuck-On-You-/master/1109504">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Drive didn't work yestersol -- we've been stuck here for weeks. Drive did work later that sol.

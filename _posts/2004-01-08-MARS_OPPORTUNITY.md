@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 4
-songs: ["UNKNOWN by Unidentified"]
+songs: ["Unknown by Unidentified"]
+genres: []
 ---
 
 ----
 ### DATE: January 08, 2004
 ----
-⊹ UNKNOWN by Unidentified
+✺ Unknown *by* Unidentified  
 
 #### Comment:
 * original manuscript listed n/a so perhaps no song was played, RS
@@ -31,7 +32,7 @@ songs: ["UNKNOWN by Unidentified"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["UNKNOWN by Unidentified"];
+  var wake_me_up = ["Unknown by Unidentified"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 67
-songs: ["On Top of the World by The Carpenters"]
+songs: ["On Top Of The World by The Carpenters"]
+genres: []
 ---
 
 ----
 ### DATE: March 12, 2004
 ----
-✫ On Top of the World by The Carpenters
+✺ On Top Of The World *by* The Carpenters  
 
 #### Comment:
 * The song was fitting, as yestersols's drive put Spirit at the rim of Bonneville crater, but it took some additional maneuvering to get the rover perfectly placed for the 360-degree panoramic camera images it will take on upcoming sols.
@@ -31,7 +32,7 @@ songs: ["On Top of the World by The Carpenters"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["On Top of the World by The Carpenters"];
+  var wake_me_up = ["On Top Of The World by The Carpenters"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

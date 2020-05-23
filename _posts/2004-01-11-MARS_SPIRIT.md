@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 7
 songs: ["Da Da Da by Casaca"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 11, 2004
 ----
-✺ Da Da Da by Casaca
+✺ Da Da Da *by* Casaca ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Casaca-Da-Da-Da/release/10416311">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Brazilian song suggested by investigator from Brazil, RRGTM student that week from Brazil.

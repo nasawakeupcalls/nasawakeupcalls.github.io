@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 4
-songs: ["Hail to the Chief by Mormon Tabernacle Choir"]
+songs: ["Hail To The Chief by Mormon Tabernacle Choir"]
+genres: []
 ---
 
 ----
 ### DATE: January 08, 2004
 ----
-✧ Hail to the Chief by Mormon Tabernacle Choir
+✫ Hail To The Chief *by* Mormon Tabernacle Choir  
 
 #### Comment:
 * Presidential phone call.
@@ -31,7 +32,7 @@ songs: ["Hail to the Chief by Mormon Tabernacle Choir"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Hail to the Chief by Mormon Tabernacle Choir"];
+  var wake_me_up = ["Hail To The Chief by Mormon Tabernacle Choir"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

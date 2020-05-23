@@ -4,13 +4,19 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 47
-songs: ["No Particular Place to Go by Chuck Berry"]
+songs: ["No Particular Place To Go by Chuck Berry"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 21, 2004
 ----
-✺ No Particular Place to Go by Chuck Berry
+✺ No Particular Place To Go *by* Chuck Berry ([Rock](https://www.discogs.com/genre/Rock): [Vocal](https://www.discogs.com/style/Vocal)) <a target="blank_" href="https://www.discogs.com/Chuck-Berry-No-Particular-Place-To-Go/release/4697512">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * in recognition of the stay at Berry Bowl.
@@ -31,7 +37,7 @@ songs: ["No Particular Place to Go by Chuck Berry"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["No Particular Place to Go by Chuck Berry"];
+  var wake_me_up = ["No Particular Place To Go by Chuck Berry"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

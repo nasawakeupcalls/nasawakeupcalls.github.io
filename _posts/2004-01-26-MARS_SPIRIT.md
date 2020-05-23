@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 22
-songs: ["We Can Work it Out by The Beatles"]
+songs: ["We Can Work It Out by The Beatles"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 26, 2004
 ----
-✦ We Can Work it Out by The Beatles
+✦ We Can Work It Out *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-We-Can-Work-It-Out/master/1280230">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Beginning debugging activities to get Spirit back to normal.
@@ -31,7 +37,7 @@ songs: ["We Can Work it Out by The Beatles"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["We Can Work it Out by The Beatles"];
+  var wake_me_up = ["We Can Work It Out by The Beatles"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

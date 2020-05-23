@@ -5,13 +5,19 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2005-11-13
 songs: ["Good Day Sunshine by Paul McCartney", "English Tea by Paul McCartney"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: November 13, 2005
 ----
-✷ Good Day Sunshine by Paul McCartney  &nbsp;<br />
-✺ English Tea by Paul McCartney
+⊹ Good Day Sunshine *by* Paul McCartney ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Paul-McCartney-Birthday-Good-Day-Sunshine/release/2344380">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✵ English Tea *by* Paul McCartney  
 
 #### Comment:
 * No mission comment

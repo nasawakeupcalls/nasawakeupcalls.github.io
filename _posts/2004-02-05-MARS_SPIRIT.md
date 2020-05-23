@@ -4,14 +4,25 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 32
-songs: ["Wipe Out by The Surfaris", "We're Not Gonna Take It by Twisted Sister"]
+songs: ["Wipe Out by The Surfaris", "We'Re Not Gonna Take It by Twisted Sister"]
+genres: ["Rock","Rock"]
 ---
 
 ----
 ### DATE: February 05, 2004
 ----
-✵ Wipe Out by The Surfaris  &nbsp;<br />
-✦ We're Not Gonna Take It by Twisted Sister
+✫ Wipe Out *by* The Surfaris ([Rock](https://www.discogs.com/genre/Rock): [Surf](https://www.discogs.com/style/Surf)) <a target="blank_" href="https://www.discogs.com/The-Surfaris-Wipe-Out/master/1366175">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+      &nbsp;<br />
+✷ We'Re Not Gonna Take It *by* Twisted Sister ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Twisted-Sister-Were-Not-Gonna-Take-It/release/13361515">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * File system reformat.
@@ -33,7 +44,7 @@ songs: ["Wipe Out by The Surfaris", "We're Not Gonna Take It by Twisted Sister"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Wipe Out by The Surfaris", "We're Not Gonna Take It by Twisted Sister"];
+  var wake_me_up = ["Wipe Out by The Surfaris", "We'Re Not Gonna Take It by Twisted Sister"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

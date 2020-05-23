@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 66
 songs: ["Bounce by Bon Jovi"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 11, 2004
 ----
-✫ Bounce by Bon Jovi
+✫ Bounce *by* Bon Jovi ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Bon-Jovi-Bounce/master/885493">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Opportunity's rock abrasion tool ground into Bounce for just over two hours.

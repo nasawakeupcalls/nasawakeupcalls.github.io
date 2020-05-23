@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 43
-songs: ["Livin' On a Prayer by Bon Jovi"]
+songs: ["Livin' On A Prayer by Bon Jovi"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 17, 2004
 ----
-⊹ Livin' On a Prayer by Bon Jovi
+✫ Livin' On A Prayer *by* Bon Jovi ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Bon-Jovi-Livin-On-A-Prayer/master/358954">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Many sols tend to start with our fingers crossed.
@@ -31,7 +37,7 @@ songs: ["Livin' On a Prayer by Bon Jovi"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Livin' On a Prayer by Bon Jovi"];
+  var wake_me_up = ["Livin' On A Prayer by Bon Jovi"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

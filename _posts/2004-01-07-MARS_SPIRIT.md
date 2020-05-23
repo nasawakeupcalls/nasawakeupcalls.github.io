@@ -4,13 +4,14 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 3
-songs: ["Oh What a Beautiful Mornin' by Rodgers and Hammerstein"]
+songs: ["Oh What A Beautiful Morning by Rodgers and Hammerstein"]
+genres: []
 ---
 
 ----
 ### DATE: January 07, 2004
 ----
-✦ Oh What a Beautiful Mornin' by Rodgers and Hammerstein
+✦ Oh What A Beautiful Morning *by* Rodgers and Hammerstein  
 
 #### Comment:
 * No mission comment
@@ -31,7 +32,7 @@ songs: ["Oh What a Beautiful Mornin' by Rodgers and Hammerstein"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Oh What a Beautiful Mornin' by Rodgers and Hammerstein"];
+  var wake_me_up = ["Oh What A Beautiful Morning by Rodgers and Hammerstein"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

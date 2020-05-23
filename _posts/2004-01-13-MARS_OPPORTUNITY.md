@@ -4,13 +4,14 @@ title:  MARS OPPORTUNITY
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 9
-songs: ["I'm Coiming Out, by Diana Ross"]
+songs: ["I'M Coiming Out by Diana Ross"]
+genres: []
 ---
 
 ----
 ### DATE: January 13, 2004
 ----
-⊹ I'm Coiming Out, by Diana Ross
+✵ I'M Coiming Out *by* Diana Ross  
 
 #### Comment:
 * IDD release.
@@ -31,7 +32,7 @@ songs: ["I'm Coiming Out, by Diana Ross"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["I'm Coiming Out, by Diana Ross"];
+  var wake_me_up = ["I'M Coiming Out by Diana Ross"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

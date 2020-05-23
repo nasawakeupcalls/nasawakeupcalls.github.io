@@ -4,13 +4,19 @@ title:  MARS SPIRIT
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 30
-songs: ["Lean On Me, performed by Club Nouveau"]
+songs: ["Lean On Me by Club Nouveau"]
+genres: ["Hip Hop"]
 ---
 
 ----
 ### DATE: February 03, 2004
 ----
-⊹ Lean On Me, performed by Club Nouveau
+✦ Lean On Me *by* Club Nouveau ([Hip Hop](https://www.discogs.com/genre/Hip%20Hop): [RnB/Swing](https://www.discogs.com/style/RnB/Swing)) <a target="blank_" href="https://www.discogs.com/Club-Nouveau-Lean-On-Me/release/9579849">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Intended RAT brush sol, pressing RAT on rock, though activities did not complete.
@@ -31,7 +37,7 @@ songs: ["Lean On Me, performed by Club Nouveau"]
 <!-- Randomly resolve an individual entry from a song array -->
 <script src="/assets/javascript/seedrandom.min.js"></script>
 <script>
-  var wake_me_up = ["Lean On Me, performed by Club Nouveau"];
+  var wake_me_up = ["Lean On Me by Club Nouveau"];
   var prng = new Math.seedrandom();
   function randomSong() {
     song = wake_me_up[Math.floor(Math.random() * wake_me_up.length)];

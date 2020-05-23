@@ -20,7 +20,8 @@ last_modified_at: 2019-02-20
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | jsonify }},
-        "url": "{{ post.url | xml_escape }}"
+        "url": "{{ post.url | xml_escape }}",
+        "genres": {{ post.genres | strip_html | jsonify }}
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

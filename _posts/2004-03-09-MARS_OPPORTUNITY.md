@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 64
 songs: ["Stand by R.E.M."]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: March 09, 2004
 ----
-✵ Stand by R.E.M.
+✷ Stand *by* R.E.M. ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/REM-Stand/master/57915">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

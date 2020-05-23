@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 54
 songs: ["I Feel The Earth Move by Carole King"]
+genres: ["Pop"]
 ---
 
 ----
 ### DATE: February 28, 2004
 ----
-✺ I Feel The Earth Move by Carole King
+⊹ I Feel The Earth Move *by* Carole King ([Pop](https://www.discogs.com/genre/Pop)) <a target="blank_" href="https://www.discogs.com/Carole-King-I-Feel-The-Earth-Move/release/12387467">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

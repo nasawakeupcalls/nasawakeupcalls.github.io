@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 2
 songs: ["Good Morning, Good Morning by The Beatles"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 06, 2004
 ----
-✦ Good Morning, Good Morning by The Beatles
+✵ Good Morning, Good Morning *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-All-You-Need-Is-Love-Baby-Youre-A-Rich-Man-Good-Morning-Good-Morning-A-Little-Help-From-/release/10398649">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * No mission comment

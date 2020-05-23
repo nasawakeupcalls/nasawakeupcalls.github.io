@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 41
 songs: ["Open Road Song by Eve 6"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: February 15, 2004
 ----
-✫ Open Road Song by Eve 6
+✷ Open Road Song *by* Eve 6 ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/Eve-6-Open-Road-Song/release/3346228">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * Driving song, though only did several inches of driving to position in front of rock.

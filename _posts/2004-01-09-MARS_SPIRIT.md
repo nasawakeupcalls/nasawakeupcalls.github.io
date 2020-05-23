@@ -5,12 +5,18 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 5
 songs: ["Satisfaction by The Rolling Stones"]
+genres: ["Rock"]
 ---
 
 ----
 ### DATE: January 09, 2004
 ----
-✺ Satisfaction by The Rolling Stones
+⊹ Satisfaction *by* The Rolling Stones ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/The-Rolling-Stones-Satisfaction/master/580431">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    
 
 #### Comment:
 * I can't get no ..., Air bags not cooperating.
