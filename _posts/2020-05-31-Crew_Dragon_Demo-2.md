@@ -11,7 +11,7 @@ genres: ["Rock"]
 ----
 ### DATE: May 31, 2020
 ----
-⊹ Planet Caravan *by* Black Sabbath ([Rock](https://www.discogs.com/genre/Rock): [Psychedelic Rock](https://www.discogs.com/style/Psychedelic%20Rock)) <a target="blank_" href="https://www.discogs.com/Black-Sabbath-Planet-Caravan-Solitude/release/1311219">
+✵ Planet Caravan *by* Black Sabbath ([Rock](https://www.discogs.com/genre/Rock): [Psychedelic Rock](https://www.discogs.com/style/Psychedelic%20Rock)) <a target="blank_" href="https://www.discogs.com/Black-Sabbath-Planet-Caravan-Solitude/release/1311219">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
@@ -19,7 +19,7 @@ genres: ["Rock"]
     
 
 #### Comment:
-* Good morning Dragon we hope your evening onboard Endeavor was restful and we are planning to resume all nominal communications at this time. Hard copy. Dragnon responded: Hi from Endeavor and great to talk to you Mike and the team and congratulations by the way hopefully the new addition is doing well.
+* Good morning Dragon we hope your evening onboard Endeavor was restful and we are planning to resume all nominal communications at this time. Hard copy. Dragon responded: Hi from Endeavor and great to talk to you Mike and the team and congratulations by the way, hopefully the new addition is doing well.
 
 
 
