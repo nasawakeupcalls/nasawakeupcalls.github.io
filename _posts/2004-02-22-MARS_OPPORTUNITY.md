@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ Jaws: Main Title / Fist Victim by John Williams ✫ February 22, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 48
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: February 22, 2004
 ----
-✷ Jaws: Main Title / Fist Victim *by* John Williams  
+✫ Jaws: Main Title / Fist Victim *by* John Williams  
 
 #### Comment:
 * No mission comment

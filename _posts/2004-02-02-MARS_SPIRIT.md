@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✧ Here Comes The Sun by The Beatles ✵ February 02, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 29
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 02, 2004
 ----
-⊹ Here Comes The Sun *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-Here-Comes-The-Sun/master/1314973">
+✧ Here Comes The Sun *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-Here-Comes-The-Sun/master/1314973">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Crew Dragon Demo-2
+title:  "NASA Wakeup Calls: Crew Dragon Demo-2 ✦ None by None ✦ August 02, 2020"
+blog_title: "Crew Dragon Demo-2"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2020-08-02
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: August 02, 2020
 ----
-⊹ None *by* None  
+✦ None *by* None  
 
 #### Comment:
 * There wasn't a song played today. Rather a recording from Bob and Doug's son's Theo and Jack. They let their dads know how excited they were for their arrival back on earth today. Theo noting they wanted to go get their dog!

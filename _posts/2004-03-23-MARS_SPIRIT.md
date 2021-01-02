@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ One Step Closer by The Doobie Brothers ✵ March 23, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 77

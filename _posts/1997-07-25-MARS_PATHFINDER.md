@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ⊹ Ride Of The Valkyries by Richard Wagner ✦ July 25, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 21
@@ -11,7 +12,7 @@ genres: ["Classical"]
 ----
 ### DATE: July 25, 1997
 ----
-✦ Ride Of The Valkyries *by* Richard Wagner ([Classical](https://www.discogs.com/genre/Classical): [Romantic](https://www.discogs.com/style/Romantic)) <a target="blank_" href="https://www.discogs.com/Wagner-Ride-Of-The-Valkyries/release/1031370">
+⊹ Ride Of The Valkyries *by* Richard Wagner ([Classical](https://www.discogs.com/genre/Classical): [Romantic](https://www.discogs.com/style/Romantic)) <a target="blank_" href="https://www.discogs.com/Wagner-Ride-Of-The-Valkyries/release/1031370">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

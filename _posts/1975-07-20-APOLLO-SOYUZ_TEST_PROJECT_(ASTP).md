@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  APOLLO-SOYUZ TEST PROJECT (ASTP)
+title:  "NASA Wakeup Calls: APOLLO-SOYUZ TEST PROJECT (ASTP) ⊹ Tenderness by Maya Kristalinskaya ⊹ July 20, 1975"
+blog_title: "APOLLO-SOYUZ TEST PROJECT (ASTP)"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1975-07-20

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ Have You Ever Seen The Rain? by Creedence Clearwater Revival ✵ February 12, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 38
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 12, 2004
 ----
-✷ Have You Ever Seen The Rain? *by* Creedence Clearwater Revival ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain/release/7192558">
+✵ Have You Ever Seen The Rain? *by* Creedence Clearwater Revival ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Creedence-Clearwater-Revival-Have-You-Ever-Seen-The-Rain/release/7192558">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

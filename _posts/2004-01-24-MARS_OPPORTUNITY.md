@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✷ The Pioneers Of Mars by Landa/Linsley ✷ January 24, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 20
@@ -11,8 +12,8 @@ genres: []
 ----
 ### DATE: January 24, 2004
 ----
-✷ I Like Dirt *by* Red Hot Chili Peppers    &nbsp;<br />
-✦ The Pioneers Of Mars *by* Landa/Linsley  
+✦ I Like Dirt *by* Red Hot Chili Peppers    &nbsp;<br />
+✷ The Pioneers Of Mars *by* Landa/Linsley  
 
 #### Comment:
 * MI/MB and drive.

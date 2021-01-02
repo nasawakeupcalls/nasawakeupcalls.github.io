@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Knock Three Times by Tony Orlando and Dawn ✦ February 29, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 55
@@ -11,8 +12,8 @@ genres: ["Pop"]
 ----
 ### DATE: February 29, 2004
 ----
-⊹ Brush Your Teeth *by* Cathy Fink and Marcy Marxer    &nbsp;<br />
-✺ Knock Three Times *by* Tony Orlando and Dawn ([Pop](https://www.discogs.com/genre/Pop): [Vocal](https://www.discogs.com/style/Vocal)) <a target="blank_" href="https://www.discogs.com/Tony-Orlando-Dawn-Knock-Three-Times-Encore-Collection/master/1391451">
+✫ Brush Your Teeth *by* Cathy Fink and Marcy Marxer    &nbsp;<br />
+✦ Knock Three Times *by* Tony Orlando and Dawn ([Pop](https://www.discogs.com/genre/Pop): [Vocal](https://www.discogs.com/style/Vocal)) <a target="blank_" href="https://www.discogs.com/Tony-Orlando-Dawn-Knock-Three-Times-Encore-Collection/master/1391451">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

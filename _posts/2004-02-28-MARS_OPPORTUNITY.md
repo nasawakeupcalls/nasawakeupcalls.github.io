@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✺ I Feel The Earth Move by Carole King ✫ February 28, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 54
@@ -11,7 +12,7 @@ genres: ["Pop"]
 ----
 ### DATE: February 28, 2004
 ----
-⊹ I Feel The Earth Move *by* Carole King ([Pop](https://www.discogs.com/genre/Pop)) <a target="blank_" href="https://www.discogs.com/Carole-King-I-Feel-The-Earth-Move/release/12387467">
+✺ I Feel The Earth Move *by* Carole King ([Pop](https://www.discogs.com/genre/Pop)) <a target="blank_" href="https://www.discogs.com/Carole-King-I-Feel-The-Earth-Move/release/12387467">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

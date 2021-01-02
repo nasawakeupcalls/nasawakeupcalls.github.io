@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ Soak Up The Sun by Cheryl Crow ✺ January 12, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 8
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 12, 2004
 ----
-✧ Soak Up The Sun *by* Cheryl Crow  
+✫ Soak Up The Sun *by* Cheryl Crow  
 
 #### Comment:
 * Laid-back sol.

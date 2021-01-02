@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✧ Wise Up by Bim Skala Bim ✵ July 29, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 25
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: July 29, 1997
 ----
-✷ Wise Up *by* Bim Skala Bim  
+✧ Wise Up *by* Bim Skala Bim  
 
 #### Comment:
 * No mission comment

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ Open Road Song by Eve 6 ✫ February 15, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 41
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 15, 2004
 ----
-✷ Open Road Song *by* Eve 6 ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/Eve-6-Open-Road-Song/release/3346228">
+✫ Open Road Song *by* Eve 6 ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/Eve-6-Open-Road-Song/release/3346228">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

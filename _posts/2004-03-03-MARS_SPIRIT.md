@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ I Still Haven't Found What I'M Looking For by U2 ⊹ March 03, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 58
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: March 03, 2004
 ----
-✧ I Still Haven't Found What I'M Looking For *by* U2 ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/U2-I-Still-Havent-Found-What-Im-Looking-For/release/545239">
+✫ I Still Haven't Found What I'M Looking For *by* U2 ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/U2-I-Still-Havent-Found-What-Im-Looking-For/release/545239">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

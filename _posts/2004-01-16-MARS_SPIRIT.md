@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✺ Who Let The Dogs Out? by The Baha Men ✵ January 16, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 12
@@ -17,8 +18,8 @@ genres: ["Rock"]
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✷ Rawhide *by* Riders in the Sky    &nbsp;<br />
-✧ Who Let The Dogs Out? *by* The Baha Men  
+✵ Rawhide *by* Riders in the Sky    &nbsp;<br />
+✺ Who Let The Dogs Out? *by* The Baha Men  
 
 #### Comment:
 * Egress.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✵ Da Da Da by Casaca ✵ January 11, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 7
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 11, 2004
 ----
-✺ Da Da Da *by* Casaca ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Casaca-Da-Da-Da/release/10416311">
+✵ Da Da Da *by* Casaca ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Casaca-Da-Da-Da/release/10416311">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

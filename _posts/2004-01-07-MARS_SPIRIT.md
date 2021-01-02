@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ Oh What A Beautiful Morning by Rodgers and Hammerstein ✧ January 07, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 3
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 07, 2004
 ----
-✦ Oh What A Beautiful Morning *by* Rodgers and Hammerstein  
+✫ Oh What A Beautiful Morning *by* Rodgers and Hammerstein  
 
 #### Comment:
 * No mission comment

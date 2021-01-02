@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ⊹ Anticipation by Carly Simon ⊹ January 31, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 27
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 31, 2004
 ----
-✫ Anticipation *by* Carly Simon ([Rock](https://www.discogs.com/genre/Rock): [Soft Rock](https://www.discogs.com/style/Soft%20Rock)) <a target="blank_" href="https://www.discogs.com/Carly-Simon-Anticipation/release/8837827">
+⊹ Anticipation *by* Carly Simon ([Rock](https://www.discogs.com/genre/Rock): [Soft Rock](https://www.discogs.com/style/Soft%20Rock)) <a target="blank_" href="https://www.discogs.com/Carly-Simon-Anticipation/release/8837827">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✧ Pictures Of You by The Cure ⊹ January 14, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 10
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 14, 2004
 ----
-✦ Pictures Of You *by* The Cure ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Cure-Pictures-Of-You/master/20202">
+✧ Pictures Of You *by* The Cure ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Cure-Pictures-Of-You/master/20202">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✧ I Want A New Drug by Huey Lewis and the News ✺ January 30, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 26
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: January 30, 2004
 ----
-✫ I Want A New Drug *by* Huey Lewis and the News ([Electronic](https://www.discogs.com/genre/Electronic): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Huey-Lewis-And-The-News-I-Want-A-New-Drug/master/115326">
+✧ I Want A New Drug *by* Huey Lewis and the News ([Electronic](https://www.discogs.com/genre/Electronic): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Huey-Lewis-And-The-News-I-Want-A-New-Drug/master/115326">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

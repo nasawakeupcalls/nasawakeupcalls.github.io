@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ Blueberry Hill by Fats Domino ✦ February 06, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 33
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 06, 2004
 ----
-✧ Blueberry Hill *by* Fats Domino ([Rock](https://www.discogs.com/genre/Rock): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/Fats-Domino-Blueberry-Hill/master/1263221">
+✫ Blueberry Hill *by* Fats Domino ([Rock](https://www.discogs.com/genre/Rock): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/Fats-Domino-Blueberry-Hill/master/1263221">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

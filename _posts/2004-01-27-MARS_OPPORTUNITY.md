@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✧ Spinning Wheel by Blood, Sweat & Tears ✫ January 27, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 23
@@ -11,7 +12,7 @@ genres: ["Jazz"]
 ----
 ### DATE: January 27, 2004
 ----
-✫ Spinning Wheel *by* Blood, Sweat & Tears ([Jazz](https://www.discogs.com/genre/Jazz): [Jazz-Rock](https://www.discogs.com/style/Jazz-Rock)) <a target="blank_" href="https://www.discogs.com/Blood-Sweat-And-Tears-Spinning-Wheel/master/1366539">
+✧ Spinning Wheel *by* Blood, Sweat & Tears ([Jazz](https://www.discogs.com/genre/Jazz): [Jazz-Rock](https://www.discogs.com/style/Jazz-Rock)) <a target="blank_" href="https://www.discogs.com/Blood-Sweat-And-Tears-Spinning-Wheel/master/1366539">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

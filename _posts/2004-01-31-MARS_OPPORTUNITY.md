@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✧ Touch And Go by Emerson, Lake and Powell ✷ January 31, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 27
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 31, 2004
 ----
-⊹ Touch And Go *by* Emerson, Lake and Powell ([Rock](https://www.discogs.com/genre/Rock): [Prog Rock](https://www.discogs.com/style/Prog%20Rock)) <a target="blank_" href="https://www.discogs.com/Emerson-Lake-Powell-Touch-And-Go/release/2485018">
+✧ Touch And Go *by* Emerson, Lake and Powell ([Rock](https://www.discogs.com/genre/Rock): [Prog Rock](https://www.discogs.com/style/Prog%20Rock)) <a target="blank_" href="https://www.discogs.com/Emerson-Lake-Powell-Touch-And-Go/release/2485018">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

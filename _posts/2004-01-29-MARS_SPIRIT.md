@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✵ With A Little Help From My Friends by The Beatles ✫ January 29, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 25
@@ -11,13 +12,13 @@ genres: ["Rock","Rock"]
 ----
 ### DATE: January 29, 2004
 ----
-✵ (You'Re The) Devil In Disguise *by* Elvis Presley ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/Elvis-Youre-The-Devil-In-Disguise/master/107476">
+✧ (You'Re The) Devil In Disguise *by* Elvis Presley ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/Elvis-Youre-The-Devil-In-Disguise/master/107476">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✺ With A Little Help From My Friends *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-With-A-Little-help-From-My-Friends/release/8255349">
+✵ With A Little Help From My Friends *by* The Beatles ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/The-Beatles-With-A-Little-help-From-My-Friends/release/8255349">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

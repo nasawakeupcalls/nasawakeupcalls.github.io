@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✷ Working In The Coal Mine by Devo ✺ February 22, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 48
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: February 22, 2004
 ----
-⊹ Working In The Coal Mine *by* Devo ([Electronic](https://www.discogs.com/genre/Electronic): [New Wave](https://www.discogs.com/style/New%20Wave)) <a target="blank_" href="https://www.discogs.com/Devo-Working-In-The-Coal-Mine/master/52758">
+✷ Working In The Coal Mine *by* Devo ([Electronic](https://www.discogs.com/genre/Electronic): [New Wave](https://www.discogs.com/style/New%20Wave)) <a target="blank_" href="https://www.discogs.com/Devo-Working-In-The-Coal-Mine/master/52758">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

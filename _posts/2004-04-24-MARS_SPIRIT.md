@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ (Take Me) Riding In My Car by Woody Guthrie. ✵ April 24, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 109
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: April 24, 2004
 ----
-✷ (Take Me) Riding In My Car *by* Woody Guthrie.  
+✫ (Take Me) Riding In My Car *by* Woody Guthrie.  
 
 #### Comment:
 * No mission comment

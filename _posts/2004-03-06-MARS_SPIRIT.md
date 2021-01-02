@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Motor Away by Guided by Voices ✷ March 06, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 61
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: March 06, 2004
 ----
-✫ Motor Away *by* Guided by Voices ([Rock](https://www.discogs.com/genre/Rock): [Indie Rock](https://www.discogs.com/style/Indie%20Rock)) <a target="blank_" href="https://www.discogs.com/Guided-By-Voices-Motor-Away/release/10237688">
+✦ Motor Away *by* Guided by Voices ([Rock](https://www.discogs.com/genre/Rock): [Indie Rock](https://www.discogs.com/style/Indie%20Rock)) <a target="blank_" href="https://www.discogs.com/Guided-By-Voices-Motor-Away/release/10237688">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

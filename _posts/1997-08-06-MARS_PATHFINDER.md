@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✵ You'Ve Made Me So Very Happy by Blood, Sweat & Tears ✺ August 06, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 33
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: August 06, 1997
 ----
-✧ You'Ve Made Me So Very Happy *by* Blood, Sweat & Tears ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Blood-Sweat-Tears-Youve-Made-Me-So-Very-Happy/master/417935">
+✵ You'Ve Made Me So Very Happy *by* Blood, Sweat & Tears ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Blood-Sweat-Tears-Youve-Made-Me-So-Very-Happy/master/417935">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

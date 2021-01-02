@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ Ice Cream Man by John Brim ✵ February 27, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 53
@@ -11,7 +12,7 @@ genres: ["Blues"]
 ----
 ### DATE: February 27, 2004
 ----
-✵ Ice Cream Man *by* John Brim ([Blues](https://www.discogs.com/genre/Blues): [Chicago Blues](https://www.discogs.com/style/Chicago%20Blues)) <a target="blank_" href="https://www.discogs.com/John-Brim-Ice-Cream-Man/release/5555837">
+⊹ Ice Cream Man *by* John Brim ([Blues](https://www.discogs.com/genre/Blues): [Chicago Blues](https://www.discogs.com/style/Chicago%20Blues)) <a target="blank_" href="https://www.discogs.com/John-Brim-Ice-Cream-Man/release/5555837">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

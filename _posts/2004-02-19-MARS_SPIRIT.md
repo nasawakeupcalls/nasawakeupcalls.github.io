@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Touch Me In The Morning by Diana Ross ✫ February 19, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 45
@@ -11,7 +12,7 @@ genres: ["Funk / Soul"]
 ----
 ### DATE: February 19, 2004
 ----
-✺ Touch Me In The Morning *by* Diana Ross ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Soul](https://www.discogs.com/style/Soul)) <a target="blank_" href="https://www.discogs.com/Diana-Ross-Touch-Me-In-The-Morning/master/99320">
+✦ Touch Me In The Morning *by* Diana Ross ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Soul](https://www.discogs.com/style/Soul)) <a target="blank_" href="https://www.discogs.com/Diana-Ross-Touch-Me-In-The-Morning/master/99320">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

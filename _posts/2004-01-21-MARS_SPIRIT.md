@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ We Will Rock You by Queen ✵ January 21, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 17
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 21, 2004
 ----
-✺ We Will Rock You *by* Queen ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Queen-We-Will-We-Will-Rock-You/release/10834336">
+✫ We Will Rock You *by* Queen ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Queen-We-Will-We-Will-Rock-You/release/10834336">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

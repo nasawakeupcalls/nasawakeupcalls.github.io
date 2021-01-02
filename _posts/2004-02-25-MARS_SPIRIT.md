@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✺ Theme From 'Chariots Of Fire' by Vangelis ✺ February 25, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 51
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: February 25, 2004
 ----
-✫ Theme From 'Chariots Of Fire' *by* Vangelis  
+✺ Theme From 'Chariots Of Fire' *by* Vangelis  
 
 #### Comment:
 * Appropriate for slow-motion races.

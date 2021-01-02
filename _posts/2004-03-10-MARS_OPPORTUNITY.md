@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✦ Back In The Saddle by Aerosmith ✧ March 10, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 65
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: March 10, 2004
 ----
-✺ Back In The Saddle *by* Aerosmith ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Aerosmith-Back-In-The-Saddle/master/213706">
+✦ Back In The Saddle *by* Aerosmith ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Aerosmith-Back-In-The-Saddle/master/213706">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

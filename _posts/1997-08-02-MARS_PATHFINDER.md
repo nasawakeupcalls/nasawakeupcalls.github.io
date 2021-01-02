@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✫ Learning To Fly by Pink Floyd ✦ August 02, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 29
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: August 02, 1997
 ----
-✷ Learning To Fly *by* Pink Floyd ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Pink-Floyd-Learning-To-Fly/master/715143">
+✫ Learning To Fly *by* Pink Floyd ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Pink-Floyd-Learning-To-Fly/master/715143">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

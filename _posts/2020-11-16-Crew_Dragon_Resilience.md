@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Crew Dragon Resilience
+title:  "NASA Wakeup Calls: Crew Dragon Resilience ✦ In the Air Tonight by Phil Collins ✧ November 16, 2020"
+blog_title: "Crew Dragon Resilience"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2020-11-16
@@ -11,7 +12,7 @@ genres: ["Pop"]
 ----
 ### DATE: November 16, 2020
 ----
-✷ In the Air Tonight *by* Phil Collins ([Pop](https://www.discogs.com/genre/Pop)) 
+✦ In the Air Tonight *by* Phil Collins ([Pop](https://www.discogs.com/genre/Pop)) 
 
 #### Comment:
 * No mission comment

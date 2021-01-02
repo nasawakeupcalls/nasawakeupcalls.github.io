@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✦ Three Little Birds by Bob Marley ✧ July 09, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 5
@@ -11,7 +12,7 @@ genres: ["Reggae"]
 ----
 ### DATE: July 09, 1997
 ----
-⊹ Three Little Birds *by* Bob Marley ([Reggae](https://www.discogs.com/genre/Reggae): [Reggae](https://www.discogs.com/style/Reggae)) <a target="blank_" href="https://www.discogs.com/Bob-Marley-The-Wailers-Three-Little-Birds/master/168600">
+✦ Three Little Birds *by* Bob Marley ([Reggae](https://www.discogs.com/genre/Reggae): [Reggae](https://www.discogs.com/style/Reggae)) <a target="blank_" href="https://www.discogs.com/Bob-Marley-The-Wailers-Three-Little-Birds/master/168600">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

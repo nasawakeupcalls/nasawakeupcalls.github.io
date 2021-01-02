@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✺ Invisible Touch by Genesis ✵ January 26, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 22
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: January 26, 2004
 ----
-✵ Invisible Touch *by* Genesis ([Electronic](https://www.discogs.com/genre/Electronic): [Soft Rock](https://www.discogs.com/style/Soft%20Rock)) <a target="blank_" href="https://www.discogs.com/Genesis-Invisible-Touch/master/29002">
+✺ Invisible Touch *by* Genesis ([Electronic](https://www.discogs.com/genre/Electronic): [Soft Rock](https://www.discogs.com/style/Soft%20Rock)) <a target="blank_" href="https://www.discogs.com/Genesis-Invisible-Touch/master/29002">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✵ Obscured By Clouds by Pink Floyd ✦ August 09, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 36
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: August 09, 1997
 ----
-⊹ Obscured By Clouds *by* Pink Floyd ([Rock](https://www.discogs.com/genre/Rock): [Soundtrack](https://www.discogs.com/style/Soundtrack)) <a target="blank_" href="https://www.discogs.com/Pink-Floyd-Obscured-By-Clouds/master/14720">
+✵ Obscured By Clouds *by* Pink Floyd ([Rock](https://www.discogs.com/genre/Rock): [Soundtrack](https://www.discogs.com/style/Soundtrack)) <a target="blank_" href="https://www.discogs.com/Pink-Floyd-Obscured-By-Clouds/master/14720">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

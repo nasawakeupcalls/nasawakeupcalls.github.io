@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✷ I'll Be Seeing You by Billie Holiday ✺ February 12, 2019"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2019-02-12
@@ -11,7 +12,7 @@ genres: ["Jazz"]
 ----
 ### DATE: February 12, 2019
 ----
-✧ I'll Be Seeing You *by* Billie Holiday ([Jazz](https://www.discogs.com/genre/Jazz): [Swing](https://www.discogs.com/style/Swing)) <a target="blank_" href="https://www.discogs.com/Billie-Holiday-With-Eddie-Heywood-And-His-Orchestra-Ill-Be-Seeing-You/release/7467814">
+✷ I'll Be Seeing You *by* Billie Holiday ([Jazz](https://www.discogs.com/genre/Jazz): [Swing](https://www.discogs.com/style/Swing)) <a target="blank_" href="https://www.discogs.com/Billie-Holiday-With-Eddie-Heywood-And-His-Orchestra-Ill-Be-Seeing-You/release/7467814">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

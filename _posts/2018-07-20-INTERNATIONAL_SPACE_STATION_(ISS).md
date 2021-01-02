@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  INTERNATIONAL SPACE STATION (ISS)
+title:  "NASA Wakeup Calls: INTERNATIONAL SPACE STATION (ISS) ✺ Spacelab by Kraftwerk ✺ July 20, 2018"
+blog_title: "INTERNATIONAL SPACE STATION (ISS)"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2018-07-20
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: July 20, 2018
 ----
-⊹ Spacelab *by* Kraftwerk ([Electronic](https://www.discogs.com/genre/Electronic): [Synth-pop](https://www.discogs.com/style/Synth-pop)) <a target="blank_" href="https://www.discogs.com/Kraftwerk-Spacelab/release/2993528">
+✺ Spacelab *by* Kraftwerk ([Electronic](https://www.discogs.com/genre/Electronic): [Synth-pop](https://www.discogs.com/style/Synth-pop)) <a target="blank_" href="https://www.discogs.com/Kraftwerk-Spacelab/release/2993528">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

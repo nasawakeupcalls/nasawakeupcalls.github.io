@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✵ Samba De Marte by Beth Carvalho ⊹ February 24, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 50
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: February 24, 2004
 ----
-✫ Samba De Marte *by* Beth Carvalho  
+✵ Samba De Marte *by* Beth Carvalho  
 
 #### Comment:
 * Brazilian song written by same artist inspired by use of previous song on MPF, this one is a Mars Samba, also for Carnival weekend. Starts off Hello NASA!.

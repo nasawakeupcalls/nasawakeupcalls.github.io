@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Way Over Yonder by Carole King ✺ February 18, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 44
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: February 18, 2004
 ----
-⊹ Way Over Yonder *by* Carole King  
+✦ Way Over Yonder *by* Carole King  
 
 #### Comment:
 * Heading for that crater.

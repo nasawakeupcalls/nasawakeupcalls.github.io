@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Livin' On A Prayer by Bon Jovi ✧ February 17, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 43
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 17, 2004
 ----
-✫ Livin' On A Prayer *by* Bon Jovi ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Bon-Jovi-Livin-On-A-Prayer/master/358954">
+✦ Livin' On A Prayer *by* Bon Jovi ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Bon-Jovi-Livin-On-A-Prayer/master/358954">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

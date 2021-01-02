@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✺ What A Wonderful World by Louis Armstrong ✫ February 14, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 40
@@ -11,7 +12,7 @@ genres: ["Jazz"]
 ----
 ### DATE: February 14, 2004
 ----
-✷ What A Wonderful World *by* Louis Armstrong ([Jazz](https://www.discogs.com/genre/Jazz)) <a target="blank_" href="https://www.discogs.com/Louis-Armstrong-What-A-Wonderful-World/release/4576712">
+✺ What A Wonderful World *by* Louis Armstrong ([Jazz](https://www.discogs.com/genre/Jazz)) <a target="blank_" href="https://www.discogs.com/Louis-Armstrong-What-A-Wonderful-World/release/4576712">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

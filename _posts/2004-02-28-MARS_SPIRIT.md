@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Big Rock In The Road by Pete Wernick ✷ February 28, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 54
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: February 28, 2004
 ----
-✵ Big Rock In The Road *by* Pete Wernick  
+✦ Big Rock In The Road *by* Pete Wernick  
 
 #### Comment:
 * as it made its final approach to the imposing rock called Humphrey.

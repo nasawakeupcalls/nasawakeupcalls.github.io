@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✷ Sledgehammer by Peter Gabriel ✺ January 22, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 18
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: January 22, 2004
 ----
-✵ Sledgehammer *by* Peter Gabriel ([Electronic](https://www.discogs.com/genre/Electronic): [Synth-pop](https://www.discogs.com/style/Synth-pop)) <a target="blank_" href="https://www.discogs.com/Peter-Gabriel-Sledgehammer/master/483508">
+✷ Sledgehammer *by* Peter Gabriel ([Electronic](https://www.discogs.com/genre/Electronic): [Synth-pop](https://www.discogs.com/style/Synth-pop)) <a target="blank_" href="https://www.discogs.com/Peter-Gabriel-Sledgehammer/master/483508">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

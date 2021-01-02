@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ I'M Leaving Here by Motorhead ⊹ January 16, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 12
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 16, 2004
 ----
-✧ I'M Leaving Here *by* Motorhead  
+⊹ I'M Leaving Here *by* Motorhead  
 
 #### Comment:
 * First drive since egress.

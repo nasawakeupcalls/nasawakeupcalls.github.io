@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✺ Little Honda (Aka First Gear) by The Beach Boys ✫ January 17, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 13
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 17, 2004
 ----
-⊹ Little Honda (Aka First Gear) *by* The Beach Boys  
+✺ Little Honda (Aka First Gear) *by* The Beach Boys  
 
 #### Comment:
 * Jaunt away from lander.

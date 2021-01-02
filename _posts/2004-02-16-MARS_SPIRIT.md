@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✷ Lift Up Every Stone by John Hiatt ✧ February 16, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 42
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 16, 2004
 ----
-✵ Lift Up Every Stone *by* John Hiatt ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/John-Hiatt-Lift-Up-Every-Stone/release/12395502">
+✷ Lift Up Every Stone *by* John Hiatt ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/John-Hiatt-Lift-Up-Every-Stone/release/12395502">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

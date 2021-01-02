@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✷ You Ain't Seen Nothing Yet by Bachman-Turner Overdrive ⊹ January 12, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 8
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 12, 2004
 ----
-✧ You Ain't Seen Nothing Yet *by* Bachman-Turner Overdrive ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Bachman-Turner-Overdrive-You-Aint-Seen-Nothing-Yet/master/331243">
+✷ You Ain't Seen Nothing Yet *by* Bachman-Turner Overdrive ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Bachman-Turner-Overdrive-You-Aint-Seen-Nothing-Yet/master/331243">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

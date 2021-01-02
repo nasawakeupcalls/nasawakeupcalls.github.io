@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ I Wanna Be Sedated by Ramones ✺ February 04, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 31
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 04, 2004
 ----
-✺ I Wanna Be Sedated *by* Ramones ([Rock](https://www.discogs.com/genre/Rock): [Punk](https://www.discogs.com/style/Punk)) <a target="blank_" href="https://www.discogs.com/Ramones-I-Wanna-Be-Sedated/master/726116">
+✦ I Wanna Be Sedated *by* Ramones ([Rock](https://www.discogs.com/genre/Rock): [Punk](https://www.discogs.com/style/Punk)) <a target="blank_" href="https://www.discogs.com/Ramones-I-Wanna-Be-Sedated/master/726116">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

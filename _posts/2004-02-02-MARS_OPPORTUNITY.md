@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ Riders On The Storm by The Doors ⊹ February 02, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 29
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 02, 2004
 ----
-✫ Riders On The Storm *by* The Doors ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Doors-Riders-On-The-Storm/master/714521">
+✵ Riders On The Storm *by* The Doors ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Doors-Riders-On-The-Storm/master/714521">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

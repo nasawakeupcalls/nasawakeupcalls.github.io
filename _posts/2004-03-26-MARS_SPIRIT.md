@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Open The Door by Otis Redding ✫ March 26, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 80
@@ -11,7 +12,7 @@ genres: ["Funk / Soul"]
 ----
 ### DATE: March 26, 2004
 ----
-✺ Open The Door *by* Otis Redding ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/Otis-Redding-Open-The-Door-The-Happy-Song-/release/5950969">
+✦ Open The Door *by* Otis Redding ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/Otis-Redding-Open-The-Door-The-Happy-Song-/release/5950969">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

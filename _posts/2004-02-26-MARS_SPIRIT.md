@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✺ Cold As Ice by Foreigner ✷ February 26, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 52
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: February 26, 2004
 ----
-✧ Cold As Ice *by* Foreigner ([Electronic](https://www.discogs.com/genre/Electronic): [Techno](https://www.discogs.com/style/Techno)) <a target="blank_" href="https://www.discogs.com/Foreigner-Cold-As-Ice/master/1131044">
+✺ Cold As Ice *by* Foreigner ([Electronic](https://www.discogs.com/genre/Electronic): [Techno](https://www.discogs.com/style/Techno)) <a target="blank_" href="https://www.discogs.com/Foreigner-Cold-As-Ice/master/1131044">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

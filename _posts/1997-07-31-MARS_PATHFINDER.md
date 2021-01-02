@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✺ I'Ll Be There For You (Theme From Friends) by The Rembrandts ✦ July 31, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 27
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: July 31, 1997
 ----
-⊹ I'Ll Be There For You (Theme From Friends) *by* The Rembrandts ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Rembrandts-Ill-Be-There-For-You-Theme-From-Friends/release/3510502">
+✺ I'Ll Be There For You (Theme From Friends) *by* The Rembrandts ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Rembrandts-Ill-Be-There-For-You-Theme-From-Friends/release/3510502">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✷ Watching The Wheels by John Lennon ✦ March 14, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 69
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: March 14, 2004
 ----
-✧ Watching The Wheels *by* John Lennon ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/John-Lennon-Watching-The-Wheels/master/479901">
+✷ Watching The Wheels *by* John Lennon ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/John-Lennon-Watching-The-Wheels/master/479901">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

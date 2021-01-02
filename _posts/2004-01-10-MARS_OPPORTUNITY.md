@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ Born To Run by Bruce Springsteen ✷ January 10, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 6
@@ -23,7 +24,7 @@ genres: ["Rock","Pop","Rock"]
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✧ Born To Run *by* Bruce Springsteen ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Bruce-Springsteen-Born-To-Run/master/26769">
+✵ Born To Run *by* Bruce Springsteen ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Bruce-Springsteen-Born-To-Run/master/26769">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

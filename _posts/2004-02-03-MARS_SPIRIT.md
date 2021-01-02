@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ⊹ Lean On Me by Club Nouveau ⊹ February 03, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 30
@@ -11,7 +12,7 @@ genres: ["Hip Hop"]
 ----
 ### DATE: February 03, 2004
 ----
-✦ Lean On Me *by* Club Nouveau ([Hip Hop](https://www.discogs.com/genre/Hip%20Hop): [RnB/Swing](https://www.discogs.com/style/RnB/Swing)) <a target="blank_" href="https://www.discogs.com/Club-Nouveau-Lean-On-Me/release/9579849">
+⊹ Lean On Me *by* Club Nouveau ([Hip Hop](https://www.discogs.com/genre/Hip%20Hop): [RnB/Swing](https://www.discogs.com/style/RnB/Swing)) <a target="blank_" href="https://www.discogs.com/Club-Nouveau-Lean-On-Me/release/9579849">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

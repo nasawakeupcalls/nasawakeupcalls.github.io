@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✺ Rawhide by Blues Brothers ✦ July 27, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 23
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: July 27, 1997
 ----
-✵ Rawhide *by* Blues Brothers ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Blues-Brothers-Theme-From-Rawhide/release/2827884">
+✺ Rawhide *by* Blues Brothers ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Blues-Brothers-Theme-From-Rawhide/release/2827884">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

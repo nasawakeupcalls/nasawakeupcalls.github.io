@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ⊹ Hail To The Chief by Mormon Tabernacle Choir ✵ January 08, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 4
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 08, 2004
 ----
-✫ Hail To The Chief *by* Mormon Tabernacle Choir  
+⊹ Hail To The Chief *by* Mormon Tabernacle Choir  
 
 #### Comment:
 * Presidential phone call.

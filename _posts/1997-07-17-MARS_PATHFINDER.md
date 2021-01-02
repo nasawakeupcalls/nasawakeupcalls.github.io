@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✫ Follow You, Follow Me by Genesis ✦ July 17, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 13
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: July 17, 1997
 ----
-⊹ Follow You, Follow Me *by* Genesis ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Genesis-Follow-You-Follow-Me/release/8565423">
+✫ Follow You, Follow Me *by* Genesis ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Genesis-Follow-You-Follow-Me/release/8565423">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

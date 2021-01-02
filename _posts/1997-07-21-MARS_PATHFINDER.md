@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✷ Roll To Me by Del Amitri ⊹ July 21, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 17
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: July 21, 1997
 ----
-✦ Roll To Me *by* Del Amitri ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Del-Amitri-Roll-To-Me/release/1972546">
+✷ Roll To Me *by* Del Amitri ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Del-Amitri-Roll-To-Me/release/1972546">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

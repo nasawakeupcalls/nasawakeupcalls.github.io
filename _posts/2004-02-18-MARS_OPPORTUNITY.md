@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ X-Ray Eyes by Kiss ✧ February 18, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 44
@@ -11,13 +12,13 @@ genres: ["Rock"]
 ----
 ### DATE: February 18, 2004
 ----
-⊹ Try (Just A Little Bit Harder) *by* Janis Joplin ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Janis-Joplin-Try-Just-A-Little-Bit-Harder/release/10960205">
+✵ Try (Just A Little Bit Harder) *by* Janis Joplin ([Rock](https://www.discogs.com/genre/Rock): [Blues Rock](https://www.discogs.com/style/Blues%20Rock)) <a target="blank_" href="https://www.discogs.com/Janis-Joplin-Try-Just-A-Little-Bit-Harder/release/10960205">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✷ X-Ray Eyes *by* Kiss  
+⊹ X-Ray Eyes *by* Kiss  
 
 #### Comment:
 * for the rock abrasion tool's second attempt at Mojo 2,

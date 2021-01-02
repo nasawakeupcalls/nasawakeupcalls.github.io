@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✷ Dreams by Van Halen ✫ July 30, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 26
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: July 30, 1997
 ----
-✦ Dreams *by* Van Halen ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Van-Halen-Dreams/master/61524">
+✷ Dreams *by* Van Halen ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Van-Halen-Dreams/master/61524">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

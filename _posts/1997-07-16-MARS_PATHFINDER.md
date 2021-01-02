@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✵ You'Ve Got A Friend by Randy Newman ✺ July 16, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 12
@@ -11,7 +12,7 @@ genres: ["Pop"]
 ----
 ### DATE: July 16, 1997
 ----
-✫ You'Ve Got A Friend *by* Randy Newman ([Pop](https://www.discogs.com/genre/Pop): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Randy-Newman-Youve-Got-A-Friend-In-Me-/release/8106301">
+✵ You'Ve Got A Friend *by* Randy Newman ([Pop](https://www.discogs.com/genre/Pop): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Randy-Newman-Youve-Got-A-Friend-In-Me-/release/8106301">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

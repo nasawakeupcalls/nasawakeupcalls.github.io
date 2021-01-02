@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✷ Let The Good Times Roll by B.B. King ⊹ March 19, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 73
@@ -11,7 +12,7 @@ genres: ["Blues"]
 ----
 ### DATE: March 19, 2004
 ----
-✵ Let The Good Times Roll *by* B.B. King ([Blues](https://www.discogs.com/genre/Blues)) <a target="blank_" href="https://www.discogs.com/BB-King-Let-The-Good-Times-Roll/release/6542896">
+✷ Let The Good Times Roll *by* B.B. King ([Blues](https://www.discogs.com/genre/Blues)) <a target="blank_" href="https://www.discogs.com/BB-King-Let-The-Good-Times-Roll/release/6542896">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

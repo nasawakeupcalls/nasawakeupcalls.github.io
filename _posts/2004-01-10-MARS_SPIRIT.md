@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ Get Up, Stand Up by Bob Marley ✺ January 10, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 6
@@ -11,7 +12,7 @@ genres: ["Reggae"]
 ----
 ### DATE: January 10, 2004
 ----
-✦ Get Up, Stand Up *by* Bob Marley ([Reggae](https://www.discogs.com/genre/Reggae)) <a target="blank_" href="https://www.discogs.com/Bob-Marley-Get-Up-Stand-Up/master/1551464">
+✫ Get Up, Stand Up *by* Bob Marley ([Reggae](https://www.discogs.com/genre/Reggae)) <a target="blank_" href="https://www.discogs.com/Bob-Marley-Get-Up-Stand-Up/master/1551464">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

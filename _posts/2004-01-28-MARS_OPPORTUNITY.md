@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ Trench Town Rock by Bob Marley ✺ January 28, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 24
@@ -11,7 +12,7 @@ genres: ["Reggae"]
 ----
 ### DATE: January 28, 2004
 ----
-✦ Trench Town Rock *by* Bob Marley ([Reggae](https://www.discogs.com/genre/Reggae): [Reggae](https://www.discogs.com/style/Reggae)) <a target="blank_" href="https://www.discogs.com/Bob-Marley-Trench-Town-Rock/master/425619">
+⊹ Trench Town Rock *by* Bob Marley ([Reggae](https://www.discogs.com/genre/Reggae): [Reggae](https://www.discogs.com/style/Reggae)) <a target="blank_" href="https://www.discogs.com/Bob-Marley-Trench-Town-Rock/master/425619">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

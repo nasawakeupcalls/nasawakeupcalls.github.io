@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ Should I Stay Or Should I Go by The Clash ✵ January 18, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 14
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 18, 2004
 ----
-✺ Should I Stay Or Should I Go *by* The Clash ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Clash-Should-I-Stay-Or-Should-I-Go/release/4889906">
+⊹ Should I Stay Or Should I Go *by* The Clash ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Clash-Should-I-Stay-Or-Should-I-Go/release/4889906">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

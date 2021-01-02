@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Crew Dragon Demo-2
+title:  "NASA Wakeup Calls: Crew Dragon Demo-2 ⊹ Planet Caravan by Black Sabbath ✵ May 31, 2020"
+blog_title: "Crew Dragon Demo-2"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2020-05-31
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: May 31, 2020
 ----
-✵ Planet Caravan *by* Black Sabbath ([Rock](https://www.discogs.com/genre/Rock): [Psychedelic Rock](https://www.discogs.com/style/Psychedelic%20Rock)) <a target="blank_" href="https://www.discogs.com/Black-Sabbath-Planet-Caravan-Solitude/release/1311219">
+⊹ Planet Caravan *by* Black Sabbath ([Rock](https://www.discogs.com/genre/Rock): [Psychedelic Rock](https://www.discogs.com/style/Psychedelic%20Rock)) <a target="blank_" href="https://www.discogs.com/Black-Sabbath-Planet-Caravan-Solitude/release/1311219">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ Fascination by Human League ✷ January 29, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 25
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: January 29, 2004
 ----
-✺ Fascination *by* Human League ([Electronic](https://www.discogs.com/genre/Electronic): [Synth-pop](https://www.discogs.com/style/Synth-pop)) <a target="blank_" href="https://www.discogs.com/Human-League-Fascination/master/53269">
+✫ Fascination *by* Human League ([Electronic](https://www.discogs.com/genre/Electronic): [Synth-pop](https://www.discogs.com/style/Synth-pop)) <a target="blank_" href="https://www.discogs.com/Human-League-Fascination/master/53269">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

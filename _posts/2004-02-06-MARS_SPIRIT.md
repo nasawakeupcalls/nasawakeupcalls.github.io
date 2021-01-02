@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✺ The Star Spangled Banner by Beyonce ⊹ February 06, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 33
@@ -11,7 +12,7 @@ genres: ["Folk, World, & Country","Brass & Military"]
 ----
 ### DATE: February 06, 2004
 ----
-✧ Back In The Saddle Again *by* Gene Autry ([Folk, World, & Country](https://www.discogs.com/genre/Folk%2C%20World%2C%20%26%20Country): [Country](https://www.discogs.com/style/Country)) <a target="blank_" href="https://www.discogs.com/Gene-Autry-Back-In-The-Saddle-Again/release/10055137">
+✦ Back In The Saddle Again *by* Gene Autry ([Folk, World, & Country](https://www.discogs.com/genre/Folk%2C%20World%2C%20%26%20Country): [Country](https://www.discogs.com/style/Country)) <a target="blank_" href="https://www.discogs.com/Gene-Autry-Back-In-The-Saddle-Again/release/10055137">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

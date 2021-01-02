@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  APOLLO-SOYUZ TEST PROJECT (ASTP)
+title:  "NASA Wakeup Calls: APOLLO-SOYUZ TEST PROJECT (ASTP) ✵ Midnight In Moscow by Unidentified ✷ July 18, 1975"
+blog_title: "APOLLO-SOYUZ TEST PROJECT (ASTP)"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1975-07-18
@@ -11,7 +12,7 @@ genres: ["Jazz"]
 ----
 ### DATE: July 18, 1975
 ----
-⊹ Midnight In Moscow *by* Unidentified ([Jazz](https://www.discogs.com/genre/Jazz)) <a target="blank_" href="https://www.discogs.com/Al-Caiola-And-His-Magnificent-Seven-Midnight-In-Moscow/release/12334074">
+✵ Midnight In Moscow *by* Unidentified ([Jazz](https://www.discogs.com/genre/Jazz)) <a target="blank_" href="https://www.discogs.com/Al-Caiola-And-His-Magnificent-Seven-Midnight-In-Moscow/release/12334074">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ Slip Slidin' Away by Paul Simon ✺ January 20, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 16
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 20, 2004
 ----
-✧ Slip Slidin' Away *by* Paul Simon ([Rock](https://www.discogs.com/genre/Rock): [Folk Rock](https://www.discogs.com/style/Folk%20Rock)) <a target="blank_" href="https://www.discogs.com/Paul-Simon-Slip-Slidin-Away/release/1560052">
+✵ Slip Slidin' Away *by* Paul Simon ([Rock](https://www.discogs.com/genre/Rock): [Folk Rock](https://www.discogs.com/style/Folk%20Rock)) <a target="blank_" href="https://www.discogs.com/Paul-Simon-Slip-Slidin-Away/release/1560052">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

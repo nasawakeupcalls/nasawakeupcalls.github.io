@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Trash Day by Weird Al Yankovic ✫ January 20, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 16
@@ -17,7 +18,7 @@ genres: ["Rock"]
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-⊹ Trash Day *by* Weird Al Yankovic  
+✦ Trash Day *by* Weird Al Yankovic  
 
 #### Comment:
 * Crew starts Mars day after California midnight, part of the sol dedicated to deleting contents of flash.

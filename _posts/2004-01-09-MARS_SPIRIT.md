@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✷ Satisfaction by The Rolling Stones ⊹ January 09, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 5
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 09, 2004
 ----
-⊹ Satisfaction *by* The Rolling Stones ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/The-Rolling-Stones-Satisfaction/master/580431">
+✷ Satisfaction *by* The Rolling Stones ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/The-Rolling-Stones-Satisfaction/master/580431">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

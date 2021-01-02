@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✧ If You Don't Get It The First Time, Back Up And Try It Again by Fred Wesley & The JB's ✵ March 02, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 57
@@ -11,7 +12,7 @@ genres: ["Funk / Soul"]
 ----
 ### DATE: March 02, 2004
 ----
-✵ If You Don't Get It The First Time, Back Up And Try It Again *by* Fred Wesley & The JB's ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Funk](https://www.discogs.com/style/Funk)) <a target="blank_" href="https://www.discogs.com/Fred-Wesley-The-JBs-If-You-Dont-Get-It-The-First-Time-Back-Up-And-Try-It-Again-Party/release/8268708">
+✧ If You Don't Get It The First Time, Back Up And Try It Again *by* Fred Wesley & The JB's ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Funk](https://www.discogs.com/style/Funk)) <a target="blank_" href="https://www.discogs.com/Fred-Wesley-The-JBs-If-You-Dont-Get-It-The-First-Time-Back-Up-And-Try-It-Again-Party/release/8268708">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

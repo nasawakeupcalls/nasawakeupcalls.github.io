@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ On The Road Again by Willie Nelson ✧ February 15, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 41
@@ -11,7 +12,7 @@ genres: ["Folk, World, & Country"]
 ----
 ### DATE: February 15, 2004
 ----
-✵ On The Road Again *by* Willie Nelson ([Folk, World, & Country](https://www.discogs.com/genre/Folk%2C%20World%2C%20%26%20Country): [Country](https://www.discogs.com/style/Country)) <a target="blank_" href="https://www.discogs.com/Willie-Nelson-On-The-Road-Again/release/3840989">
+✫ On The Road Again *by* Willie Nelson ([Folk, World, & Country](https://www.discogs.com/genre/Folk%2C%20World%2C%20%26%20Country): [Country](https://www.discogs.com/style/Country)) <a target="blank_" href="https://www.discogs.com/Willie-Nelson-On-The-Road-Again/release/3840989">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

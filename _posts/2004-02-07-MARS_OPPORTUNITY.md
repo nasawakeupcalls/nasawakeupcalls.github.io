@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ Dig In by Lenny Kravitz ✦ February 07, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 34
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: February 07, 2004
 ----
-✷ Dig In *by* Lenny Kravitz ([Electronic](https://www.discogs.com/genre/Electronic): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Lenny-Kravitz-%E3%83%AC%E3%83%8B%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84-Dig-In/release/8990153">
+⊹ Dig In *by* Lenny Kravitz ([Electronic](https://www.discogs.com/genre/Electronic): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Lenny-Kravitz-%E3%83%AC%E3%83%8B%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84-Dig-In/release/8990153">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ The Spirit Of Radio by Rush ✦ January 07, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 3
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: January 07, 2004
 ----
-⊹ The Spirit Of Radio *by* Rush ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Rush-The-Spirit-Of-Radio/master/41723">
+✵ The Spirit Of Radio *by* Rush ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Rush-The-Spirit-Of-Radio/master/41723">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

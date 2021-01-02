@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✷ S.O.S. by ABBA ✧ January 23, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 19
@@ -11,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: January 23, 2004
 ----
-⊹ S.O.S. *by* ABBA ([Electronic](https://www.discogs.com/genre/Electronic): [Europop](https://www.discogs.com/style/Europop)) <a target="blank_" href="https://www.discogs.com/ABBA-SOS/master/1520754">
+✷ S.O.S. *by* ABBA ([Electronic](https://www.discogs.com/genre/Electronic): [Europop](https://www.discogs.com/style/Europop)) <a target="blank_" href="https://www.discogs.com/ABBA-SOS/master/1520754">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

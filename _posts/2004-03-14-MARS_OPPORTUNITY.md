@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ Little Maggie by Tom Adams ✫ March 14, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 69
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: March 14, 2004
 ----
-✦ Little Maggie *by* Tom Adams  
+⊹ Little Maggie *by* Tom Adams  
 
 #### Comment:
 * chosen for the soil target named Maggie.

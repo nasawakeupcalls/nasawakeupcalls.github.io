@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ I'M Coiming Out by Diana Ross ✦ January 13, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 9
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 13, 2004
 ----
-✵ I'M Coiming Out *by* Diana Ross  
+✫ I'M Coiming Out *by* Diana Ross  
 
 #### Comment:
 * IDD release.

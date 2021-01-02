@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✫ Let The Good Times Roll by Ray Charles ✵ July 22, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 18
@@ -11,7 +12,7 @@ genres: ["Pop"]
 ----
 ### DATE: July 22, 1997
 ----
-✦ Let The Good Times Roll *by* Ray Charles ([Pop](https://www.discogs.com/genre/Pop): [Vocal](https://www.discogs.com/style/Vocal)) <a target="blank_" href="https://www.discogs.com/Ray-Charles-Let-The-Good-Times-Roll/release/11168665">
+✫ Let The Good Times Roll *by* Ray Charles ([Pop](https://www.discogs.com/genre/Pop): [Vocal](https://www.discogs.com/style/Vocal)) <a target="blank_" href="https://www.discogs.com/Ray-Charles-Let-The-Good-Times-Roll/release/11168665">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

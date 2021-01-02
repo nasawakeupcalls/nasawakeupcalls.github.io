@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✫ Dust In The Wind by Kansas ✧ February 27, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 53
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 27, 2004
 ----
-✧ Dust In The Wind *by* Kansas ([Rock](https://www.discogs.com/genre/Rock): [Acoustic](https://www.discogs.com/style/Acoustic)) <a target="blank_" href="https://www.discogs.com/Kansas-Dust-In-The-Wind/master/56479">
+✫ Dust In The Wind *by* Kansas ([Rock](https://www.discogs.com/genre/Rock): [Acoustic](https://www.discogs.com/style/Acoustic)) <a target="blank_" href="https://www.discogs.com/Kansas-Dust-In-The-Wind/master/56479">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

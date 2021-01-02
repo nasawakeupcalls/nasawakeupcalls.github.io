@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✧ You'Ve Got The Magic Touch by The Platters ✷ January 18, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 14
@@ -11,7 +12,7 @@ genres: ["Funk / Soul"]
 ----
 ### DATE: January 18, 2004
 ----
-⊹ You'Ve Got The Magic Touch *by* The Platters ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/The-Platters-Youve-Got-The-Magic-Touch/release/10123840">
+✧ You'Ve Got The Magic Touch *by* The Platters ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Rhythm & Blues](https://www.discogs.com/style/Rhythm%20%26%20Blues)) <a target="blank_" href="https://www.discogs.com/The-Platters-Youve-Got-The-Magic-Touch/release/10123840">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

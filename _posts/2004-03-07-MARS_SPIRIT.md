@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✺ My First Trip To Mars by Atticus Fault ✧ March 07, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 62
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: March 07, 2004
 ----
-✷ My First Trip To Mars *by* Atticus Fault  
+✺ My First Trip To Mars *by* Atticus Fault  
 
 #### Comment:
 * No mission comment

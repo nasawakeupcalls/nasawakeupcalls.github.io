@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ⊹ Baby, Talk To Me, From The Musical Bye Bye Birdie by Unidentified ✫ January 24, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 20
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 24, 2004
 ----
-✫ Baby, Talk To Me, From The Musical Bye Bye Birdie *by* Unidentified  
+⊹ Baby, Talk To Me, From The Musical Bye Bye Birdie *by* Unidentified  
 
 #### Comment:
 * (Objective was to get Spirit to send data. She did.

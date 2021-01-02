@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✺ Meet Me Halfway by Kenny Loggins ✷ February 19, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 45
@@ -11,13 +12,13 @@ genres: ["Rock"]
 ----
 ### DATE: February 19, 2004
 ----
-⊹ Eclipse *by* Pink Floyd ([Rock](https://www.discogs.com/genre/Rock): [Psychedelic Rock](https://www.discogs.com/style/Psychedelic%20Rock)) <a target="blank_" href="https://www.discogs.com/Pink-Floyd-Total-Eclipse/master/610754">
+✺ Eclipse *by* Pink Floyd ([Rock](https://www.discogs.com/genre/Rock): [Psychedelic Rock](https://www.discogs.com/style/Psychedelic%20Rock)) <a target="blank_" href="https://www.discogs.com/Pink-Floyd-Total-Eclipse/master/610754">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-⊹ Meet Me Halfway *by* Kenny Loggins  
+✺ Meet Me Halfway *by* Kenny Loggins  
 
 #### Comment:
 * in recognition of the transit of the martian moon, Phobos.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✷ The Flintstones Theme Song, End Credits, Version 2 From 1962 by Unidentified ⊹ January 19, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 15
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: January 19, 2004
 ----
-✫ The Flintstones Theme Song, End Credits, Version 2 From 1962 *by* Unidentified  
+✷ The Flintstones Theme Song, End Credits, Version 2 From 1962 *by* Unidentified  
 
 #### Comment:
 * (For the arrival at the bedrock.)

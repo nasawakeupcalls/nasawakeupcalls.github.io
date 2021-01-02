@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ 59Th Street Bridge Song (Feeling Groovy) by Simon & Garfunkel ✷ March 04, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 59
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: March 04, 2004
 ----
-✦ 59Th Street Bridge Song (Feeling Groovy) *by* Simon & Garfunkel  
+✫ 59Th Street Bridge Song (Feeling Groovy) *by* Simon & Garfunkel  
 
 #### Comment:
 * No mission comment

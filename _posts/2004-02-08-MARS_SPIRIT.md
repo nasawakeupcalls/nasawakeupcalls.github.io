@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✺ Up Around The Bend by Creedence Clearwater Revival ✵ February 08, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 35
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 08, 2004
 ----
-✧ Up Around The Bend *by* Creedence Clearwater Revival ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Creedence-Clearwater-Revival-Up-Around-The-Bend/master/1431945">
+✺ Up Around The Bend *by* Creedence Clearwater Revival ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/Creedence-Clearwater-Revival-Up-Around-The-Bend/master/1431945">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

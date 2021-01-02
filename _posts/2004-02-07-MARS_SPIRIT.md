@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Bump N' Grind by R. Kelly ✺ February 07, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 34
@@ -12,7 +13,7 @@ genres: ["Hip Hop"]
 ### DATE: February 07, 2004
 ----
 ✺ The Laundry Cycle: Pounded On A Rock *by* The Bobs    &nbsp;<br />
-✷ Bump N' Grind *by* R. Kelly ([Hip Hop](https://www.discogs.com/genre/Hip%20Hop): [RnB/Swing](https://www.discogs.com/style/RnB/Swing)) <a target="blank_" href="https://www.discogs.com/R-Kelly-Bump-N-Grind/master/121448">
+✦ Bump N' Grind *by* R. Kelly ([Hip Hop](https://www.discogs.com/genre/Hip%20Hop): [RnB/Swing](https://www.discogs.com/style/RnB/Swing)) <a target="blank_" href="https://www.discogs.com/R-Kelly-Bump-N-Grind/master/121448">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

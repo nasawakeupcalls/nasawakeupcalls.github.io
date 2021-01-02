@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✷ Love Me Like A Rock by Paul Simon ✫ August 05, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 32
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: August 05, 1997
 ----
-✧ Love Me Like A Rock *by* Paul Simon ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Paul-Simon-Loves-Me-Like-A-Rock/release/6733591">
+✷ Love Me Like A Rock *by* Paul Simon ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Paul-Simon-Loves-Me-Like-A-Rock/release/6733591">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

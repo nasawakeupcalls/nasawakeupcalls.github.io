@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✺ Got To Go Back by Van Morrison ✧ March 13, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 68
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: March 13, 2004
 ----
-✫ Got To Go Back *by* Van Morrison ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Van-Morrison-Got-To-Go-Back/release/6384657">
+✺ Got To Go Back *by* Van Morrison ([Rock](https://www.discogs.com/genre/Rock)) <a target="blank_" href="https://www.discogs.com/Van-Morrison-Got-To-Go-Back/release/6384657">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

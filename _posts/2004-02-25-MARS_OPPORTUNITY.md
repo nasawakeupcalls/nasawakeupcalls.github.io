@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ Song Of The South by Alabama ✦ February 25, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 51
@@ -11,7 +12,7 @@ genres: ["Folk, World, & Country"]
 ----
 ### DATE: February 25, 2004
 ----
-✧ Song Of The South *by* Alabama ([Folk, World, & Country](https://www.discogs.com/genre/Folk%2C%20World%2C%20%26%20Country): [Country](https://www.discogs.com/style/Country)) <a target="blank_" href="https://www.discogs.com/Alabama-Song-Of-The-South/release/9060688">
+✫ Song Of The South *by* Alabama ([Folk, World, & Country](https://www.discogs.com/genre/Folk%2C%20World%2C%20%26%20Country): [Country](https://www.discogs.com/style/Country)) <a target="blank_" href="https://www.discogs.com/Alabama-Song-Of-The-South/release/9060688">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

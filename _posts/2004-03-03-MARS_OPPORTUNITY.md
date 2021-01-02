@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ Come On Home by Lambert, Hendricks and Ross ✧ March 03, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 58
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: March 03, 2004
 ----
-✦ Come On Home *by* Lambert, Hendricks and Ross  
+✫ Come On Home *by* Lambert, Hendricks and Ross  
 
 #### Comment:
 * beckoned Opportunity back toward its landing site crater to an area of bright material.

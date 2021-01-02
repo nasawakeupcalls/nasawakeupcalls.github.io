@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✷ Turn! Turn! Turn! by The Byrds ✦ January 14, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 10
@@ -11,19 +12,19 @@ genres: ["Rock","Rock","Rock"]
 ----
 ### DATE: January 14, 2004
 ----
-⊹ Unchained *by* Van Halen ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Van-Halen-Unchained/master/371365">
+✵ Unchained *by* Van Halen ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Van-Halen-Unchained/master/371365">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-⊹ Hit The Road Jack *by* Buster Poindexter ([Rock](https://www.discogs.com/genre/Rock): [Soundtrack](https://www.discogs.com/style/Soundtrack)) <a target="blank_" href="https://www.discogs.com/Buster-Poindexter-And-His-Banshees-Of-Blue-Hit-The-Road-Jack/release/5675984">
+✵ Hit The Road Jack *by* Buster Poindexter ([Rock](https://www.discogs.com/genre/Rock): [Soundtrack](https://www.discogs.com/style/Soundtrack)) <a target="blank_" href="https://www.discogs.com/Buster-Poindexter-And-His-Banshees-Of-Blue-Hit-The-Road-Jack/release/5675984">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✫ Turn! Turn! Turn! *by* The Byrds ([Rock](https://www.discogs.com/genre/Rock): [Folk Rock](https://www.discogs.com/style/Folk%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Byrds-Turn-Turn-Turn/release/2176700">
+✷ Turn! Turn! Turn! *by* The Byrds ([Rock](https://www.discogs.com/genre/Rock): [Folk Rock](https://www.discogs.com/style/Folk%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Byrds-Turn-Turn-Turn/release/2176700">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

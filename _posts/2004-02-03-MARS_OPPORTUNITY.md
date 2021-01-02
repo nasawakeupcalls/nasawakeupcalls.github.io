@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ Rock 'n Me by Steve Miller Band ⊹ February 03, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 30
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 03, 2004
 ----
-✫ Rock 'n Me *by* Steve Miller Band ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Steve-Miller-Band-Rockn-Me/master/451275">
+✵ Rock 'n Me *by* Steve Miller Band ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Steve-Miller-Band-Rockn-Me/master/451275">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

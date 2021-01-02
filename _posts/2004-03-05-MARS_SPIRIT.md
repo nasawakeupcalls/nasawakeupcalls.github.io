@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✵ Pictures To Prove It by The Mighty Mighty Bosstones ✧ March 05, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 60
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: March 05, 2004
 ----
-✦ Pictures To Prove It *by* The Mighty Mighty Bosstones ([Rock](https://www.discogs.com/genre/Rock): [Ska](https://www.discogs.com/style/Ska)) <a target="blank_" href="https://www.discogs.com/The-Mighty-Mighty-Bosstones-Pictures-To-Prove-It/master/489001">
+✵ Pictures To Prove It *by* The Mighty Mighty Bosstones ([Rock](https://www.discogs.com/genre/Rock): [Ska](https://www.discogs.com/style/Ska)) <a target="blank_" href="https://www.discogs.com/The-Mighty-Mighty-Bosstones-Pictures-To-Prove-It/master/489001">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

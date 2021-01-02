@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✵ You Spin Me Round by Dead or Alive ✫ January 15, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 11
@@ -11,19 +12,19 @@ genres: ["Rock","Rock","Electronic"]
 ----
 ### DATE: January 15, 2004
 ----
-✵ I Get Around *by* The Beach Boys ([Rock](https://www.discogs.com/genre/Rock): [Surf](https://www.discogs.com/style/Surf)) <a target="blank_" href="https://www.discogs.com/The-Beach-Boys-I-Get-Around/master/1649737">
+✷ I Get Around *by* The Beach Boys ([Rock](https://www.discogs.com/genre/Rock): [Surf](https://www.discogs.com/style/Surf)) <a target="blank_" href="https://www.discogs.com/The-Beach-Boys-I-Get-Around/master/1649737">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-⊹ Round And Round *by* Ratt ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Ratt-Round-And-Round/master/1415100">
+✺ Round And Round *by* Ratt ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Ratt-Round-And-Round/master/1415100">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✷ You Spin Me Round *by* Dead or Alive ([Electronic](https://www.discogs.com/genre/Electronic): [Hi NRG](https://www.discogs.com/style/Hi%20NRG)) <a target="blank_" href="https://www.discogs.com/Dead-Or-Alive-You-Spin-Me-Round/release/13146894">
+✵ You Spin Me Round *by* Dead or Alive ([Electronic](https://www.discogs.com/genre/Electronic): [Hi NRG](https://www.discogs.com/style/Hi%20NRG)) <a target="blank_" href="https://www.discogs.com/Dead-Or-Alive-You-Spin-Me-Round/release/13146894">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

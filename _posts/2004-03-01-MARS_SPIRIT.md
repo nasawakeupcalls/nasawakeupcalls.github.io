@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✵ Walking On Sunshine by Jump 5 ✦ March 01, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 56
@@ -11,7 +12,7 @@ genres: []
 ----
 ### DATE: March 01, 2004
 ----
-⊹ Walking On Sunshine *by* Jump 5  
+✵ Walking On Sunshine *by* Jump 5  
 
 #### Comment:
 * No mission comment

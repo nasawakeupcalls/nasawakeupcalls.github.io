@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✫ Rock Around The Clock by Bill Haley and His Comets ✺ February 04, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 31
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: February 04, 2004
 ----
-✺ Rock Around The Clock *by* Bill Haley and His Comets ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/Bill-Haley-And-His-Comets-Rock-Around-The-Clock/master/1208342">
+✫ Rock Around The Clock *by* Bill Haley and His Comets ([Rock](https://www.discogs.com/genre/Rock): [Rock & Roll](https://www.discogs.com/style/Rock%20%26%20Roll)) <a target="blank_" href="https://www.discogs.com/Bill-Haley-And-His-Comets-Rock-Around-The-Clock/master/1208342">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

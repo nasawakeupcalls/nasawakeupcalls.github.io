@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ Truckin' by The Grateful Dead ✵ March 15, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 70
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: March 15, 2004
 ----
-✺ Truckin' *by* The Grateful Dead ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Grateful-Dead-Truckin/release/10012121">
+✵ Truckin' *by* The Grateful Dead ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Grateful-Dead-Truckin/release/10012121">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

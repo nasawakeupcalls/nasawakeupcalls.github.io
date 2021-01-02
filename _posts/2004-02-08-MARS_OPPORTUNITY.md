@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS OPPORTUNITY
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✧ I Can See Clearly Now by Jimmy Cliff ✷ February 08, 2004"
+blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 35
@@ -11,7 +12,7 @@ genres: ["Reggae"]
 ----
 ### DATE: February 08, 2004
 ----
-✺ I Can See Clearly Now *by* Jimmy Cliff ([Reggae](https://www.discogs.com/genre/Reggae)) <a target="blank_" href="https://www.discogs.com/Jimmy-Cliff-I-Can-See-Clearly-Now/release/2552722">
+✧ I Can See Clearly Now *by* Jimmy Cliff ([Reggae](https://www.discogs.com/genre/Reggae)) <a target="blank_" href="https://www.discogs.com/Jimmy-Cliff-I-Can-See-Clearly-Now/release/2552722">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

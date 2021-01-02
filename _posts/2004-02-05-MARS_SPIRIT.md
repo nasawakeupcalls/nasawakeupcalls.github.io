@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS SPIRIT
+title:  "NASA Wakeup Calls: MARS SPIRIT ✦ We'Re Not Gonna Take It by Twisted Sister ✧ February 05, 2004"
+blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 2004-01-04:Sol 32
@@ -11,13 +12,13 @@ genres: ["Rock","Rock"]
 ----
 ### DATE: February 05, 2004
 ----
-✫ Wipe Out *by* The Surfaris ([Rock](https://www.discogs.com/genre/Rock): [Surf](https://www.discogs.com/style/Surf)) <a target="blank_" href="https://www.discogs.com/The-Surfaris-Wipe-Out/master/1366175">
+✷ Wipe Out *by* The Surfaris ([Rock](https://www.discogs.com/genre/Rock): [Surf](https://www.discogs.com/style/Surf)) <a target="blank_" href="https://www.discogs.com/The-Surfaris-Wipe-Out/master/1366175">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✷ We'Re Not Gonna Take It *by* Twisted Sister ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Twisted-Sister-Were-Not-Gonna-Take-It/release/13361515">
+✦ We'Re Not Gonna Take It *by* Twisted Sister ([Rock](https://www.discogs.com/genre/Rock): [Hard Rock](https://www.discogs.com/style/Hard%20Rock)) <a target="blank_" href="https://www.discogs.com/Twisted-Sister-Were-Not-Gonna-Take-It/release/13361515">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

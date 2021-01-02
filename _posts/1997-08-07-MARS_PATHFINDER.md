@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✵ Let Your Fingers Do The Walking by Sort Sol ⊹ August 07, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 34
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: August 07, 1997
 ----
-✫ Let Your Fingers Do The Walking *by* Sort Sol ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/Sort-Sol-Let-Your-Fingers-Do-The-Walking/release/2107161">
+✵ Let Your Fingers Do The Walking *by* Sort Sol ([Rock](https://www.discogs.com/genre/Rock): [Alternative Rock](https://www.discogs.com/style/Alternative%20Rock)) <a target="blank_" href="https://www.discogs.com/Sort-Sol-Let-Your-Fingers-Do-The-Walking/release/2107161">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"

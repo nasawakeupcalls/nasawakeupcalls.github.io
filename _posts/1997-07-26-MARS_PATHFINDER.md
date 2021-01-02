@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  MARS PATHFINDER
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✺ Wild, Wild Life by Talking Heads ✵ July 26, 1997"
+blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: 1997-07-04:Sol 22
@@ -11,7 +12,7 @@ genres: ["Rock"]
 ----
 ### DATE: July 26, 1997
 ----
-✦ Wild, Wild Life *by* Talking Heads ([Rock](https://www.discogs.com/genre/Rock): [Indie Rock](https://www.discogs.com/style/Indie%20Rock)) <a target="blank_" href="https://www.discogs.com/Talking-Heads-Wild-Wild-Life/master/39400">
+✺ Wild, Wild Life *by* Talking Heads ([Rock](https://www.discogs.com/genre/Rock): [Indie Rock](https://www.discogs.com/style/Indie%20Rock)) <a target="blank_" href="https://www.discogs.com/Talking-Heads-Wild-Wild-Life/master/39400">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
