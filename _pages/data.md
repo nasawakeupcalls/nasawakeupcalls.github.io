@@ -1,6 +1,7 @@
 ---
 layout: general
-title: "Data"
+title: "NASA Wakeup Calls: Data"
+blog_title: "Data"
 author: "NASA: Music to wake up by"
 type: Dataset
 permalink: /data/

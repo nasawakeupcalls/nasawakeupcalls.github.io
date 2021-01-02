@@ -1,6 +1,7 @@
 ---
 layout: general
-title: "Search"
+title: "NASA Wakeup Calls: Search"
+blog_title: "Search"
 author: "NASA: Music to wake up by"
 permalink: /search/
 last_modified_at: 2019-02-20
@@ -16,7 +17,7 @@ last_modified_at: 2019-02-20
   window.store = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
-        "title": "{{ post.title | xml_escape }}",
+        "title": "{{ post.blog_title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | jsonify }},

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "About"
+title: "NASA Wakeup Calls: About"
+blog_title: "About"
 author: "NASA: Music to Wake Up By"
 type: AboutPage
 permalink: /about/
