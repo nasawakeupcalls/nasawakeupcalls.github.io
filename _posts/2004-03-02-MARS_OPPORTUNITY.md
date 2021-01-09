@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✧ If You Don't Get It The First Time, Back Up And Try It Again by Fred Wesley & The JB's ✵ March 02, 2004"
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ If You Don't Get It The First Time, Back Up And Try It Again by Fred Wesley & The JB's ✧ March 02, 2004"
 blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
@@ -12,7 +12,7 @@ genres: ["Funk / Soul"]
 ----
 ### DATE: March 02, 2004
 ----
-✧ If You Don't Get It The First Time, Back Up And Try It Again *by* Fred Wesley & The JB's ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Funk](https://www.discogs.com/style/Funk)) <a target="blank_" href="https://www.discogs.com/Fred-Wesley-The-JBs-If-You-Dont-Get-It-The-First-Time-Back-Up-And-Try-It-Again-Party/release/8268708">
+✵ If You Don't Get It The First Time, Back Up And Try It Again *by* Fred Wesley & The JB's ([Funk / Soul](https://www.discogs.com/genre/Funk%20/%20Soul): [Funk](https://www.discogs.com/style/Funk)) <a target="blank_" href="https://www.discogs.com/Fred-Wesley-The-JBs-If-You-Dont-Get-It-The-First-Time-Back-Up-And-Try-It-Again-Party/release/8268708">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
@@ -27,7 +27,7 @@ genres: ["Funk / Soul"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"

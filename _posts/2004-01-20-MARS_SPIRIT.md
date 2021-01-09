@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA Wakeup Calls: MARS SPIRIT ✦ Trash Day by Weird Al Yankovic ✫ January 20, 2004"
+title:  "NASA Wakeup Calls: MARS SPIRIT ⊹ Trash Day by Weird Al Yankovic ✵ January 20, 2004"
 blog_title: "MARS SPIRIT"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
@@ -18,7 +18,7 @@ genres: ["Rock"]
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✦ Trash Day *by* Weird Al Yankovic  
+⊹ Trash Day *by* Weird Al Yankovic  
 
 #### Comment:
 * Crew starts Mars day after California midnight, part of the sol dedicated to deleting contents of flash.
@@ -29,7 +29,7 @@ genres: ["Rock"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"

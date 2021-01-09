@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✷ Let The Good Times Roll by B.B. King ⊹ March 19, 2004"
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ Let The Good Times Roll by B.B. King ✧ March 19, 2004"
 blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
@@ -12,7 +12,7 @@ genres: ["Blues"]
 ----
 ### DATE: March 19, 2004
 ----
-✷ Let The Good Times Roll *by* B.B. King ([Blues](https://www.discogs.com/genre/Blues)) <a target="blank_" href="https://www.discogs.com/BB-King-Let-The-Good-Times-Roll/release/6542896">
+⊹ Let The Good Times Roll *by* B.B. King ([Blues](https://www.discogs.com/genre/Blues)) <a target="blank_" href="https://www.discogs.com/BB-King-Let-The-Good-Times-Roll/release/6542896">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
@@ -27,7 +27,7 @@ genres: ["Blues"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"

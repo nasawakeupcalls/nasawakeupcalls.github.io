@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✵ Going Mobile by The Who ✵ January 11, 2004"
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✺ Going Mobile by The Who ✧ January 11, 2004"
 blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
@@ -12,13 +12,13 @@ genres: ["Rock","Rock"]
 ----
 ### DATE: January 11, 2004
 ----
-✷ I'M Free *by* The Who ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Who-Im-Free/master/326204">
+✵ I'M Free *by* The Who ([Rock](https://www.discogs.com/genre/Rock): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Who-Im-Free/master/326204">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
        style="font-size: 1.1em;"></i></a>
       &nbsp;<br />
-✵ Going Mobile *by* The Who ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Who-Going-Mobile/release/3569449">
+✺ Going Mobile *by* The Who ([Rock](https://www.discogs.com/genre/Rock): [Classic Rock](https://www.discogs.com/style/Classic%20Rock)) <a target="blank_" href="https://www.discogs.com/The-Who-Going-Mobile/release/3569449">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
@@ -34,7 +34,7 @@ Egress.
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"
