@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA Wakeup Calls: MARS OPPORTUNITY ⊹ Dig In by Lenny Kravitz ✧ February 07, 2004"
+title:  "NASA Wakeup Calls: MARS OPPORTUNITY ✺ Dig In by Lenny Kravitz ✷ February 07, 2004"
 blog_title: "MARS OPPORTUNITY"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
@@ -12,7 +12,7 @@ genres: ["Electronic"]
 ----
 ### DATE: February 07, 2004
 ----
-⊹ Dig In *by* Lenny Kravitz ([Electronic](https://www.discogs.com/genre/Electronic): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Lenny-Kravitz-%E3%83%AC%E3%83%8B%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84-Dig-In/release/8990153">
+✺ Dig In *by* Lenny Kravitz ([Electronic](https://www.discogs.com/genre/Electronic): [Pop Rock](https://www.discogs.com/style/Pop%20Rock)) <a target="blank_" href="https://www.discogs.com/Lenny-Kravitz-%E3%83%AC%E3%83%8B%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%83%E3%83%84-Dig-In/release/8990153">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
@@ -27,7 +27,7 @@ genres: ["Electronic"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, {{ page.title }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"

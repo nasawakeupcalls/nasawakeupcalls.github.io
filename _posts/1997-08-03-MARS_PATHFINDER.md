@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA Wakeup Calls: MARS PATHFINDER ⊹ Fantastic, That's You by Louis Armstrong ✷ August 03, 1997"
+title:  "NASA Wakeup Calls: MARS PATHFINDER ✵ Fantastic, That's You by Louis Armstrong ⊹ August 03, 1997"
 blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
@@ -12,8 +12,8 @@ genres: []
 ----
 ### DATE: August 03, 1997
 ----
-⊹ The Way You Look Tonight *by* Frank Sinatra    &nbsp;<br />
-⊹ Fantastic, That's You *by* Louis Armstrong  
+✺ The Way You Look Tonight *by* Frank Sinatra    &nbsp;<br />
+✵ Fantastic, That's You *by* Louis Armstrong  
 
 #### Comment:
 * No mission comment
@@ -23,7 +23,7 @@ genres: []
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, {{ page.title }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"

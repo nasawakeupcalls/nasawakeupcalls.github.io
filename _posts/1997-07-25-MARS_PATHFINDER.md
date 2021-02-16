@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NASA Wakeup Calls: MARS PATHFINDER ✧ Ride Of The Valkyries by Richard Wagner ✫ July 25, 1997"
+title:  "NASA Wakeup Calls: MARS PATHFINDER ⊹ Ride Of The Valkyries by Richard Wagner ✵ July 25, 1997"
 blog_title: "MARS PATHFINDER"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
@@ -12,7 +12,7 @@ genres: ["Classical"]
 ----
 ### DATE: July 25, 1997
 ----
-✧ Ride Of The Valkyries *by* Richard Wagner ([Classical](https://www.discogs.com/genre/Classical): [Romantic](https://www.discogs.com/style/Romantic)) <a target="blank_" href="https://www.discogs.com/Wagner-Ride-Of-The-Valkyries/release/1031370">
+⊹ Ride Of The Valkyries *by* Richard Wagner ([Classical](https://www.discogs.com/genre/Classical): [Romantic](https://www.discogs.com/style/Romantic)) <a target="blank_" href="https://www.discogs.com/Wagner-Ride-Of-The-Valkyries/release/1031370">
     <i class="fas fa-compact-disc"
        title="Discogs entry for this song"
        alt="Discogs entry for this song"
@@ -27,7 +27,7 @@ genres: ["Classical"]
 <br/>
 <center>
 	<a target="_blank"
-	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text=🚀 {{ page.author}}, {{ page.title }}. {{ site.url }}{{ page.url }}&via=nasawakeupcalls"><i class="fab fa-twitter" title="Tweet this page" alt="Tweet this page" style="font-size: 1.3em;"></i></a>
 	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.5em;"></i> &nbsp;
     <a id="custom_amazon_link"
        type="amzn" search="#"
